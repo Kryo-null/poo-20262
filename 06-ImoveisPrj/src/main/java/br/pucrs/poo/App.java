@@ -10,6 +10,7 @@ public class App {
         // 200,
         // new Geo(10,20));
 
+        CadastroImoveis cadastro = new CadastroImoveis();
         try {
             Imovel i1 = new Residencial("alex",
                     200,
@@ -24,21 +25,24 @@ public class App {
             Imovel i4 = new Comercial("hugo", 200,
                     new Geo(10, 20));
 
-            CadastroImoveis cadastro = new CadastroImoveis();
             cadastro.cadastrar(i1);
             cadastro.cadastrar(i3);
             cadastro.cadastrar(i4);
             cadastro.cadastrar(i2);
 
-            // String relat = cadastro.listar();
-            // System.out.println( relat );
-
-            System.out.println(cadastro.listar());
-
-            cadastro.listar("hugo");
+            Imovel erro = new Comercial("", 200,
+                    new Geo(10, 20));
+            cadastro.cadastrar(erro);
         } catch (IllegalArgumentException e) {
             System.out.println("Erro: " + e.getMessage());
         }
+
+        // String relat = cadastro.listar();
+        // System.out.println( relat );
+
+        System.out.println(cadastro.listar());
+
+        cadastro.listar("hugo");
 
     }
 }

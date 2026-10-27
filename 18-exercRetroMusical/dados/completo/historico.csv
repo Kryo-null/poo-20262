@@ -1,0 +1,5201 @@
+# musica;artista;genero;segundos;hora
+Kernel Panic;Os Compiladores;Rock;12;9
+Oscilador;Synth Lab;Eletrônica;189;23
+Stack Overflow;Os Compiladores;Rock;260;17
+Fibra Ótica;Banda Larga;Rock;302;0
+Fibra Ótica;Banda Larga;Rock;302;17
+Varanda;Clara Vereda;MPB;27;14
+Override;Quarteto Polimórfico;Jazz;177;9
+Estática;Ruído Branco;Rock;265;17
+Feedback;Ruído Branco;Rock;279;0
+Cache Miss;DJ Ponteiro;Eletrônica;296;23
+Ping Alto;Banda Larga;Rock;231;2
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Chimarrão;Lua Nova;MPB;179;17
+Chimarrão;Lua Nova;MPB;179;23
+Rehash;Bianca Hash;Pop;314;17
+Rehash;Bianca Hash;Pop;314;8
+Sem Sinal;Banda Larga;Rock;269;9
+Feedback;Ruído Branco;Rock;279;22
+Oscilador;Synth Lab;Eletrônica;189;19
+Varanda;Clara Vereda;MPB;163;11
+Ping Alto;Banda Larga;Rock;25;22
+Oscilador;Synth Lab;Eletrônica;189;23
+Oscilador;Synth Lab;Eletrônica;189;16
+Segmentation Fault;Os Compiladores;Rock;240;7
+Próximo;Os Iteradores;Pop;303;13
+Segmentation Fault;Os Compiladores;Rock;240;17
+Volta ao Início;Os Iteradores;Pop;258;13
+Segmentation Fault;Os Compiladores;Rock;176;12
+Deadlock;Os Compiladores;Rock;216;7
+Deadlock;Os Compiladores;Rock;216;20
+Fibra Ótica;Banda Larga;Rock;302;19
+Build Quebrado;Coletivo Compila;Hip-hop;323;14
+Segmentation Fault;Os Compiladores;Rock;240;17
+Fibra Ótica;Banda Larga;Rock;302;23
+Caso Base;Trio Recursivo;Samba;282;21
+Ping Alto;Banda Larga;Rock;231;16
+Expressão;MC Lambda;Hip-hop;247;21
+Build Quebrado;Coletivo Compila;Hip-hop;323;23
+Garbage Collector;DJ Ponteiro;Eletrônica;242;23
+Varanda;Clara Vereda;MPB;163;22
+Fibra Ótica;Banda Larga;Rock;302;21
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Fibra Ótica;Banda Larga;Rock;40;16
+Merge Conflict;Coletivo Compila;Hip-hop;10;15
+Próximo;Os Iteradores;Pop;303;13
+Caminho de Volta;Clara Vereda;MPB;213;20
+Deadlock;Os Compiladores;Rock;9;22
+Maré Alta;Lua Nova;MPB;174;8
+Chimarrão;Lua Nova;MPB;179;9
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Próximo;Os Iteradores;Pop;303;22
+NullPointer;DJ Ponteiro;Eletrônica;225;17
+Segmentation Fault;Os Compiladores;Rock;240;11
+Stream de Rimas;MC Lambda;Hip-hop;243;14
+Segmentation Fault;Os Compiladores;Rock;240;15
+Fibra Ótica;Banda Larga;Rock;302;18
+Sem Sinal;Banda Larga;Rock;58;21
+Sem Sinal;Banda Larga;Rock;287;13
+Stack Overflow;Os Compiladores;Rock;260;20
+Stack Overflow;Os Compiladores;Rock;260;9
+Fibra Ótica;Banda Larga;Rock;26;8
+Próximo;Os Iteradores;Pop;22;15
+Feedback;Ruído Branco;Rock;279;10
+Feedback;Ruído Branco;Rock;279;23
+Céu de Porto Alegre;Lua Nova;MPB;194;10
+Kernel Panic;Os Compiladores;Rock;249;23
+Ping Alto;Banda Larga;Rock;231;21
+Kernel Panic;Os Compiladores;Rock;249;9
+Herança;Duo Abstrato;Jazz;198;15
+Chimarrão;Lua Nova;MPB;179;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;17
+Varanda;Clara Vereda;MPB;138;18
+Caminho de Volta;Clara Vereda;MPB;6;10
+Feedback;Ruído Branco;Rock;279;22
+Kernel Panic;Os Compiladores;Rock;249;23
+Próximo;Os Iteradores;Pop;55;12
+Fibra Ótica;Banda Larga;Rock;302;22
+Ping Alto;Banda Larga;Rock;231;18
+Oscilador;Synth Lab;Eletrônica;189;21
+hasNext;Os Iteradores;Pop;150;19
+Modulação;Synth Lab;Eletrônica;233;22
+Herança;Duo Abstrato;Jazz;198;22
+Volta ao Início;Os Iteradores;Pop;258;22
+Estática;Ruído Branco;Rock;8;20
+Fibra Ótica;Banda Larga;Rock;124;18
+Merge Conflict;Coletivo Compila;Hip-hop;199;10
+hasNext;Os Iteradores;Pop;150;13
+Céu de Porto Alegre;Lua Nova;MPB;194;1
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Ipê Amarelo;Clara Vereda;MPB;162;19
+Chimarrão;Lua Nova;MPB;179;22
+Feedback;Ruído Branco;Rock;279;8
+Fibra Ótica;Banda Larga;Rock;302;21
+Stream de Rimas;MC Lambda;Hip-hop;243;6
+Merge Conflict;Coletivo Compila;Hip-hop;199;15
+Chimarrão;Lua Nova;MPB;179;20
+Caso Base;Trio Recursivo;Samba;282;21
+Segmentation Fault;Os Compiladores;Rock;109;12
+Maré Alta;Lua Nova;MPB;174;12
+Estática;Ruído Branco;Rock;265;23
+Sem Sinal;Banda Larga;Rock;58;11
+Varanda;Clara Vereda;MPB;102;13
+Estática;Ruído Branco;Rock;4;15
+Céu de Porto Alegre;Lua Nova;MPB;92;9
+Estática;Ruído Branco;Rock;265;12
+Ping Alto;Banda Larga;Rock;137;15
+Segmentation Fault;Os Compiladores;Rock;240;8
+Modulação;Synth Lab;Eletrônica;21;9
+Sem Sinal;Banda Larga;Rock;287;23
+Pixel;Bits & Bytes;Eletrônica;281;11
+Deadlock;Os Compiladores;Rock;216;17
+Kernel Panic;Os Compiladores;Rock;249;12
+Stream de Rimas;MC Lambda;Hip-hop;29;17
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Colisão;Bianca Hash;Pop;165;10
+Segmentation Fault;Os Compiladores;Rock;240;13
+Caso Base;Trio Recursivo;Samba;282;23
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Fibra Ótica;Banda Larga;Rock;21;22
+Fibra Ótica;Banda Larga;Rock;302;11
+Kernel Panic;Os Compiladores;Rock;249;8
+Kernel Panic;Os Compiladores;Rock;249;21
+Fibra Ótica;Banda Larga;Rock;302;21
+Bucket List;Bianca Hash;Pop;239;21
+Kernel Panic;Os Compiladores;Rock;249;1
+Segmentation Fault;Os Compiladores;Rock;240;21
+Override;Quarteto Polimórfico;Jazz;177;19
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Sem Sinal;Banda Larga;Rock;287;20
+Volta ao Início;Os Iteradores;Pop;258;15
+Segmentation Fault;Os Compiladores;Rock;240;21
+Stack Overflow;Os Compiladores;Rock;166;8
+Feedback;Ruído Branco;Rock;279;19
+Estática;Ruído Branco;Rock;16;15
+Kernel Panic;Os Compiladores;Rock;249;0
+Fibra Ótica;Banda Larga;Rock;302;19
+Ping Alto;Banda Larga;Rock;29;11
+hasNext;Os Iteradores;Pop;150;10
+Próximo;Os Iteradores;Pop;303;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Próximo;Os Iteradores;Pop;303;13
+Guaíba ao Entardecer;Lua Nova;MPB;96;7
+Build Quebrado;Coletivo Compila;Hip-hop;323;9
+Ping Alto;Banda Larga;Rock;231;9
+Stream de Rimas;MC Lambda;Hip-hop;243;17
+Kernel Panic;Os Compiladores;Rock;18;17
+Feedback;Ruído Branco;Rock;279;11
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Rehash;Bianca Hash;Pop;12;14
+hasNext;Os Iteradores;Pop;94;9
+Próximo;Os Iteradores;Pop;303;19
+Ping Alto;Banda Larga;Rock;22;1
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Chimarrão;Lua Nova;MPB;179;18
+Sem Sinal;Banda Larga;Rock;287;17
+Chimarrão;Lua Nova;MPB;179;20
+Guaíba ao Entardecer;Lua Nova;MPB;43;8
+Céu de Porto Alegre;Lua Nova;MPB;7;18
+Ping Alto;Banda Larga;Rock;26;20
+Ping Alto;Banda Larga;Rock;231;18
+Modulação;Synth Lab;Eletrônica;233;18
+Segmentation Fault;Os Compiladores;Rock;240;10
+Feedback;Ruído Branco;Rock;279;18
+Maré Alta;Lua Nova;MPB;174;12
+Cuíca;Escola do Morro;Samba;221;15
+Kernel Panic;Os Compiladores;Rock;249;18
+Chimarrão;Lua Nova;MPB;23;0
+Bucket List;Bianca Hash;Pop;178;14
+Override;Quarteto Polimórfico;Jazz;177;20
+Override;Quarteto Polimórfico;Jazz;177;21
+Varanda;Clara Vereda;MPB;163;11
+Fibra Ótica;Banda Larga;Rock;302;11
+Caso Base;Trio Recursivo;Samba;282;16
+Kernel Panic;Os Compiladores;Rock;249;20
+Segmentation Fault;Os Compiladores;Rock;240;13
+Kernel Panic;Os Compiladores;Rock;249;21
+Estática;Ruído Branco;Rock;265;17
+Oscilador;Synth Lab;Eletrônica;189;16
+Stack Overflow;Os Compiladores;Rock;260;20
+Loop Infinito;Os Compiladores;Rock;201;21
+Sem Sinal;Banda Larga;Rock;287;10
+Stack Overflow;Os Compiladores;Rock;260;22
+Céu de Porto Alegre;Lua Nova;MPB;35;11
+Ping Alto;Banda Larga;Rock;231;18
+Estática;Ruído Branco;Rock;265;15
+Segmentation Fault;Os Compiladores;Rock;240;17
+Chimarrão;Lua Nova;MPB;179;12
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Caso Base;Trio Recursivo;Samba;282;7
+Volta ao Início;Os Iteradores;Pop;258;0
+Chimarrão;Lua Nova;MPB;179;13
+Bucket List;Bianca Hash;Pop;25;7
+Ping Alto;Banda Larga;Rock;17;14
+Pixel;Bits & Bytes;Eletrônica;281;17
+Deadlock;Os Compiladores;Rock;216;14
+Estática;Ruído Branco;Rock;11;18
+Estática;Ruído Branco;Rock;14;9
+Segmentation Fault;Os Compiladores;Rock;240;13
+Chimarrão;Lua Nova;MPB;179;22
+Fibra Ótica;Banda Larga;Rock;302;23
+Estática;Ruído Branco;Rock;265;19
+Stream de Rimas;MC Lambda;Hip-hop;20;23
+Rehash;Bianca Hash;Pop;314;0
+Próximo;Os Iteradores;Pop;11;19
+Caso Base;Trio Recursivo;Samba;250;9
+Thread Pool;DJ Ponteiro;Eletrônica;174;18
+Rehash;Bianca Hash;Pop;314;7
+Kernel Panic;Os Compiladores;Rock;18;16
+Sem Sinal;Banda Larga;Rock;287;8
+Varanda;Clara Vereda;MPB;163;19
+Céu de Porto Alegre;Lua Nova;MPB;52;11
+Segmentation Fault;Os Compiladores;Rock;240;19
+Deadlock;Os Compiladores;Rock;44;19
+Build Quebrado;Coletivo Compila;Hip-hop;323;14
+Herança;Duo Abstrato;Jazz;198;10
+Kernel Panic;Os Compiladores;Rock;249;22
+Rehash;Bianca Hash;Pop;314;16
+Bucket List;Bianca Hash;Pop;9;22
+hasNext;Os Iteradores;Pop;150;21
+Oscilador;Synth Lab;Eletrônica;79;23
+hasNext;Os Iteradores;Pop;150;18
+Herança;Duo Abstrato;Jazz;33;19
+Loop Infinito;Os Compiladores;Rock;201;18
+hasNext;Os Iteradores;Pop;150;15
+Feedback;Ruído Branco;Rock;279;17
+Ping Alto;Banda Larga;Rock;18;19
+Estática;Ruído Branco;Rock;26;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;12
+Oscilador;Synth Lab;Eletrônica;189;22
+Oscilador;Synth Lab;Eletrônica;189;6
+Caso Base;Trio Recursivo;Samba;282;12
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Varanda;Clara Vereda;MPB;16;18
+Kernel Panic;Os Compiladores;Rock;15;19
+Herança;Duo Abstrato;Jazz;198;21
+Oscilador;Synth Lab;Eletrônica;189;19
+Estática;Ruído Branco;Rock;265;9
+Segmentation Fault;Os Compiladores;Rock;89;7
+Próximo;Os Iteradores;Pop;303;0
+Oscilador;Synth Lab;Eletrônica;14;22
+Estática;Ruído Branco;Rock;265;0
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Segmentation Fault;Os Compiladores;Rock;28;21
+NullPointer;DJ Ponteiro;Eletrônica;225;19
+Ping Alto;Banda Larga;Rock;231;19
+Override;Quarteto Polimórfico;Jazz;72;14
+Segmentation Fault;Os Compiladores;Rock;240;23
+Overclock;Bits & Bytes;Eletrônica;311;7
+Sem Sinal;Banda Larga;Rock;14;18
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Chimarrão;Lua Nova;MPB;179;18
+Cuíca;Escola do Morro;Samba;221;22
+Oscilador;Synth Lab;Eletrônica;189;12
+Maré Alta;Lua Nova;MPB;174;10
+Kernel Panic;Os Compiladores;Rock;249;22
+Chimarrão;Lua Nova;MPB;179;10
+Segmentation Fault;Os Compiladores;Rock;174;22
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Céu de Porto Alegre;Lua Nova;MPB;184;14
+Stream de Rimas;MC Lambda;Hip-hop;130;13
+Estática;Ruído Branco;Rock;265;21
+Segmentation Fault;Os Compiladores;Rock;240;17
+Merge Conflict;Coletivo Compila;Hip-hop;199;19
+Stream de Rimas;MC Lambda;Hip-hop;5;12
+Fibra Ótica;Banda Larga;Rock;302;22
+Deadlock;Os Compiladores;Rock;216;15
+Caso Base;Trio Recursivo;Samba;282;11
+Merge Conflict;Coletivo Compila;Hip-hop;199;20
+Override;Quarteto Polimórfico;Jazz;177;22
+Fibra Ótica;Banda Larga;Rock;302;10
+Maré Alta;Lua Nova;MPB;174;16
+Deadlock;Os Compiladores;Rock;216;19
+Override;Quarteto Polimórfico;Jazz;102;19
+Caso Base;Trio Recursivo;Samba;282;23
+Override;Quarteto Polimórfico;Jazz;177;23
+Maré Alta;Lua Nova;MPB;174;20
+Céu de Porto Alegre;Lua Nova;MPB;86;21
+Stack Overflow;Os Compiladores;Rock;260;22
+Ping Alto;Banda Larga;Rock;88;19
+Deadlock;Os Compiladores;Rock;216;11
+Bucket List;Bianca Hash;Pop;235;18
+Varanda;Clara Vereda;MPB;163;12
+Chimarrão;Lua Nova;MPB;179;17
+Estática;Ruído Branco;Rock;217;9
+Rehash;Bianca Hash;Pop;16;13
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Overclock;Bits & Bytes;Eletrônica;108;21
+Chimarrão;Lua Nova;MPB;82;14
+Oscilador;Synth Lab;Eletrônica;189;13
+Fibra Ótica;Banda Larga;Rock;302;12
+Oscilador;Synth Lab;Eletrônica;164;12
+Guaíba ao Entardecer;Lua Nova;MPB;206;12
+Kernel Panic;Os Compiladores;Rock;249;23
+Override;Quarteto Polimórfico;Jazz;177;19
+Kernel Panic;Os Compiladores;Rock;249;8
+Guaíba ao Entardecer;Lua Nova;MPB;174;12
+Segmentation Fault;Os Compiladores;Rock;240;23
+Fibra Ótica;Banda Larga;Rock;302;18
+Fibra Ótica;Banda Larga;Rock;302;8
+Estática;Ruído Branco;Rock;19;18
+Próximo;Os Iteradores;Pop;22;11
+Ping Alto;Banda Larga;Rock;27;14
+Bucket List;Bianca Hash;Pop;239;15
+Cache Miss;DJ Ponteiro;Eletrônica;296;0
+Merge Conflict;Coletivo Compila;Hip-hop;199;17
+Estática;Ruído Branco;Rock;25;22
+Céu de Porto Alegre;Lua Nova;MPB;194;16
+Ping Alto;Banda Larga;Rock;231;21
+Pixel;Bits & Bytes;Eletrônica;281;19
+Feedback;Ruído Branco;Rock;279;23
+Deadlock;Os Compiladores;Rock;7;21
+Stack Overflow;Os Compiladores;Rock;260;21
+Chimarrão;Lua Nova;MPB;179;21
+Kernel Panic;Os Compiladores;Rock;249;19
+Guaíba ao Entardecer;Lua Nova;MPB;206;13
+hasNext;Os Iteradores;Pop;150;8
+Feedback;Ruído Branco;Rock;279;10
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Rehash;Bianca Hash;Pop;314;8
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Estática;Ruído Branco;Rock;22;19
+Stream de Rimas;MC Lambda;Hip-hop;14;4
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Overclock;Bits & Bytes;Eletrônica;311;9
+Cache Miss;DJ Ponteiro;Eletrônica;296;21
+Kernel Panic;Os Compiladores;Rock;249;13
+Stack Overflow;Os Compiladores;Rock;260;8
+Pixel;Bits & Bytes;Eletrônica;281;21
+Ping Alto;Banda Larga;Rock;110;18
+Deadlock;Os Compiladores;Rock;13;9
+Segmentation Fault;Os Compiladores;Rock;240;23
+Stream de Rimas;MC Lambda;Hip-hop;243;0
+Bucket List;Bianca Hash;Pop;7;18
+Feedback;Ruído Branco;Rock;279;17
+Estática;Ruído Branco;Rock;21;21
+Ping Alto;Banda Larga;Rock;231;11
+Merge Conflict;Coletivo Compila;Hip-hop;199;20
+Feedback;Ruído Branco;Rock;193;10
+Rehash;Bianca Hash;Pop;314;8
+Segmentation Fault;Os Compiladores;Rock;146;1
+Oscilador;Synth Lab;Eletrônica;189;2
+Feedback;Ruído Branco;Rock;279;20
+Rehash;Bianca Hash;Pop;314;14
+Maré Alta;Lua Nova;MPB;174;10
+Cache Miss;DJ Ponteiro;Eletrônica;296;10
+Caso Base;Trio Recursivo;Samba;282;7
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Caso Base;Trio Recursivo;Samba;282;21
+Segmentation Fault;Os Compiladores;Rock;240;23
+Estática;Ruído Branco;Rock;10;18
+Deadlock;Os Compiladores;Rock;216;18
+Merge Conflict;Coletivo Compila;Hip-hop;199;6
+Classe Sem Corpo;Duo Abstrato;Jazz;252;22
+Segmentation Fault;Os Compiladores;Rock;240;14
+Deadlock;Os Compiladores;Rock;216;21
+Kernel Panic;Os Compiladores;Rock;249;7
+Fibra Ótica;Banda Larga;Rock;135;9
+Sem Sinal;Banda Larga;Rock;214;20
+Herança;Duo Abstrato;Jazz;198;0
+Próximo;Os Iteradores;Pop;303;10
+Pilha de Chamadas;Trio Recursivo;Samba;281;13
+Caso Base;Trio Recursivo;Samba;282;22
+Fator de Carga;Bianca Hash;Pop;312;14
+Maré Alta;Lua Nova;MPB;92;13
+Fibra Ótica;Banda Larga;Rock;302;22
+Modulação;Synth Lab;Eletrônica;233;22
+Stream de Rimas;MC Lambda;Hip-hop;113;11
+Thread Pool;DJ Ponteiro;Eletrônica;174;23
+Caminho de Volta;Clara Vereda;MPB;213;22
+hasNext;Os Iteradores;Pop;150;8
+Deadlock;Os Compiladores;Rock;73;9
+Cuíca;Escola do Morro;Samba;221;21
+Ipê Amarelo;Clara Vereda;MPB;162;23
+Cache Miss;DJ Ponteiro;Eletrônica;163;19
+Maré Alta;Lua Nova;MPB;174;17
+Próximo;Os Iteradores;Pop;303;14
+Classe Sem Corpo;Duo Abstrato;Jazz;270;19
+Kernel Panic;Os Compiladores;Rock;249;9
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Feedback;Ruído Branco;Rock;279;2
+Fibra Ótica;Banda Larga;Rock;302;14
+Interface Azul;Quarteto Polimórfico;Jazz;313;22
+Fibra Ótica;Banda Larga;Rock;15;22
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+hasNext;Os Iteradores;Pop;150;23
+Caso Base;Trio Recursivo;Samba;282;20
+Sem Sinal;Banda Larga;Rock;7;8
+Feedback;Ruído Branco;Rock;279;8
+Guaíba ao Entardecer;Lua Nova;MPB;6;15
+Sem Sinal;Banda Larga;Rock;287;15
+Modulação;Synth Lab;Eletrônica;233;8
+Céu de Porto Alegre;Lua Nova;MPB;194;7
+Merge Conflict;Coletivo Compila;Hip-hop;199;7
+Feedback;Ruído Branco;Rock;279;21
+Estática;Ruído Branco;Rock;265;17
+Caso Base;Trio Recursivo;Samba;282;20
+Feedback;Ruído Branco;Rock;257;17
+Ping Alto;Banda Larga;Rock;231;21
+Rehash;Bianca Hash;Pop;314;8
+Chimarrão;Lua Nova;MPB;179;22
+Segmentation Fault;Os Compiladores;Rock;240;17
+Ping Alto;Banda Larga;Rock;231;22
+Maré Alta;Lua Nova;MPB;3;8
+Kernel Panic;Os Compiladores;Rock;249;21
+Céu de Porto Alegre;Lua Nova;MPB;113;22
+Caso Base;Trio Recursivo;Samba;190;8
+Ping Alto;Banda Larga;Rock;231;8
+Chimarrão;Lua Nova;MPB;179;21
+Chimarrão;Lua Nova;MPB;179;2
+Rehash;Bianca Hash;Pop;196;22
+Estática;Ruído Branco;Rock;265;20
+Interface Azul;Quarteto Polimórfico;Jazz;313;19
+Kernel Panic;Os Compiladores;Rock;199;13
+Segmentation Fault;Os Compiladores;Rock;53;22
+Estática;Ruído Branco;Rock;23;8
+Ping Alto;Banda Larga;Rock;231;19
+Ping Alto;Banda Larga;Rock;231;0
+Chimarrão;Lua Nova;MPB;179;17
+Ping Alto;Banda Larga;Rock;7;23
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Ping Alto;Banda Larga;Rock;11;20
+Estática;Ruído Branco;Rock;17;22
+Volta ao Início;Os Iteradores;Pop;258;8
+Ping Alto;Banda Larga;Rock;13;17
+Caminho de Volta;Clara Vereda;MPB;149;13
+Segmentation Fault;Os Compiladores;Rock;240;18
+Bucket List;Bianca Hash;Pop;24;9
+Rehash;Bianca Hash;Pop;314;14
+hasNext;Os Iteradores;Pop;150;21
+Próximo;Os Iteradores;Pop;7;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Stack Overflow;Os Compiladores;Rock;260;21
+Oscilador;Synth Lab;Eletrônica;189;12
+Caso Base;Trio Recursivo;Samba;178;21
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Próximo;Os Iteradores;Pop;303;10
+Segmentation Fault;Os Compiladores;Rock;240;21
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Sobrecarga;Quarteto Polimórfico;Jazz;244;10
+Feedback;Ruído Branco;Rock;279;16
+Céu de Porto Alegre;Lua Nova;MPB;194;4
+Fibra Ótica;Banda Larga;Rock;302;16
+Rehash;Bianca Hash;Pop;314;17
+Fibra Ótica;Banda Larga;Rock;302;22
+Estática;Ruído Branco;Rock;14;12
+Kernel Panic;Os Compiladores;Rock;203;12
+Overclock;Bits & Bytes;Eletrônica;311;6
+Garbage Collector;DJ Ponteiro;Eletrônica;27;7
+Kernel Panic;Os Compiladores;Rock;249;0
+Estática;Ruído Branco;Rock;221;8
+Fibra Ótica;Banda Larga;Rock;302;1
+Chimarrão;Lua Nova;MPB;10;19
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Feedback;Ruído Branco;Rock;279;21
+Sem Sinal;Banda Larga;Rock;287;9
+Próximo;Os Iteradores;Pop;303;8
+Kernel Panic;Os Compiladores;Rock;198;15
+Fibra Ótica;Banda Larga;Rock;206;0
+Volta ao Início;Os Iteradores;Pop;258;17
+Fibra Ótica;Banda Larga;Rock;302;15
+Merge Conflict;Coletivo Compila;Hip-hop;170;12
+Interface Azul;Quarteto Polimórfico;Jazz;313;17
+Fibra Ótica;Banda Larga;Rock;302;9
+Maré Alta;Lua Nova;MPB;101;21
+Segmentation Fault;Os Compiladores;Rock;240;22
+Céu de Porto Alegre;Lua Nova;MPB;68;9
+Rehash;Bianca Hash;Pop;314;23
+Modulação;Synth Lab;Eletrônica;233;1
+Fibra Ótica;Banda Larga;Rock;302;0
+Caso Base;Trio Recursivo;Samba;37;19
+Herança;Duo Abstrato;Jazz;25;10
+Ping Alto;Banda Larga;Rock;5;10
+Chimarrão;Lua Nova;MPB;179;18
+Guaíba ao Entardecer;Lua Nova;MPB;14;8
+Bucket List;Bianca Hash;Pop;10;18
+Fibra Ótica;Banda Larga;Rock;302;9
+Oscilador;Synth Lab;Eletrônica;132;11
+Caso Base;Trio Recursivo;Samba;17;23
+Stream de Rimas;MC Lambda;Hip-hop;37;21
+Segmentation Fault;Os Compiladores;Rock;240;8
+Chimarrão;Lua Nova;MPB;179;22
+Cuíca;Escola do Morro;Samba;221;21
+Sem Sinal;Banda Larga;Rock;287;23
+Kernel Panic;Os Compiladores;Rock;249;23
+Chimarrão;Lua Nova;MPB;179;22
+Segmentation Fault;Os Compiladores;Rock;170;16
+Próximo;Os Iteradores;Pop;303;17
+Volta ao Início;Os Iteradores;Pop;26;10
+Deadlock;Os Compiladores;Rock;216;7
+Bucket List;Bianca Hash;Pop;239;16
+Volta ao Início;Os Iteradores;Pop;89;22
+Fibra Ótica;Banda Larga;Rock;302;22
+Fibra Ótica;Banda Larga;Rock;302;13
+Feedback;Ruído Branco;Rock;279;16
+Rehash;Bianca Hash;Pop;314;23
+Stack Overflow;Os Compiladores;Rock;260;12
+Caso Base;Trio Recursivo;Samba;282;23
+Kernel Panic;Os Compiladores;Rock;249;7
+hasNext;Os Iteradores;Pop;150;17
+hasNext;Os Iteradores;Pop;150;20
+Estática;Ruído Branco;Rock;14;20
+Oscilador;Synth Lab;Eletrônica;189;9
+Oscilador;Synth Lab;Eletrônica;189;9
+Fibra Ótica;Banda Larga;Rock;223;10
+Estática;Ruído Branco;Rock;101;21
+Fibra Ótica;Banda Larga;Rock;302;17
+Rehash;Bianca Hash;Pop;314;21
+Ping Alto;Banda Larga;Rock;231;8
+Fibra Ótica;Banda Larga;Rock;302;20
+Deadlock;Os Compiladores;Rock;6;7
+Expressão;MC Lambda;Hip-hop;247;16
+Ping Alto;Banda Larga;Rock;231;11
+Oscilador;Synth Lab;Eletrônica;189;18
+Fibra Ótica;Banda Larga;Rock;302;11
+Ping Alto;Banda Larga;Rock;231;22
+Próximo;Os Iteradores;Pop;4;12
+Merge Conflict;Coletivo Compila;Hip-hop;127;22
+Fibra Ótica;Banda Larga;Rock;213;16
+Stack Overflow;Os Compiladores;Rock;260;8
+Ping Alto;Banda Larga;Rock;4;15
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Guaíba ao Entardecer;Lua Nova;MPB;8;19
+Caminho de Volta;Clara Vereda;MPB;213;9
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Céu de Porto Alegre;Lua Nova;MPB;194;7
+Caminho de Volta;Clara Vereda;MPB;213;13
+Pixel;Bits & Bytes;Eletrônica;281;7
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Segmentation Fault;Os Compiladores;Rock;4;9
+Feedback;Ruído Branco;Rock;279;9
+hasNext;Os Iteradores;Pop;124;16
+Estática;Ruído Branco;Rock;23;10
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Céu de Porto Alegre;Lua Nova;MPB;46;7
+Maré Alta;Lua Nova;MPB;174;7
+Deadlock;Os Compiladores;Rock;216;19
+Chimarrão;Lua Nova;MPB;179;8
+Batucada no Laboratório;Escola do Morro;Samba;301;21
+Kernel Panic;Os Compiladores;Rock;210;21
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Segmentation Fault;Os Compiladores;Rock;240;14
+Build Quebrado;Coletivo Compila;Hip-hop;25;12
+Guaíba ao Entardecer;Lua Nova;MPB;10;22
+Feedback;Ruído Branco;Rock;279;8
+NullPointer;DJ Ponteiro;Eletrônica;212;7
+Stream de Rimas;MC Lambda;Hip-hop;18;22
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Stream de Rimas;MC Lambda;Hip-hop;243;8
+Modulação;Synth Lab;Eletrônica;233;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Segmentation Fault;Os Compiladores;Rock;240;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;23
+Estática;Ruído Branco;Rock;265;15
+Fibra Ótica;Banda Larga;Rock;302;19
+Override;Quarteto Polimórfico;Jazz;177;11
+Ipê Amarelo;Clara Vereda;MPB;162;5
+Loop Infinito;Os Compiladores;Rock;201;18
+Próximo;Os Iteradores;Pop;303;23
+Rehash;Bianca Hash;Pop;314;19
+Ipê Amarelo;Clara Vereda;MPB;15;4
+Oscilador;Synth Lab;Eletrônica;189;14
+Segmentation Fault;Os Compiladores;Rock;240;9
+Kernel Panic;Os Compiladores;Rock;10;23
+NullPointer;DJ Ponteiro;Eletrônica;225;22
+Estática;Ruído Branco;Rock;14;6
+Oscilador;Synth Lab;Eletrônica;189;21
+Próximo;Os Iteradores;Pop;79;9
+Pixel;Bits & Bytes;Eletrônica;281;21
+Segmentation Fault;Os Compiladores;Rock;240;18
+Ping Alto;Banda Larga;Rock;7;19
+Volta ao Início;Os Iteradores;Pop;258;22
+Fibra Ótica;Banda Larga;Rock;302;8
+Volta ao Início;Os Iteradores;Pop;258;22
+Chimarrão;Lua Nova;MPB;179;1
+Guaíba ao Entardecer;Lua Nova;MPB;206;0
+Estática;Ruído Branco;Rock;265;19
+Feedback;Ruído Branco;Rock;279;11
+Estática;Ruído Branco;Rock;13;13
+Caminho de Volta;Clara Vereda;MPB;213;9
+Chimarrão;Lua Nova;MPB;179;17
+Ping Alto;Banda Larga;Rock;231;23
+Kernel Panic;Os Compiladores;Rock;132;1
+Rehash;Bianca Hash;Pop;314;19
+Maré Alta;Lua Nova;MPB;174;15
+Chimarrão;Lua Nova;MPB;179;16
+Stack Overflow;Os Compiladores;Rock;260;23
+Kernel Panic;Os Compiladores;Rock;129;22
+Feedback;Ruído Branco;Rock;279;13
+Chimarrão;Lua Nova;MPB;179;22
+Maré Alta;Lua Nova;MPB;174;21
+Loop Infinito;Os Compiladores;Rock;18;23
+Próximo;Os Iteradores;Pop;108;23
+Stream de Rimas;MC Lambda;Hip-hop;38;16
+Guaíba ao Entardecer;Lua Nova;MPB;53;4
+Rehash;Bianca Hash;Pop;314;20
+Fibra Ótica;Banda Larga;Rock;302;20
+Kernel Panic;Os Compiladores;Rock;249;12
+Feedback;Ruído Branco;Rock;157;10
+Caso Base;Trio Recursivo;Samba;282;13
+Feedback;Ruído Branco;Rock;243;19
+Próximo;Os Iteradores;Pop;303;22
+Feedback;Ruído Branco;Rock;279;8
+Fibra Ótica;Banda Larga;Rock;262;23
+Ping Alto;Banda Larga;Rock;231;21
+Feedback;Ruído Branco;Rock;279;15
+Segmentation Fault;Os Compiladores;Rock;240;20
+hasNext;Os Iteradores;Pop;150;16
+Fator de Carga;Bianca Hash;Pop;18;23
+Caso Base;Trio Recursivo;Samba;282;19
+Chimarrão;Lua Nova;MPB;116;15
+Ping Alto;Banda Larga;Rock;231;9
+Kernel Panic;Os Compiladores;Rock;249;22
+Cuíca;Escola do Morro;Samba;221;12
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Merge Conflict;Coletivo Compila;Hip-hop;15;14
+Rehash;Bianca Hash;Pop;314;21
+Céu de Porto Alegre;Lua Nova;MPB;194;1
+Segmentation Fault;Os Compiladores;Rock;240;18
+Fibra Ótica;Banda Larga;Rock;11;21
+Cache Miss;DJ Ponteiro;Eletrônica;296;7
+Rehash;Bianca Hash;Pop;314;0
+Ipê Amarelo;Clara Vereda;MPB;162;17
+Ipê Amarelo;Clara Vereda;MPB;162;23
+Segmentation Fault;Os Compiladores;Rock;240;0
+Sem Sinal;Banda Larga;Rock;287;8
+Segmentation Fault;Os Compiladores;Rock;240;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;22
+Stream de Rimas;MC Lambda;Hip-hop;243;0
+Volta ao Início;Os Iteradores;Pop;13;14
+Stack Overflow;Os Compiladores;Rock;260;20
+Cuíca;Escola do Morro;Samba;221;22
+Segmentation Fault;Os Compiladores;Rock;23;22
+Stack Overflow;Os Compiladores;Rock;260;15
+Merge Conflict;Coletivo Compila;Hip-hop;199;10
+Pilha de Chamadas;Trio Recursivo;Samba;9;18
+Oscilador;Synth Lab;Eletrônica;189;10
+Fibra Ótica;Banda Larga;Rock;302;18
+8-bit Love;Bits & Bytes;Eletrônica;295;11
+Fibra Ótica;Banda Larga;Rock;302;9
+Segmentation Fault;Os Compiladores;Rock;240;1
+Ping Alto;Banda Larga;Rock;9;19
+Caso Base;Trio Recursivo;Samba;17;18
+Override;Quarteto Polimórfico;Jazz;177;19
+Próximo;Os Iteradores;Pop;20;21
+Stack Overflow;Os Compiladores;Rock;121;17
+Maré Alta;Lua Nova;MPB;66;21
+Volta ao Início;Os Iteradores;Pop;258;23
+Stack Overflow;Os Compiladores;Rock;260;12
+NullPointer;DJ Ponteiro;Eletrônica;225;9
+Segmentation Fault;Os Compiladores;Rock;240;17
+Stack Overflow;Os Compiladores;Rock;260;16
+hasNext;Os Iteradores;Pop;150;16
+Herança;Duo Abstrato;Jazz;198;23
+Kernel Panic;Os Compiladores;Rock;249;21
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Deadlock;Os Compiladores;Rock;13;19
+Herança;Duo Abstrato;Jazz;198;15
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Ping Alto;Banda Larga;Rock;231;13
+Pixel;Bits & Bytes;Eletrônica;28;18
+Feedback;Ruído Branco;Rock;279;17
+Segmentation Fault;Os Compiladores;Rock;240;11
+Overclock;Bits & Bytes;Eletrônica;311;14
+Ping Alto;Banda Larga;Rock;231;19
+Caso Base;Trio Recursivo;Samba;282;20
+Deadlock;Os Compiladores;Rock;216;22
+Fibra Ótica;Banda Larga;Rock;302;16
+Expressão;MC Lambda;Hip-hop;247;23
+Kernel Panic;Os Compiladores;Rock;249;6
+Deadlock;Os Compiladores;Rock;216;11
+Estática;Ruído Branco;Rock;265;20
+Céu de Porto Alegre;Lua Nova;MPB;194;11
+Interface Azul;Quarteto Polimórfico;Jazz;313;22
+Fibra Ótica;Banda Larga;Rock;302;17
+Volta ao Início;Os Iteradores;Pop;258;16
+Kernel Panic;Os Compiladores;Rock;249;20
+Varanda;Clara Vereda;MPB;163;20
+Interface Azul;Quarteto Polimórfico;Jazz;313;19
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Merge Conflict;Coletivo Compila;Hip-hop;199;19
+Volta ao Início;Os Iteradores;Pop;258;10
+Fibra Ótica;Banda Larga;Rock;302;13
+Estática;Ruído Branco;Rock;177;16
+Volta ao Início;Os Iteradores;Pop;258;18
+Caso Base;Trio Recursivo;Samba;282;20
+Caminho de Volta;Clara Vereda;MPB;213;15
+Pixel;Bits & Bytes;Eletrônica;281;8
+Overclock;Bits & Bytes;Eletrônica;311;18
+Fibra Ótica;Banda Larga;Rock;302;19
+Caso Base;Trio Recursivo;Samba;282;16
+Guaíba ao Entardecer;Lua Nova;MPB;206;13
+Fibra Ótica;Banda Larga;Rock;302;20
+Fibra Ótica;Banda Larga;Rock;302;23
+Stack Overflow;Os Compiladores;Rock;260;7
+Rehash;Bianca Hash;Pop;314;20
+Ipê Amarelo;Clara Vereda;MPB;162;20
+Segmentation Fault;Os Compiladores;Rock;240;23
+Deadlock;Os Compiladores;Rock;216;1
+Fibra Ótica;Banda Larga;Rock;302;14
+Fibra Ótica;Banda Larga;Rock;302;22
+Deadlock;Os Compiladores;Rock;216;18
+Céu de Porto Alegre;Lua Nova;MPB;145;19
+hasNext;Os Iteradores;Pop;108;19
+Volta ao Início;Os Iteradores;Pop;258;15
+Segmentation Fault;Os Compiladores;Rock;167;8
+Rehash;Bianca Hash;Pop;314;21
+Próximo;Os Iteradores;Pop;303;1
+Ping Alto;Banda Larga;Rock;211;12
+Caso Base;Trio Recursivo;Samba;282;18
+Caminho de Volta;Clara Vereda;MPB;213;19
+Fibra Ótica;Banda Larga;Rock;302;21
+Céu de Porto Alegre;Lua Nova;MPB;177;15
+Feedback;Ruído Branco;Rock;279;21
+Stream de Rimas;MC Lambda;Hip-hop;243;8
+Oscilador;Synth Lab;Eletrônica;189;18
+Stream de Rimas;MC Lambda;Hip-hop;243;15
+Céu de Porto Alegre;Lua Nova;MPB;106;17
+Deadlock;Os Compiladores;Rock;216;14
+Ping Alto;Banda Larga;Rock;13;9
+Caso Base;Trio Recursivo;Samba;282;7
+Varanda;Clara Vereda;MPB;163;6
+Oscilador;Synth Lab;Eletrônica;189;15
+Ping Alto;Banda Larga;Rock;231;12
+Rehash;Bianca Hash;Pop;81;21
+Feedback;Ruído Branco;Rock;235;7
+Oscilador;Synth Lab;Eletrônica;189;13
+Céu de Porto Alegre;Lua Nova;MPB;194;0
+Próximo;Os Iteradores;Pop;303;1
+Fibra Ótica;Banda Larga;Rock;302;15
+Segmentation Fault;Os Compiladores;Rock;9;14
+Próximo;Os Iteradores;Pop;303;15
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Fibra Ótica;Banda Larga;Rock;61;20
+Chimarrão;Lua Nova;MPB;179;23
+Rehash;Bianca Hash;Pop;314;18
+Fibra Ótica;Banda Larga;Rock;302;21
+Modulação;Synth Lab;Eletrônica;233;22
+Kernel Panic;Os Compiladores;Rock;197;18
+Segmentation Fault;Os Compiladores;Rock;240;22
+Varanda;Clara Vereda;MPB;163;21
+Segmentation Fault;Os Compiladores;Rock;240;17
+Maré Alta;Lua Nova;MPB;174;18
+Sem Sinal;Banda Larga;Rock;287;2
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Ping Alto;Banda Larga;Rock;23;21
+Feedback;Ruído Branco;Rock;279;12
+Kernel Panic;Os Compiladores;Rock;249;17
+Feedback;Ruído Branco;Rock;279;11
+Chimarrão;Lua Nova;MPB;11;22
+Bucket List;Bianca Hash;Pop;239;21
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Sem Sinal;Banda Larga;Rock;287;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;17
+Stream de Rimas;MC Lambda;Hip-hop;243;7
+Deadlock;Os Compiladores;Rock;23;14
+Ping Alto;Banda Larga;Rock;231;22
+Feedback;Ruído Branco;Rock;279;10
+Interface Azul;Quarteto Polimórfico;Jazz;313;19
+hasNext;Os Iteradores;Pop;5;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Stack Overflow;Os Compiladores;Rock;13;14
+Deadlock;Os Compiladores;Rock;216;6
+Overclock;Bits & Bytes;Eletrônica;10;1
+Build Quebrado;Coletivo Compila;Hip-hop;323;22
+Cuíca;Escola do Morro;Samba;42;10
+Feedback;Ruído Branco;Rock;279;18
+Feedback;Ruído Branco;Rock;279;21
+Segmentation Fault;Os Compiladores;Rock;240;23
+Segmentation Fault;Os Compiladores;Rock;240;16
+Cache Miss;DJ Ponteiro;Eletrônica;161;7
+Próximo;Os Iteradores;Pop;303;1
+8-bit Love;Bits & Bytes;Eletrônica;295;19
+Rehash;Bianca Hash;Pop;314;19
+Sem Sinal;Banda Larga;Rock;287;0
+Fibra Ótica;Banda Larga;Rock;302;6
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Caminho de Volta;Clara Vereda;MPB;193;13
+Céu de Porto Alegre;Lua Nova;MPB;194;1
+Herança;Duo Abstrato;Jazz;198;22
+Caminho de Volta;Clara Vereda;MPB;41;7
+Rehash;Bianca Hash;Pop;314;11
+Guaíba ao Entardecer;Lua Nova;MPB;206;17
+Feedback;Ruído Branco;Rock;279;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;15
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+hasNext;Os Iteradores;Pop;150;8
+Fibra Ótica;Banda Larga;Rock;302;1
+Ipê Amarelo;Clara Vereda;MPB;162;16
+Feedback;Ruído Branco;Rock;279;18
+Sem Sinal;Banda Larga;Rock;287;8
+Volta ao Início;Os Iteradores;Pop;258;19
+Próximo;Os Iteradores;Pop;303;17
+Caminho de Volta;Clara Vereda;MPB;5;15
+hasNext;Os Iteradores;Pop;150;13
+Varanda;Clara Vereda;MPB;163;9
+Fibra Ótica;Banda Larga;Rock;302;10
+Céu de Porto Alegre;Lua Nova;MPB;194;14
+NullPointer;DJ Ponteiro;Eletrônica;155;20
+Estática;Ruído Branco;Rock;5;21
+NullPointer;DJ Ponteiro;Eletrônica;225;9
+Kernel Panic;Os Compiladores;Rock;249;11
+Thread Pool;DJ Ponteiro;Eletrônica;174;6
+Céu de Porto Alegre;Lua Nova;MPB;28;20
+Interface Azul;Quarteto Polimórfico;Jazz;24;23
+Rehash;Bianca Hash;Pop;16;22
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+8-bit Love;Bits & Bytes;Eletrônica;295;21
+Varanda;Clara Vereda;MPB;27;16
+Kernel Panic;Os Compiladores;Rock;249;8
+Segmentation Fault;Os Compiladores;Rock;240;20
+Modulação;Synth Lab;Eletrônica;122;8
+Cache Miss;DJ Ponteiro;Eletrônica;296;10
+Caso Base;Trio Recursivo;Samba;282;11
+Override;Quarteto Polimórfico;Jazz;177;1
+Kernel Panic;Os Compiladores;Rock;249;9
+Maré Alta;Lua Nova;MPB;174;20
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Céu de Porto Alegre;Lua Nova;MPB;194;11
+Stream de Rimas;MC Lambda;Hip-hop;243;8
+Rehash;Bianca Hash;Pop;314;6
+Ping Alto;Banda Larga;Rock;7;17
+Fibra Ótica;Banda Larga;Rock;302;21
+Modulação;Synth Lab;Eletrônica;233;18
+Maré Alta;Lua Nova;MPB;4;8
+Chimarrão;Lua Nova;MPB;6;19
+Feedback;Ruído Branco;Rock;279;8
+Segmentation Fault;Os Compiladores;Rock;240;8
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Feedback;Ruído Branco;Rock;57;8
+Fibra Ótica;Banda Larga;Rock;38;11
+Merge Conflict;Coletivo Compila;Hip-hop;199;15
+Feedback;Ruído Branco;Rock;279;9
+Segmentation Fault;Os Compiladores;Rock;240;19
+Kernel Panic;Os Compiladores;Rock;249;8
+Céu de Porto Alegre;Lua Nova;MPB;194;10
+Céu de Porto Alegre;Lua Nova;MPB;159;21
+Estática;Ruído Branco;Rock;265;17
+Fibra Ótica;Banda Larga;Rock;302;19
+Oscilador;Synth Lab;Eletrônica;189;22
+Maré Alta;Lua Nova;MPB;174;12
+NullPointer;DJ Ponteiro;Eletrônica;225;16
+Chimarrão;Lua Nova;MPB;92;20
+Oscilador;Synth Lab;Eletrônica;189;11
+Ping Alto;Banda Larga;Rock;231;12
+Volta ao Início;Os Iteradores;Pop;258;22
+Segmentation Fault;Os Compiladores;Rock;5;1
+Estática;Ruído Branco;Rock;265;18
+Segmentation Fault;Os Compiladores;Rock;240;8
+Stream de Rimas;MC Lambda;Hip-hop;157;8
+hasNext;Os Iteradores;Pop;150;23
+Stream de Rimas;MC Lambda;Hip-hop;243;10
+Sem Sinal;Banda Larga;Rock;287;8
+Merge Conflict;Coletivo Compila;Hip-hop;199;15
+Guaíba ao Entardecer;Lua Nova;MPB;206;7
+Bucket List;Bianca Hash;Pop;239;7
+Volta ao Início;Os Iteradores;Pop;25;9
+Fibra Ótica;Banda Larga;Rock;302;22
+Maré Alta;Lua Nova;MPB;174;12
+Modulação;Synth Lab;Eletrônica;233;21
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Bucket List;Bianca Hash;Pop;239;23
+Chimarrão;Lua Nova;MPB;8;21
+Modulação;Synth Lab;Eletrônica;233;18
+Caso Base;Trio Recursivo;Samba;90;22
+Kernel Panic;Os Compiladores;Rock;134;21
+Estática;Ruído Branco;Rock;265;21
+Feedback;Ruído Branco;Rock;279;23
+Garbage Collector;DJ Ponteiro;Eletrônica;50;22
+Stack Overflow;Os Compiladores;Rock;131;19
+Ping Alto;Banda Larga;Rock;11;19
+Fibra Ótica;Banda Larga;Rock;302;23
+Estática;Ruído Branco;Rock;265;14
+Volta pra Mim;Trio Recursivo;Samba;27;12
+Kernel Panic;Os Compiladores;Rock;249;20
+Segmentation Fault;Os Compiladores;Rock;240;21
+Kernel Panic;Os Compiladores;Rock;24;13
+Fibra Ótica;Banda Larga;Rock;302;23
+Fibra Ótica;Banda Larga;Rock;302;15
+Chimarrão;Lua Nova;MPB;179;21
+Oscilador;Synth Lab;Eletrônica;86;14
+Varanda;Clara Vereda;MPB;163;21
+Maré Alta;Lua Nova;MPB;174;9
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Chimarrão;Lua Nova;MPB;41;12
+Varanda;Clara Vereda;MPB;163;0
+Ping Alto;Banda Larga;Rock;15;7
+Override;Quarteto Polimórfico;Jazz;177;8
+Segmentation Fault;Os Compiladores;Rock;240;18
+Sem Sinal;Banda Larga;Rock;287;22
+Fibra Ótica;Banda Larga;Rock;302;12
+Caso Base;Trio Recursivo;Samba;282;12
+Feedback;Ruído Branco;Rock;279;23
+Próximo;Os Iteradores;Pop;303;9
+Ping Alto;Banda Larga;Rock;231;11
+Segmentation Fault;Os Compiladores;Rock;187;13
+Maré Alta;Lua Nova;MPB;174;19
+Rehash;Bianca Hash;Pop;18;9
+Segmentation Fault;Os Compiladores;Rock;147;11
+Segmentation Fault;Os Compiladores;Rock;240;20
+Override;Quarteto Polimórfico;Jazz;18;20
+Fibra Ótica;Banda Larga;Rock;302;18
+Segmentation Fault;Os Compiladores;Rock;240;16
+Guaíba ao Entardecer;Lua Nova;MPB;206;17
+Feedback;Ruído Branco;Rock;279;19
+Oscilador;Synth Lab;Eletrônica;189;8
+Caso Base;Trio Recursivo;Samba;282;21
+Stack Overflow;Os Compiladores;Rock;260;20
+Estática;Ruído Branco;Rock;7;18
+Merge Conflict;Coletivo Compila;Hip-hop;11;16
+Ping Alto;Banda Larga;Rock;231;6
+Fibra Ótica;Banda Larga;Rock;302;21
+Cache Miss;DJ Ponteiro;Eletrônica;296;23
+Estática;Ruído Branco;Rock;130;12
+Ping Alto;Banda Larga;Rock;25;18
+Feedback;Ruído Branco;Rock;279;10
+Caso Base;Trio Recursivo;Samba;15;19
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Ipê Amarelo;Clara Vereda;MPB;162;20
+Varanda;Clara Vereda;MPB;163;18
+Próximo;Os Iteradores;Pop;303;0
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Maré Alta;Lua Nova;MPB;174;19
+Maré Alta;Lua Nova;MPB;174;21
+Segmentation Fault;Os Compiladores;Rock;229;19
+Fibra Ótica;Banda Larga;Rock;302;21
+Segmentation Fault;Os Compiladores;Rock;240;13
+Deadlock;Os Compiladores;Rock;216;7
+Bucket List;Bianca Hash;Pop;21;20
+Ping Alto;Banda Larga;Rock;231;20
+Chimarrão;Lua Nova;MPB;179;21
+Oscilador;Synth Lab;Eletrônica;189;20
+Fibra Ótica;Banda Larga;Rock;302;19
+Kernel Panic;Os Compiladores;Rock;221;20
+Merge Conflict;Coletivo Compila;Hip-hop;199;16
+hasNext;Os Iteradores;Pop;20;10
+Ipê Amarelo;Clara Vereda;MPB;162;20
+Kernel Panic;Os Compiladores;Rock;249;8
+Build Quebrado;Coletivo Compila;Hip-hop;323;11
+Céu de Porto Alegre;Lua Nova;MPB;12;16
+NullPointer;DJ Ponteiro;Eletrônica;225;20
+Ping Alto;Banda Larga;Rock;231;17
+Maré Alta;Lua Nova;MPB;174;17
+Segmentation Fault;Os Compiladores;Rock;240;18
+Interface Azul;Quarteto Polimórfico;Jazz;3;8
+Segmentation Fault;Os Compiladores;Rock;240;21
+Kernel Panic;Os Compiladores;Rock;249;14
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Segmentation Fault;Os Compiladores;Rock;240;18
+Merge Conflict;Coletivo Compila;Hip-hop;199;14
+Stack Overflow;Os Compiladores;Rock;260;18
+Segmentation Fault;Os Compiladores;Rock;240;20
+Chimarrão;Lua Nova;MPB;179;19
+Stream de Rimas;MC Lambda;Hip-hop;11;22
+Override;Quarteto Polimórfico;Jazz;177;20
+Chimarrão;Lua Nova;MPB;179;23
+Ping Alto;Banda Larga;Rock;231;23
+Céu de Porto Alegre;Lua Nova;MPB;194;15
+Varanda;Clara Vereda;MPB;14;14
+Céu de Porto Alegre;Lua Nova;MPB;194;10
+Kernel Panic;Os Compiladores;Rock;154;16
+Pixel;Bits & Bytes;Eletrônica;17;13
+Kernel Panic;Os Compiladores;Rock;249;17
+NullPointer;DJ Ponteiro;Eletrônica;225;20
+Ping Alto;Banda Larga;Rock;231;12
+Deadlock;Os Compiladores;Rock;216;19
+Stream de Rimas;MC Lambda;Hip-hop;243;8
+Fibra Ótica;Banda Larga;Rock;41;7
+Estática;Ruído Branco;Rock;265;16
+Feedback;Ruído Branco;Rock;279;10
+Rehash;Bianca Hash;Pop;159;18
+Stack Overflow;Os Compiladores;Rock;260;19
+Fibra Ótica;Banda Larga;Rock;302;9
+Stream de Rimas;MC Lambda;Hip-hop;243;13
+Estática;Ruído Branco;Rock;23;3
+Bucket List;Bianca Hash;Pop;9;14
+Guaíba ao Entardecer;Lua Nova;MPB;24;15
+Segmentation Fault;Os Compiladores;Rock;240;16
+Stream de Rimas;MC Lambda;Hip-hop;243;14
+Loop Infinito;Os Compiladores;Rock;22;17
+Kernel Panic;Os Compiladores;Rock;249;2
+Maré Alta;Lua Nova;MPB;98;2
+Thread Pool;DJ Ponteiro;Eletrônica;174;22
+Segmentation Fault;Os Compiladores;Rock;146;15
+Bucket List;Bianca Hash;Pop;239;18
+Ping Alto;Banda Larga;Rock;16;20
+Oscilador;Synth Lab;Eletrônica;16;2
+Segmentation Fault;Os Compiladores;Rock;240;10
+Ping Alto;Banda Larga;Rock;4;20
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Oscilador;Synth Lab;Eletrônica;189;13
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Maré Alta;Lua Nova;MPB;174;7
+Deadlock;Os Compiladores;Rock;216;14
+Deadlock;Os Compiladores;Rock;216;21
+Ping Alto;Banda Larga;Rock;220;7
+Merge Conflict;Coletivo Compila;Hip-hop;86;22
+Loop Infinito;Os Compiladores;Rock;201;19
+Próximo;Os Iteradores;Pop;303;11
+Maré Alta;Lua Nova;MPB;174;22
+Loop Infinito;Os Compiladores;Rock;21;21
+Ping Alto;Banda Larga;Rock;231;19
+Volta ao Início;Os Iteradores;Pop;258;15
+Rehash;Bianca Hash;Pop;4;11
+Céu de Porto Alegre;Lua Nova;MPB;127;21
+Estática;Ruído Branco;Rock;265;19
+Herança;Duo Abstrato;Jazz;198;22
+Deadlock;Os Compiladores;Rock;124;18
+Deadlock;Os Compiladores;Rock;216;22
+Rehash;Bianca Hash;Pop;314;17
+Guaíba ao Entardecer;Lua Nova;MPB;181;8
+Herança;Duo Abstrato;Jazz;38;9
+Fibra Ótica;Banda Larga;Rock;302;23
+Rehash;Bianca Hash;Pop;314;21
+Build Quebrado;Coletivo Compila;Hip-hop;323;22
+Kernel Panic;Os Compiladores;Rock;249;11
+Maré Alta;Lua Nova;MPB;174;19
+Feedback;Ruído Branco;Rock;279;18
+Volta ao Início;Os Iteradores;Pop;258;9
+Kernel Panic;Os Compiladores;Rock;249;22
+Feedback;Ruído Branco;Rock;279;22
+Oscilador;Synth Lab;Eletrônica;189;20
+Deadlock;Os Compiladores;Rock;216;4
+Segmentation Fault;Os Compiladores;Rock;43;17
+Sem Sinal;Banda Larga;Rock;287;11
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Chimarrão;Lua Nova;MPB;179;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Thread Pool;DJ Ponteiro;Eletrônica;174;17
+Guaíba ao Entardecer;Lua Nova;MPB;86;9
+Varanda;Clara Vereda;MPB;163;20
+Stack Overflow;Os Compiladores;Rock;260;19
+hasNext;Os Iteradores;Pop;147;21
+Segmentation Fault;Os Compiladores;Rock;21;10
+Próximo;Os Iteradores;Pop;16;20
+Segmentation Fault;Os Compiladores;Rock;17;15
+Feedback;Ruído Branco;Rock;279;8
+Volta pra Mim;Trio Recursivo;Samba;196;18
+Chimarrão;Lua Nova;MPB;179;7
+Maré Alta;Lua Nova;MPB;90;21
+Kernel Panic;Os Compiladores;Rock;249;8
+Chimarrão;Lua Nova;MPB;179;17
+Rehash;Bianca Hash;Pop;314;22
+Sem Sinal;Banda Larga;Rock;11;21
+Cuíca;Escola do Morro;Samba;18;20
+Segmentation Fault;Os Compiladores;Rock;21;18
+Sem Sinal;Banda Larga;Rock;16;21
+Stack Overflow;Os Compiladores;Rock;260;14
+Fibra Ótica;Banda Larga;Rock;302;19
+Céu de Porto Alegre;Lua Nova;MPB;171;8
+Fibra Ótica;Banda Larga;Rock;302;20
+Ping Alto;Banda Larga;Rock;231;22
+Ping Alto;Banda Larga;Rock;4;10
+Chimarrão;Lua Nova;MPB;179;14
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Caso Base;Trio Recursivo;Samba;282;22
+Sem Sinal;Banda Larga;Rock;5;10
+Céu de Porto Alegre;Lua Nova;MPB;194;15
+Modulação;Synth Lab;Eletrônica;233;16
+Segmentation Fault;Os Compiladores;Rock;240;2
+Stack Overflow;Os Compiladores;Rock;260;1
+Pixel;Bits & Bytes;Eletrônica;281;19
+Fibra Ótica;Banda Larga;Rock;9;16
+Rehash;Bianca Hash;Pop;314;14
+Estática;Ruído Branco;Rock;265;18
+Deadlock;Os Compiladores;Rock;216;17
+Feedback;Ruído Branco;Rock;279;12
+Maré Alta;Lua Nova;MPB;174;21
+Deadlock;Os Compiladores;Rock;216;20
+Herança;Duo Abstrato;Jazz;198;7
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Cache Miss;DJ Ponteiro;Eletrônica;296;22
+Feedback;Ruído Branco;Rock;95;18
+Volta pra Mim;Trio Recursivo;Samba;196;7
+Segmentation Fault;Os Compiladores;Rock;204;20
+Bucket List;Bianca Hash;Pop;22;14
+Rehash;Bianca Hash;Pop;314;19
+Kernel Panic;Os Compiladores;Rock;249;19
+Bucket List;Bianca Hash;Pop;27;20
+Chimarrão;Lua Nova;MPB;17;15
+Build Quebrado;Coletivo Compila;Hip-hop;323;18
+NullPointer;DJ Ponteiro;Eletrônica;225;19
+Oscilador;Synth Lab;Eletrônica;189;22
+Rehash;Bianca Hash;Pop;314;22
+Override;Quarteto Polimórfico;Jazz;177;12
+Segmentation Fault;Os Compiladores;Rock;30;16
+Feedback;Ruído Branco;Rock;279;10
+Varanda;Clara Vereda;MPB;163;21
+Loop Infinito;Os Compiladores;Rock;201;15
+Bucket List;Bianca Hash;Pop;27;18
+Stream de Rimas;MC Lambda;Hip-hop;59;12
+Fibra Ótica;Banda Larga;Rock;302;23
+Expressão;MC Lambda;Hip-hop;28;11
+Stack Overflow;Os Compiladores;Rock;260;22
+Volta ao Início;Os Iteradores;Pop;258;18
+Caso Base;Trio Recursivo;Samba;282;14
+Caso Base;Trio Recursivo;Samba;282;8
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Ping Alto;Banda Larga;Rock;3;10
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Volta ao Início;Os Iteradores;Pop;258;16
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Fibra Ótica;Banda Larga;Rock;302;18
+Bucket List;Bianca Hash;Pop;28;23
+Stream de Rimas;MC Lambda;Hip-hop;74;18
+hasNext;Os Iteradores;Pop;150;16
+Chimarrão;Lua Nova;MPB;149;22
+Ping Alto;Banda Larga;Rock;231;8
+Ping Alto;Banda Larga;Rock;231;23
+Segmentation Fault;Os Compiladores;Rock;81;20
+Sem Sinal;Banda Larga;Rock;287;19
+NullPointer;DJ Ponteiro;Eletrônica;225;23
+Override;Quarteto Polimórfico;Jazz;177;13
+Loop Infinito;Os Compiladores;Rock;201;13
+Caminho de Volta;Clara Vereda;MPB;213;9
+Bucket List;Bianca Hash;Pop;23;23
+Segmentation Fault;Os Compiladores;Rock;240;9
+Modulação;Synth Lab;Eletrônica;180;21
+Ping Alto;Banda Larga;Rock;192;21
+Oscilador;Synth Lab;Eletrônica;189;10
+Modulação;Synth Lab;Eletrônica;233;20
+Deadlock;Os Compiladores;Rock;216;9
+Modulação;Synth Lab;Eletrônica;233;23
+Fibra Ótica;Banda Larga;Rock;302;10
+Oscilador;Synth Lab;Eletrônica;31;1
+Cache Miss;DJ Ponteiro;Eletrônica;15;19
+Fibra Ótica;Banda Larga;Rock;302;21
+Kernel Panic;Os Compiladores;Rock;249;12
+Cuíca;Escola do Morro;Samba;221;10
+Modulação;Synth Lab;Eletrônica;202;20
+Fibra Ótica;Banda Larga;Rock;302;15
+Segmentation Fault;Os Compiladores;Rock;234;21
+Merge Conflict;Coletivo Compila;Hip-hop;162;22
+Fibra Ótica;Banda Larga;Rock;302;18
+Próximo;Os Iteradores;Pop;303;10
+Próximo;Os Iteradores;Pop;303;1
+Ipê Amarelo;Clara Vereda;MPB;11;22
+Kernel Panic;Os Compiladores;Rock;189;20
+Fibra Ótica;Banda Larga;Rock;112;8
+Varanda;Clara Vereda;MPB;163;1
+Guaíba ao Entardecer;Lua Nova;MPB;206;23
+Deadlock;Os Compiladores;Rock;24;6
+Fibra Ótica;Banda Larga;Rock;302;12
+Chimarrão;Lua Nova;MPB;179;0
+Próximo;Os Iteradores;Pop;303;18
+Stack Overflow;Os Compiladores;Rock;260;7
+Rehash;Bianca Hash;Pop;58;23
+Próximo;Os Iteradores;Pop;303;18
+Build Quebrado;Coletivo Compila;Hip-hop;323;22
+Fibra Ótica;Banda Larga;Rock;302;18
+Caminho de Volta;Clara Vereda;MPB;213;8
+Oscilador;Synth Lab;Eletrônica;189;15
+Fibra Ótica;Banda Larga;Rock;91;9
+Feedback;Ruído Branco;Rock;279;5
+Fibra Ótica;Banda Larga;Rock;302;19
+Herança;Duo Abstrato;Jazz;103;12
+Stream de Rimas;MC Lambda;Hip-hop;243;15
+Deadlock;Os Compiladores;Rock;141;22
+Céu de Porto Alegre;Lua Nova;MPB;194;11
+Fibra Ótica;Banda Larga;Rock;302;7
+Ping Alto;Banda Larga;Rock;231;8
+Maré Alta;Lua Nova;MPB;21;19
+hasNext;Os Iteradores;Pop;150;21
+Próximo;Os Iteradores;Pop;303;23
+Feedback;Ruído Branco;Rock;279;22
+Fibra Ótica;Banda Larga;Rock;3;13
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Volta ao Início;Os Iteradores;Pop;258;22
+Próximo;Os Iteradores;Pop;303;8
+Expressão;MC Lambda;Hip-hop;247;14
+Feedback;Ruído Branco;Rock;279;19
+Estática;Ruído Branco;Rock;5;11
+Próximo;Os Iteradores;Pop;303;12
+Sem Sinal;Banda Larga;Rock;119;2
+Merge Conflict;Coletivo Compila;Hip-hop;199;12
+Segmentation Fault;Os Compiladores;Rock;240;21
+Sem Sinal;Banda Larga;Rock;287;20
+Interface Azul;Quarteto Polimórfico;Jazz;313;0
+Céu de Porto Alegre;Lua Nova;MPB;194;3
+Maré Alta;Lua Nova;MPB;174;20
+Próximo;Os Iteradores;Pop;303;14
+Maré Alta;Lua Nova;MPB;174;22
+Pixel;Bits & Bytes;Eletrônica;184;22
+Caso Base;Trio Recursivo;Samba;282;4
+Segmentation Fault;Os Compiladores;Rock;14;13
+Pixel;Bits & Bytes;Eletrônica;281;19
+Estática;Ruído Branco;Rock;25;2
+Loop Infinito;Os Compiladores;Rock;26;13
+Bucket List;Bianca Hash;Pop;239;22
+Bucket List;Bianca Hash;Pop;239;8
+Sobrecarga;Quarteto Polimórfico;Jazz;5;8
+Override;Quarteto Polimórfico;Jazz;177;14
+Feedback;Ruído Branco;Rock;148;13
+Segmentation Fault;Os Compiladores;Rock;21;22
+Loop Infinito;Os Compiladores;Rock;128;19
+Kernel Panic;Os Compiladores;Rock;23;11
+Céu de Porto Alegre;Lua Nova;MPB;194;1
+Fibra Ótica;Banda Larga;Rock;302;16
+Ping Alto;Banda Larga;Rock;27;11
+Segmentation Fault;Os Compiladores;Rock;240;0
+Overclock;Bits & Bytes;Eletrônica;260;12
+Segmentation Fault;Os Compiladores;Rock;240;13
+Guaíba ao Entardecer;Lua Nova;MPB;166;19
+Feedback;Ruído Branco;Rock;279;16
+Ping Alto;Banda Larga;Rock;231;15
+Oscilador;Synth Lab;Eletrônica;61;21
+Rehash;Bianca Hash;Pop;314;18
+Kernel Panic;Os Compiladores;Rock;249;20
+Rehash;Bianca Hash;Pop;314;21
+Override;Quarteto Polimórfico;Jazz;177;17
+Volta ao Início;Os Iteradores;Pop;258;22
+Expressão;MC Lambda;Hip-hop;127;1
+Sem Sinal;Banda Larga;Rock;287;22
+Fibra Ótica;Banda Larga;Rock;302;14
+Maré Alta;Lua Nova;MPB;174;22
+NullPointer;DJ Ponteiro;Eletrônica;67;19
+Ping Alto;Banda Larga;Rock;29;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;10
+Caso Base;Trio Recursivo;Samba;251;23
+hasNext;Os Iteradores;Pop;150;13
+Pilha de Chamadas;Trio Recursivo;Samba;281;11
+Fibra Ótica;Banda Larga;Rock;302;17
+Próximo;Os Iteradores;Pop;303;22
+Chimarrão;Lua Nova;MPB;179;14
+Caso Base;Trio Recursivo;Samba;282;13
+Feedback;Ruído Branco;Rock;279;22
+Fibra Ótica;Banda Larga;Rock;260;20
+Céu de Porto Alegre;Lua Nova;MPB;194;11
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Fibra Ótica;Banda Larga;Rock;302;7
+Maré Alta;Lua Nova;MPB;174;7
+Segmentation Fault;Os Compiladores;Rock;240;15
+Segmentation Fault;Os Compiladores;Rock;98;22
+Feedback;Ruído Branco;Rock;243;16
+Feedback;Ruído Branco;Rock;279;13
+Build Quebrado;Coletivo Compila;Hip-hop;3;0
+Rehash;Bianca Hash;Pop;314;18
+Maré Alta;Lua Nova;MPB;25;8
+Modulação;Synth Lab;Eletrônica;233;9
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Guaíba ao Entardecer;Lua Nova;MPB;206;1
+Pixel;Bits & Bytes;Eletrônica;27;20
+Stack Overflow;Os Compiladores;Rock;260;14
+Bucket List;Bianca Hash;Pop;6;16
+Varanda;Clara Vereda;MPB;163;18
+Fibra Ótica;Banda Larga;Rock;302;21
+Deadlock;Os Compiladores;Rock;216;21
+Deadlock;Os Compiladores;Rock;216;9
+Feedback;Ruído Branco;Rock;8;7
+Chimarrão;Lua Nova;MPB;179;19
+Caminho de Volta;Clara Vereda;MPB;213;2
+Maré Alta;Lua Nova;MPB;165;21
+Merge Conflict;Coletivo Compila;Hip-hop;199;9
+Feedback;Ruído Branco;Rock;279;8
+Fator de Carga;Bianca Hash;Pop;312;22
+Ping Alto;Banda Larga;Rock;231;17
+Kernel Panic;Os Compiladores;Rock;249;6
+Fibra Ótica;Banda Larga;Rock;302;21
+Modulação;Synth Lab;Eletrônica;233;8
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Colisão;Bianca Hash;Pop;23;6
+Estática;Ruído Branco;Rock;12;21
+Próximo;Os Iteradores;Pop;303;10
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Bucket List;Bianca Hash;Pop;207;21
+Oscilador;Synth Lab;Eletrônica;189;10
+Merge Conflict;Coletivo Compila;Hip-hop;27;9
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Override;Quarteto Polimórfico;Jazz;177;23
+Classe Sem Corpo;Duo Abstrato;Jazz;270;22
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Próximo;Os Iteradores;Pop;303;16
+Cache Miss;DJ Ponteiro;Eletrônica;296;23
+Kernel Panic;Os Compiladores;Rock;249;10
+Rehash;Bianca Hash;Pop;314;15
+Céu de Porto Alegre;Lua Nova;MPB;40;9
+Estática;Ruído Branco;Rock;265;22
+Céu de Porto Alegre;Lua Nova;MPB;194;16
+hasNext;Os Iteradores;Pop;150;14
+Fibra Ótica;Banda Larga;Rock;302;15
+Chimarrão;Lua Nova;MPB;179;8
+Stream de Rimas;MC Lambda;Hip-hop;243;8
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Sem Sinal;Banda Larga;Rock;287;7
+Merge Conflict;Coletivo Compila;Hip-hop;161;19
+Guaíba ao Entardecer;Lua Nova;MPB;206;14
+hasNext;Os Iteradores;Pop;70;17
+Bucket List;Bianca Hash;Pop;239;22
+Thread Pool;DJ Ponteiro;Eletrônica;174;12
+NullPointer;DJ Ponteiro;Eletrônica;225;12
+Loop Infinito;Os Compiladores;Rock;4;22
+Segmentation Fault;Os Compiladores;Rock;240;11
+Estática;Ruído Branco;Rock;21;7
+Próximo;Os Iteradores;Pop;62;23
+Feedback;Ruído Branco;Rock;38;22
+Override;Quarteto Polimórfico;Jazz;177;0
+Bucket List;Bianca Hash;Pop;17;7
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Classe Sem Corpo;Duo Abstrato;Jazz;270;11
+Merge Conflict;Coletivo Compila;Hip-hop;199;13
+Chimarrão;Lua Nova;MPB;179;19
+Segmentation Fault;Os Compiladores;Rock;24;19
+Fibra Ótica;Banda Larga;Rock;173;21
+Estática;Ruído Branco;Rock;28;18
+Segmentation Fault;Os Compiladores;Rock;240;0
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Chimarrão;Lua Nova;MPB;68;18
+Oscilador;Synth Lab;Eletrônica;189;17
+Fibra Ótica;Banda Larga;Rock;302;23
+Feedback;Ruído Branco;Rock;137;23
+Céu de Porto Alegre;Lua Nova;MPB;162;13
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Kernel Panic;Os Compiladores;Rock;65;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Maré Alta;Lua Nova;MPB;174;14
+Feedback;Ruído Branco;Rock;279;9
+Maré Alta;Lua Nova;MPB;174;22
+Rehash;Bianca Hash;Pop;314;10
+Modulação;Synth Lab;Eletrônica;233;10
+Stack Overflow;Os Compiladores;Rock;260;16
+Segmentation Fault;Os Compiladores;Rock;240;12
+Fibra Ótica;Banda Larga;Rock;302;14
+Pixel;Bits & Bytes;Eletrônica;281;22
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Rehash;Bianca Hash;Pop;314;19
+Kernel Panic;Os Compiladores;Rock;249;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;9
+Deadlock;Os Compiladores;Rock;216;19
+Deadlock;Os Compiladores;Rock;216;18
+Céu de Porto Alegre;Lua Nova;MPB;7;18
+Oscilador;Synth Lab;Eletrônica;189;10
+Cache Miss;DJ Ponteiro;Eletrônica;296;2
+Modulação;Synth Lab;Eletrônica;233;12
+Interface Azul;Quarteto Polimórfico;Jazz;313;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Modulação;Synth Lab;Eletrônica;233;7
+Herança;Duo Abstrato;Jazz;198;11
+hasNext;Os Iteradores;Pop;143;23
+Stack Overflow;Os Compiladores;Rock;225;21
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Feedback;Ruído Branco;Rock;279;20
+Kernel Panic;Os Compiladores;Rock;249;10
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Deadlock;Os Compiladores;Rock;127;22
+Fibra Ótica;Banda Larga;Rock;302;19
+Cache Miss;DJ Ponteiro;Eletrônica;296;7
+Build Quebrado;Coletivo Compila;Hip-hop;323;8
+Ipê Amarelo;Clara Vereda;MPB;162;22
+Ping Alto;Banda Larga;Rock;19;12
+Rehash;Bianca Hash;Pop;314;17
+Segmentation Fault;Os Compiladores;Rock;240;20
+Oscilador;Synth Lab;Eletrônica;189;19
+Feedback;Ruído Branco;Rock;279;15
+Próximo;Os Iteradores;Pop;303;17
+hasNext;Os Iteradores;Pop;150;22
+Pixel;Bits & Bytes;Eletrônica;281;19
+Modulação;Synth Lab;Eletrônica;233;19
+Caso Base;Trio Recursivo;Samba;282;11
+Feedback;Ruído Branco;Rock;279;7
+Feedback;Ruído Branco;Rock;178;17
+Rehash;Bianca Hash;Pop;314;11
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Kernel Panic;Os Compiladores;Rock;249;22
+Feedback;Ruído Branco;Rock;279;16
+Ping Alto;Banda Larga;Rock;231;8
+Segmentation Fault;Os Compiladores;Rock;240;13
+Próximo;Os Iteradores;Pop;103;20
+Feedback;Ruído Branco;Rock;279;19
+Chimarrão;Lua Nova;MPB;179;8
+Chimarrão;Lua Nova;MPB;15;22
+Rehash;Bianca Hash;Pop;314;21
+Modulação;Synth Lab;Eletrônica;233;7
+Stream de Rimas;MC Lambda;Hip-hop;243;11
+Modulação;Synth Lab;Eletrônica;233;23
+Segmentation Fault;Os Compiladores;Rock;240;19
+Fibra Ótica;Banda Larga;Rock;302;20
+Céu de Porto Alegre;Lua Nova;MPB;53;14
+Interface Azul;Quarteto Polimórfico;Jazz;313;17
+Classe Sem Corpo;Duo Abstrato;Jazz;270;7
+Chimarrão;Lua Nova;MPB;179;9
+Rehash;Bianca Hash;Pop;314;1
+Feedback;Ruído Branco;Rock;279;21
+Feedback;Ruído Branco;Rock;279;18
+Caso Base;Trio Recursivo;Samba;88;21
+Ping Alto;Banda Larga;Rock;231;22
+Pixel;Bits & Bytes;Eletrônica;23;18
+Modulação;Synth Lab;Eletrônica;233;10
+Override;Quarteto Polimórfico;Jazz;177;8
+Rehash;Bianca Hash;Pop;253;22
+Segmentation Fault;Os Compiladores;Rock;240;20
+hasNext;Os Iteradores;Pop;150;0
+Bucket List;Bianca Hash;Pop;239;12
+Override;Quarteto Polimórfico;Jazz;177;19
+Pixel;Bits & Bytes;Eletrônica;232;17
+Guaíba ao Entardecer;Lua Nova;MPB;206;14
+Ping Alto;Banda Larga;Rock;13;8
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Kernel Panic;Os Compiladores;Rock;249;16
+Volta pra Mim;Trio Recursivo;Samba;196;8
+Loop Infinito;Os Compiladores;Rock;201;22
+Stack Overflow;Os Compiladores;Rock;260;18
+Céu de Porto Alegre;Lua Nova;MPB;186;23
+Caso Base;Trio Recursivo;Samba;282;21
+Guaíba ao Entardecer;Lua Nova;MPB;206;23
+Segmentation Fault;Os Compiladores;Rock;240;12
+Ping Alto;Banda Larga;Rock;24;16
+Rehash;Bianca Hash;Pop;314;21
+hasNext;Os Iteradores;Pop;150;14
+Caso Base;Trio Recursivo;Samba;282;20
+Kernel Panic;Os Compiladores;Rock;3;15
+Chimarrão;Lua Nova;MPB;111;21
+Próximo;Os Iteradores;Pop;145;21
+Varanda;Clara Vereda;MPB;163;11
+Volta ao Início;Os Iteradores;Pop;173;12
+Sem Sinal;Banda Larga;Rock;287;20
+Kernel Panic;Os Compiladores;Rock;249;17
+Caminho de Volta;Clara Vereda;MPB;213;18
+Chimarrão;Lua Nova;MPB;179;14
+Sem Sinal;Banda Larga;Rock;287;23
+Sem Sinal;Banda Larga;Rock;287;14
+Caso Base;Trio Recursivo;Samba;282;15
+Kernel Panic;Os Compiladores;Rock;249;19
+Modulação;Synth Lab;Eletrônica;233;17
+Stack Overflow;Os Compiladores;Rock;260;12
+Segmentation Fault;Os Compiladores;Rock;61;23
+Oscilador;Synth Lab;Eletrônica;189;9
+Deadlock;Os Compiladores;Rock;216;19
+NullPointer;DJ Ponteiro;Eletrônica;225;22
+Stream de Rimas;MC Lambda;Hip-hop;243;16
+Segmentation Fault;Os Compiladores;Rock;240;22
+Herança;Duo Abstrato;Jazz;198;15
+Rehash;Bianca Hash;Pop;40;13
+Segmentation Fault;Os Compiladores;Rock;240;17
+Caso Base;Trio Recursivo;Samba;282;18
+Próximo;Os Iteradores;Pop;303;8
+Estática;Ruído Branco;Rock;265;19
+Feedback;Ruído Branco;Rock;279;8
+Estática;Ruído Branco;Rock;18;10
+Ping Alto;Banda Larga;Rock;6;16
+Ping Alto;Banda Larga;Rock;6;13
+Rehash;Bianca Hash;Pop;314;16
+hasNext;Os Iteradores;Pop;150;8
+Stream de Rimas;MC Lambda;Hip-hop;243;15
+Ping Alto;Banda Larga;Rock;15;7
+Kernel Panic;Os Compiladores;Rock;249;10
+Segmentation Fault;Os Compiladores;Rock;240;9
+Oscilador;Synth Lab;Eletrônica;189;10
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Fibra Ótica;Banda Larga;Rock;302;3
+Céu de Porto Alegre;Lua Nova;MPB;194;14
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Fibra Ótica;Banda Larga;Rock;302;12
+Oscilador;Synth Lab;Eletrônica;149;18
+Volta pra Mim;Trio Recursivo;Samba;196;23
+Caso Base;Trio Recursivo;Samba;282;3
+Maré Alta;Lua Nova;MPB;174;23
+hasNext;Os Iteradores;Pop;38;19
+Maré Alta;Lua Nova;MPB;174;23
+Maré Alta;Lua Nova;MPB;174;23
+Caminho de Volta;Clara Vereda;MPB;39;22
+Overclock;Bits & Bytes;Eletrônica;311;7
+Kernel Panic;Os Compiladores;Rock;136;22
+Kernel Panic;Os Compiladores;Rock;249;8
+Volta ao Início;Os Iteradores;Pop;258;18
+Chimarrão;Lua Nova;MPB;179;12
+NullPointer;DJ Ponteiro;Eletrônica;225;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;12
+Chimarrão;Lua Nova;MPB;57;22
+Céu de Porto Alegre;Lua Nova;MPB;101;13
+Kernel Panic;Os Compiladores;Rock;243;22
+Chimarrão;Lua Nova;MPB;151;10
+Fibra Ótica;Banda Larga;Rock;302;13
+Feedback;Ruído Branco;Rock;13;18
+Próximo;Os Iteradores;Pop;303;13
+Caso Base;Trio Recursivo;Samba;282;14
+Fibra Ótica;Banda Larga;Rock;302;23
+Interface Azul;Quarteto Polimórfico;Jazz;313;13
+Override;Quarteto Polimórfico;Jazz;177;10
+Caminho de Volta;Clara Vereda;MPB;213;18
+Rehash;Bianca Hash;Pop;40;23
+Varanda;Clara Vereda;MPB;163;10
+hasNext;Os Iteradores;Pop;150;20
+Bucket List;Bianca Hash;Pop;16;11
+Stack Overflow;Os Compiladores;Rock;102;19
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Fibra Ótica;Banda Larga;Rock;302;8
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Ipê Amarelo;Clara Vereda;MPB;162;12
+Override;Quarteto Polimórfico;Jazz;84;14
+Estática;Ruído Branco;Rock;265;23
+Herança;Duo Abstrato;Jazz;198;17
+Merge Conflict;Coletivo Compila;Hip-hop;199;9
+Céu de Porto Alegre;Lua Nova;MPB;8;19
+Modulação;Synth Lab;Eletrônica;9;19
+Segmentation Fault;Os Compiladores;Rock;240;22
+Oscilador;Synth Lab;Eletrônica;189;12
+Merge Conflict;Coletivo Compila;Hip-hop;199;18
+Kernel Panic;Os Compiladores;Rock;10;22
+Caso Base;Trio Recursivo;Samba;282;18
+Estática;Ruído Branco;Rock;5;19
+NullPointer;DJ Ponteiro;Eletrônica;225;10
+Oscilador;Synth Lab;Eletrônica;173;23
+Cache Miss;DJ Ponteiro;Eletrônica;29;20
+Interface Azul;Quarteto Polimórfico;Jazz;313;17
+Kernel Panic;Os Compiladores;Rock;143;17
+Volta ao Início;Os Iteradores;Pop;27;13
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Chimarrão;Lua Nova;MPB;179;4
+Feedback;Ruído Branco;Rock;279;18
+Kernel Panic;Os Compiladores;Rock;249;22
+Kernel Panic;Os Compiladores;Rock;249;22
+Cuíca;Escola do Morro;Samba;11;23
+Estática;Ruído Branco;Rock;265;15
+Feedback;Ruído Branco;Rock;279;8
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Kernel Panic;Os Compiladores;Rock;249;18
+Próximo;Os Iteradores;Pop;303;17
+Deadlock;Os Compiladores;Rock;185;19
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;10
+Volta ao Início;Os Iteradores;Pop;258;7
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Oscilador;Synth Lab;Eletrônica;18;0
+Estática;Ruído Branco;Rock;265;21
+Interface Azul;Quarteto Polimórfico;Jazz;313;21
+Ping Alto;Banda Larga;Rock;231;18
+Ping Alto;Banda Larga;Rock;231;21
+Caso Base;Trio Recursivo;Samba;6;22
+Fibra Ótica;Banda Larga;Rock;302;21
+Segmentation Fault;Os Compiladores;Rock;146;15
+hasNext;Os Iteradores;Pop;70;2
+Próximo;Os Iteradores;Pop;303;23
+Kernel Panic;Os Compiladores;Rock;16;14
+Feedback;Ruído Branco;Rock;279;21
+Caso Base;Trio Recursivo;Samba;282;12
+Ipê Amarelo;Clara Vereda;MPB;162;17
+Interface Azul;Quarteto Polimórfico;Jazz;313;17
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Rehash;Bianca Hash;Pop;314;19
+Fibra Ótica;Banda Larga;Rock;65;22
+Merge Conflict;Coletivo Compila;Hip-hop;57;8
+Oscilador;Synth Lab;Eletrônica;189;16
+Ping Alto;Banda Larga;Rock;4;15
+Próximo;Os Iteradores;Pop;303;1
+Fibra Ótica;Banda Larga;Rock;211;6
+Segmentation Fault;Os Compiladores;Rock;21;20
+Kernel Panic;Os Compiladores;Rock;249;23
+Feedback;Ruído Branco;Rock;279;1
+Merge Conflict;Coletivo Compila;Hip-hop;199;18
+Segmentation Fault;Os Compiladores;Rock;240;18
+Maré Alta;Lua Nova;MPB;174;10
+Colisão;Bianca Hash;Pop;21;19
+Caso Base;Trio Recursivo;Samba;282;18
+Segmentation Fault;Os Compiladores;Rock;240;21
+Cache Miss;DJ Ponteiro;Eletrônica;159;7
+Rehash;Bianca Hash;Pop;60;20
+Stream de Rimas;MC Lambda;Hip-hop;243;7
+Fibra Ótica;Banda Larga;Rock;302;23
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;12
+Chimarrão;Lua Nova;MPB;179;14
+Fibra Ótica;Banda Larga;Rock;302;12
+Maré Alta;Lua Nova;MPB;174;1
+Fibra Ótica;Banda Larga;Rock;302;19
+Ping Alto;Banda Larga;Rock;231;18
+Próximo;Os Iteradores;Pop;303;6
+Expressão;MC Lambda;Hip-hop;104;22
+Caso Base;Trio Recursivo;Samba;213;9
+Estática;Ruído Branco;Rock;265;0
+Override;Quarteto Polimórfico;Jazz;177;15
+Sem Sinal;Banda Larga;Rock;287;23
+Bucket List;Bianca Hash;Pop;239;21
+Chimarrão;Lua Nova;MPB;179;19
+Estática;Ruído Branco;Rock;102;11
+Segmentation Fault;Os Compiladores;Rock;240;22
+Fibra Ótica;Banda Larga;Rock;302;20
+Bucket List;Bianca Hash;Pop;239;14
+hasNext;Os Iteradores;Pop;150;13
+Sem Sinal;Banda Larga;Rock;103;12
+Stream de Rimas;MC Lambda;Hip-hop;94;21
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Estática;Ruído Branco;Rock;265;21
+Deadlock;Os Compiladores;Rock;216;11
+Volta ao Início;Os Iteradores;Pop;208;11
+Stream de Rimas;MC Lambda;Hip-hop;211;8
+Ping Alto;Banda Larga;Rock;11;18
+Fibra Ótica;Banda Larga;Rock;20;12
+Stack Overflow;Os Compiladores;Rock;260;9
+Ping Alto;Banda Larga;Rock;231;16
+Caso Base;Trio Recursivo;Samba;115;12
+Chimarrão;Lua Nova;MPB;179;18
+Ipê Amarelo;Clara Vereda;MPB;162;18
+Oscilador;Synth Lab;Eletrônica;70;14
+Deadlock;Os Compiladores;Rock;9;9
+Fibra Ótica;Banda Larga;Rock;302;22
+Thread Pool;DJ Ponteiro;Eletrônica;174;12
+Volta ao Início;Os Iteradores;Pop;258;19
+Override;Quarteto Polimórfico;Jazz;3;16
+Herança;Duo Abstrato;Jazz;88;0
+Stream de Rimas;MC Lambda;Hip-hop;243;15
+Override;Quarteto Polimórfico;Jazz;177;2
+Guaíba ao Entardecer;Lua Nova;MPB;206;16
+Segmentation Fault;Os Compiladores;Rock;240;20
+Segmentation Fault;Os Compiladores;Rock;240;10
+Rehash;Bianca Hash;Pop;314;22
+Merge Conflict;Coletivo Compila;Hip-hop;66;20
+Sem Sinal;Banda Larga;Rock;109;8
+Próximo;Os Iteradores;Pop;303;21
+Chimarrão;Lua Nova;MPB;179;15
+Cache Miss;DJ Ponteiro;Eletrônica;86;23
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Fibra Ótica;Banda Larga;Rock;302;22
+Fibra Ótica;Banda Larga;Rock;302;17
+Stream de Rimas;MC Lambda;Hip-hop;85;9
+Fibra Ótica;Banda Larga;Rock;286;22
+Caso Base;Trio Recursivo;Samba;257;16
+Céu de Porto Alegre;Lua Nova;MPB;194;7
+Override;Quarteto Polimórfico;Jazz;177;21
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Estática;Ruído Branco;Rock;265;2
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Oscilador;Synth Lab;Eletrônica;131;17
+Varanda;Clara Vereda;MPB;11;17
+Garbage Collector;DJ Ponteiro;Eletrônica;242;19
+Maré Alta;Lua Nova;MPB;174;7
+Oscilador;Synth Lab;Eletrônica;189;12
+Guaíba ao Entardecer;Lua Nova;MPB;75;23
+Próximo;Os Iteradores;Pop;31;19
+Oscilador;Synth Lab;Eletrônica;189;17
+Ping Alto;Banda Larga;Rock;231;10
+Stack Overflow;Os Compiladores;Rock;260;20
+Estática;Ruído Branco;Rock;27;20
+Estática;Ruído Branco;Rock;24;19
+Chimarrão;Lua Nova;MPB;179;16
+Chimarrão;Lua Nova;MPB;179;22
+Kernel Panic;Os Compiladores;Rock;249;15
+Build Quebrado;Coletivo Compila;Hip-hop;323;16
+Ipê Amarelo;Clara Vereda;MPB;162;17
+Chimarrão;Lua Nova;MPB;22;10
+Próximo;Os Iteradores;Pop;303;15
+Rehash;Bianca Hash;Pop;314;21
+Fibra Ótica;Banda Larga;Rock;302;12
+Maré Alta;Lua Nova;MPB;174;17
+Segmentation Fault;Os Compiladores;Rock;240;19
+Chimarrão;Lua Nova;MPB;179;22
+Rehash;Bianca Hash;Pop;314;8
+Oscilador;Synth Lab;Eletrônica;189;23
+Fibra Ótica;Banda Larga;Rock;302;7
+Fibra Ótica;Banda Larga;Rock;302;22
+Cuíca;Escola do Morro;Samba;221;11
+Stream de Rimas;MC Lambda;Hip-hop;243;10
+Guaíba ao Entardecer;Lua Nova;MPB;206;12
+Feedback;Ruído Branco;Rock;77;14
+Maré Alta;Lua Nova;MPB;174;12
+Kernel Panic;Os Compiladores;Rock;249;12
+Próximo;Os Iteradores;Pop;303;9
+Ping Alto;Banda Larga;Rock;231;9
+Segmentation Fault;Os Compiladores;Rock;240;23
+Fibra Ótica;Banda Larga;Rock;292;22
+Ping Alto;Banda Larga;Rock;231;9
+Pilha de Chamadas;Trio Recursivo;Samba;281;19
+Rehash;Bianca Hash;Pop;314;12
+Estática;Ruído Branco;Rock;265;9
+Varanda;Clara Vereda;MPB;163;20
+Segmentation Fault;Os Compiladores;Rock;240;8
+hasNext;Os Iteradores;Pop;150;14
+Caso Base;Trio Recursivo;Samba;282;20
+Ping Alto;Banda Larga;Rock;231;0
+Stack Overflow;Os Compiladores;Rock;260;6
+Segmentation Fault;Os Compiladores;Rock;240;23
+Segmentation Fault;Os Compiladores;Rock;240;18
+Maré Alta;Lua Nova;MPB;174;23
+Próximo;Os Iteradores;Pop;303;21
+Kernel Panic;Os Compiladores;Rock;249;7
+Oscilador;Synth Lab;Eletrônica;189;11
+Segmentation Fault;Os Compiladores;Rock;240;22
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Chimarrão;Lua Nova;MPB;179;18
+Estática;Ruído Branco;Rock;24;1
+Fibra Ótica;Banda Larga;Rock;295;7
+Rehash;Bianca Hash;Pop;314;15
+Chimarrão;Lua Nova;MPB;179;12
+Estática;Ruído Branco;Rock;26;13
+Ipê Amarelo;Clara Vereda;MPB;23;20
+Estática;Ruído Branco;Rock;265;12
+Feedback;Ruído Branco;Rock;279;18
+Volta ao Início;Os Iteradores;Pop;258;23
+Modulação;Synth Lab;Eletrônica;233;21
+Fibra Ótica;Banda Larga;Rock;302;21
+Estática;Ruído Branco;Rock;16;17
+Modulação;Synth Lab;Eletrônica;233;10
+Stream de Rimas;MC Lambda;Hip-hop;243;15
+Chimarrão;Lua Nova;MPB;17;21
+Caso Base;Trio Recursivo;Samba;117;12
+Merge Conflict;Coletivo Compila;Hip-hop;199;2
+Chimarrão;Lua Nova;MPB;102;14
+Herança;Duo Abstrato;Jazz;35;20
+Rehash;Bianca Hash;Pop;13;1
+Guaíba ao Entardecer;Lua Nova;MPB;206;16
+Chimarrão;Lua Nova;MPB;179;19
+Céu de Porto Alegre;Lua Nova;MPB;160;22
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Deadlock;Os Compiladores;Rock;52;9
+Volta ao Início;Os Iteradores;Pop;258;23
+Estática;Ruído Branco;Rock;20;21
+Rehash;Bianca Hash;Pop;314;17
+Stack Overflow;Os Compiladores;Rock;23;21
+Ping Alto;Banda Larga;Rock;231;18
+Rehash;Bianca Hash;Pop;314;21
+Feedback;Ruído Branco;Rock;279;18
+Interface Azul;Quarteto Polimórfico;Jazz;313;22
+Ping Alto;Banda Larga;Rock;231;17
+hasNext;Os Iteradores;Pop;150;13
+Sem Sinal;Banda Larga;Rock;10;20
+Rehash;Bianca Hash;Pop;314;22
+Sem Sinal;Banda Larga;Rock;287;10
+Sem Sinal;Banda Larga;Rock;287;13
+Fibra Ótica;Banda Larga;Rock;302;1
+Segmentation Fault;Os Compiladores;Rock;76;21
+Deadlock;Os Compiladores;Rock;216;17
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Ping Alto;Banda Larga;Rock;231;8
+Segmentation Fault;Os Compiladores;Rock;240;12
+Segmentation Fault;Os Compiladores;Rock;240;9
+Ping Alto;Banda Larga;Rock;231;22
+Stack Overflow;Os Compiladores;Rock;191;12
+Ping Alto;Banda Larga;Rock;26;19
+Segmentation Fault;Os Compiladores;Rock;63;21
+Oscilador;Synth Lab;Eletrônica;189;18
+hasNext;Os Iteradores;Pop;150;7
+Guaíba ao Entardecer;Lua Nova;MPB;206;6
+Estática;Ruído Branco;Rock;3;17
+Oscilador;Synth Lab;Eletrônica;189;21
+Merge Conflict;Coletivo Compila;Hip-hop;199;19
+Stream de Rimas;MC Lambda;Hip-hop;75;17
+Ping Alto;Banda Larga;Rock;231;21
+Feedback;Ruído Branco;Rock;30;22
+Feedback;Ruído Branco;Rock;279;19
+Kernel Panic;Os Compiladores;Rock;249;18
+Feedback;Ruído Branco;Rock;279;10
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Fibra Ótica;Banda Larga;Rock;302;19
+Kernel Panic;Os Compiladores;Rock;249;21
+Próximo;Os Iteradores;Pop;303;16
+Feedback;Ruído Branco;Rock;279;7
+Kernel Panic;Os Compiladores;Rock;249;15
+Ping Alto;Banda Larga;Rock;231;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;6
+Guaíba ao Entardecer;Lua Nova;MPB;206;17
+Rehash;Bianca Hash;Pop;314;8
+Rehash;Bianca Hash;Pop;314;21
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Ping Alto;Banda Larga;Rock;231;11
+Segmentation Fault;Os Compiladores;Rock;240;0
+Maré Alta;Lua Nova;MPB;174;8
+Ping Alto;Banda Larga;Rock;231;20
+Caminho de Volta;Clara Vereda;MPB;106;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;23
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Estática;Ruído Branco;Rock;6;11
+Deadlock;Os Compiladores;Rock;216;21
+Pixel;Bits & Bytes;Eletrônica;15;14
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Build Quebrado;Coletivo Compila;Hip-hop;323;19
+Fibra Ótica;Banda Larga;Rock;302;21
+Fibra Ótica;Banda Larga;Rock;302;12
+Caminho de Volta;Clara Vereda;MPB;213;19
+Garbage Collector;DJ Ponteiro;Eletrônica;200;8
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Estática;Ruído Branco;Rock;265;22
+Oscilador;Synth Lab;Eletrônica;189;10
+Estática;Ruído Branco;Rock;265;1
+Feedback;Ruído Branco;Rock;279;21
+Fibra Ótica;Banda Larga;Rock;16;21
+Estática;Ruído Branco;Rock;21;20
+Kernel Panic;Os Compiladores;Rock;249;23
+Fibra Ótica;Banda Larga;Rock;302;18
+Caso Base;Trio Recursivo;Samba;282;14
+Oscilador;Synth Lab;Eletrônica;189;11
+Volta ao Início;Os Iteradores;Pop;258;10
+Maré Alta;Lua Nova;MPB;174;12
+Sem Sinal;Banda Larga;Rock;287;9
+Override;Quarteto Polimórfico;Jazz;177;16
+Volta ao Início;Os Iteradores;Pop;4;22
+Segmentation Fault;Os Compiladores;Rock;240;23
+Pixel;Bits & Bytes;Eletrônica;270;10
+Guaíba ao Entardecer;Lua Nova;MPB;206;13
+Cuíca;Escola do Morro;Samba;221;21
+Estática;Ruído Branco;Rock;5;20
+Ping Alto;Banda Larga;Rock;57;13
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Fibra Ótica;Banda Larga;Rock;302;0
+Sem Sinal;Banda Larga;Rock;8;22
+Guaíba ao Entardecer;Lua Nova;MPB;128;22
+Volta ao Início;Os Iteradores;Pop;258;11
+Volta ao Início;Os Iteradores;Pop;258;12
+Volta ao Início;Os Iteradores;Pop;151;14
+Maré Alta;Lua Nova;MPB;5;13
+Caso Base;Trio Recursivo;Samba;282;18
+Fibra Ótica;Banda Larga;Rock;302;18
+Estática;Ruído Branco;Rock;265;18
+Deadlock;Os Compiladores;Rock;216;14
+Próximo;Os Iteradores;Pop;303;18
+Fibra Ótica;Banda Larga;Rock;19;18
+Caminho de Volta;Clara Vereda;MPB;213;9
+Caso Base;Trio Recursivo;Samba;282;20
+Fibra Ótica;Banda Larga;Rock;302;21
+Fibra Ótica;Banda Larga;Rock;131;22
+Feedback;Ruído Branco;Rock;279;8
+Deadlock;Os Compiladores;Rock;216;15
+Kernel Panic;Os Compiladores;Rock;249;15
+Caso Base;Trio Recursivo;Samba;282;7
+Chimarrão;Lua Nova;MPB;179;9
+Caminho de Volta;Clara Vereda;MPB;213;7
+Bucket List;Bianca Hash;Pop;239;14
+Oscilador;Synth Lab;Eletrônica;189;7
+Sobrecarga;Quarteto Polimórfico;Jazz;244;18
+Chimarrão;Lua Nova;MPB;179;19
+Guaíba ao Entardecer;Lua Nova;MPB;103;0
+Stream de Rimas;MC Lambda;Hip-hop;243;8
+Cache Miss;DJ Ponteiro;Eletrônica;296;7
+Feedback;Ruído Branco;Rock;143;7
+Maré Alta;Lua Nova;MPB;174;21
+Chimarrão;Lua Nova;MPB;179;8
+Feedback;Ruído Branco;Rock;279;8
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Maré Alta;Lua Nova;MPB;7;21
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Próximo;Os Iteradores;Pop;303;21
+Próximo;Os Iteradores;Pop;303;10
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Estática;Ruído Branco;Rock;17;0
+Interface Azul;Quarteto Polimórfico;Jazz;313;15
+Interface Azul;Quarteto Polimórfico;Jazz;313;20
+Rehash;Bianca Hash;Pop;314;7
+Ipê Amarelo;Clara Vereda;MPB;162;7
+Pixel;Bits & Bytes;Eletrônica;281;21
+Oscilador;Synth Lab;Eletrônica;189;9
+Stack Overflow;Os Compiladores;Rock;15;13
+Fibra Ótica;Banda Larga;Rock;6;22
+Modulação;Synth Lab;Eletrônica;233;18
+Fibra Ótica;Banda Larga;Rock;12;8
+Feedback;Ruído Branco;Rock;279;10
+Rehash;Bianca Hash;Pop;314;11
+Interface Azul;Quarteto Polimórfico;Jazz;313;12
+Ipê Amarelo;Clara Vereda;MPB;162;9
+Cache Miss;DJ Ponteiro;Eletrônica;197;19
+Oscilador;Synth Lab;Eletrônica;189;10
+Chimarrão;Lua Nova;MPB;179;18
+hasNext;Os Iteradores;Pop;9;23
+Estática;Ruído Branco;Rock;265;12
+Herança;Duo Abstrato;Jazz;198;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;17
+Stream de Rimas;MC Lambda;Hip-hop;243;16
+Varanda;Clara Vereda;MPB;163;12
+Guaíba ao Entardecer;Lua Nova;MPB;164;19
+Feedback;Ruído Branco;Rock;21;7
+Bucket List;Bianca Hash;Pop;21;0
+Próximo;Os Iteradores;Pop;3;7
+Fibra Ótica;Banda Larga;Rock;302;0
+Rehash;Bianca Hash;Pop;314;16
+Fibra Ótica;Banda Larga;Rock;17;15
+Guaíba ao Entardecer;Lua Nova;MPB;206;7
+Guaíba ao Entardecer;Lua Nova;MPB;206;23
+Feedback;Ruído Branco;Rock;279;13
+8-bit Love;Bits & Bytes;Eletrônica;295;15
+Sem Sinal;Banda Larga;Rock;287;11
+Guaíba ao Entardecer;Lua Nova;MPB;206;14
+Merge Conflict;Coletivo Compila;Hip-hop;199;18
+Próximo;Os Iteradores;Pop;303;18
+Caminho de Volta;Clara Vereda;MPB;213;19
+Feedback;Ruído Branco;Rock;279;1
+Cuíca;Escola do Morro;Samba;23;21
+Ping Alto;Banda Larga;Rock;231;11
+Ping Alto;Banda Larga;Rock;7;18
+Maré Alta;Lua Nova;MPB;174;19
+Maré Alta;Lua Nova;MPB;174;6
+Ipê Amarelo;Clara Vereda;MPB;162;22
+Maré Alta;Lua Nova;MPB;174;9
+Estática;Ruído Branco;Rock;17;19
+Feedback;Ruído Branco;Rock;279;17
+Feedback;Ruído Branco;Rock;279;11
+Ping Alto;Banda Larga;Rock;231;0
+Feedback;Ruído Branco;Rock;279;21
+Kernel Panic;Os Compiladores;Rock;249;18
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Fibra Ótica;Banda Larga;Rock;302;15
+Estática;Ruído Branco;Rock;265;14
+Fibra Ótica;Banda Larga;Rock;302;19
+Expressão;MC Lambda;Hip-hop;247;19
+Stack Overflow;Os Compiladores;Rock;260;22
+Estática;Ruído Branco;Rock;265;21
+Override;Quarteto Polimórfico;Jazz;177;22
+Merge Conflict;Coletivo Compila;Hip-hop;199;13
+Estática;Ruído Branco;Rock;18;12
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Próximo;Os Iteradores;Pop;150;15
+Fibra Ótica;Banda Larga;Rock;19;8
+Fibra Ótica;Banda Larga;Rock;302;18
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Varanda;Clara Vereda;MPB;163;14
+Rehash;Bianca Hash;Pop;314;19
+Ping Alto;Banda Larga;Rock;21;8
+Varanda;Clara Vereda;MPB;4;11
+Expressão;MC Lambda;Hip-hop;192;13
+Chimarrão;Lua Nova;MPB;161;19
+Oscilador;Synth Lab;Eletrônica;189;10
+Feedback;Ruído Branco;Rock;248;18
+Céu de Porto Alegre;Lua Nova;MPB;194;15
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Kernel Panic;Os Compiladores;Rock;249;21
+Fibra Ótica;Banda Larga;Rock;302;11
+Maré Alta;Lua Nova;MPB;174;0
+Guaíba ao Entardecer;Lua Nova;MPB;206;12
+Ping Alto;Banda Larga;Rock;27;22
+Stack Overflow;Os Compiladores;Rock;260;23
+Feedback;Ruído Branco;Rock;279;20
+Stream de Rimas;MC Lambda;Hip-hop;10;18
+Fibra Ótica;Banda Larga;Rock;302;10
+Oscilador;Synth Lab;Eletrônica;189;16
+Interface Azul;Quarteto Polimórfico;Jazz;313;23
+Chimarrão;Lua Nova;MPB;179;20
+Fibra Ótica;Banda Larga;Rock;302;20
+Kernel Panic;Os Compiladores;Rock;249;23
+Rehash;Bianca Hash;Pop;314;17
+Merge Conflict;Coletivo Compila;Hip-hop;199;7
+Segmentation Fault;Os Compiladores;Rock;240;21
+Fibra Ótica;Banda Larga;Rock;302;8
+Interface Azul;Quarteto Polimórfico;Jazz;313;18
+Cuíca;Escola do Morro;Samba;221;20
+Deadlock;Os Compiladores;Rock;216;12
+Céu de Porto Alegre;Lua Nova;MPB;29;20
+Volta ao Início;Os Iteradores;Pop;258;8
+Segmentation Fault;Os Compiladores;Rock;240;9
+Varanda;Clara Vereda;MPB;163;19
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Feedback;Ruído Branco;Rock;279;20
+Fibra Ótica;Banda Larga;Rock;4;19
+Cache Miss;DJ Ponteiro;Eletrônica;296;22
+Volta ao Início;Os Iteradores;Pop;258;19
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Estática;Ruído Branco;Rock;8;16
+Oscilador;Synth Lab;Eletrônica;189;20
+Rehash;Bianca Hash;Pop;202;14
+Herança;Duo Abstrato;Jazz;198;11
+Fibra Ótica;Banda Larga;Rock;302;19
+Garbage Collector;DJ Ponteiro;Eletrônica;242;12
+Estática;Ruído Branco;Rock;170;1
+Caso Base;Trio Recursivo;Samba;282;23
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Céu de Porto Alegre;Lua Nova;MPB;194;16
+Estática;Ruído Branco;Rock;29;7
+Próximo;Os Iteradores;Pop;303;22
+Modulação;Synth Lab;Eletrônica;233;7
+Herança;Duo Abstrato;Jazz;198;17
+Segmentation Fault;Os Compiladores;Rock;240;2
+Estática;Ruído Branco;Rock;6;15
+Fator de Carga;Bianca Hash;Pop;14;7
+Céu de Porto Alegre;Lua Nova;MPB;194;0
+Rehash;Bianca Hash;Pop;314;8
+Segmentation Fault;Os Compiladores;Rock;240;7
+Oscilador;Synth Lab;Eletrônica;189;20
+Override;Quarteto Polimórfico;Jazz;177;8
+Stream de Rimas;MC Lambda;Hip-hop;243;13
+Estática;Ruído Branco;Rock;265;21
+Fibra Ótica;Banda Larga;Rock;302;12
+Feedback;Ruído Branco;Rock;279;10
+Próximo;Os Iteradores;Pop;303;23
+Feedback;Ruído Branco;Rock;279;22
+Chimarrão;Lua Nova;MPB;139;7
+Fibra Ótica;Banda Larga;Rock;302;12
+Segmentation Fault;Os Compiladores;Rock;240;17
+Próximo;Os Iteradores;Pop;303;9
+Bucket List;Bianca Hash;Pop;239;10
+Deadlock;Os Compiladores;Rock;216;15
+Volta ao Início;Os Iteradores;Pop;258;22
+Cache Miss;DJ Ponteiro;Eletrônica;296;15
+Volta ao Início;Os Iteradores;Pop;258;8
+Céu de Porto Alegre;Lua Nova;MPB;16;18
+Kernel Panic;Os Compiladores;Rock;249;22
+Modulação;Synth Lab;Eletrônica;233;18
+Chimarrão;Lua Nova;MPB;179;10
+Sem Sinal;Banda Larga;Rock;287;17
+Fibra Ótica;Banda Larga;Rock;302;12
+Estática;Ruído Branco;Rock;9;19
+Caso Base;Trio Recursivo;Samba;282;18
+Ping Alto;Banda Larga;Rock;28;10
+Oscilador;Synth Lab;Eletrônica;189;11
+Overclock;Bits & Bytes;Eletrônica;64;12
+Build Quebrado;Coletivo Compila;Hip-hop;323;17
+Ping Alto;Banda Larga;Rock;231;16
+Stream de Rimas;MC Lambda;Hip-hop;15;12
+Estática;Ruído Branco;Rock;265;21
+Modulação;Synth Lab;Eletrônica;233;23
+Volta ao Início;Os Iteradores;Pop;252;11
+Pixel;Bits & Bytes;Eletrônica;109;23
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Ping Alto;Banda Larga;Rock;231;17
+Herança;Duo Abstrato;Jazz;20;8
+Próximo;Os Iteradores;Pop;303;21
+Rehash;Bianca Hash;Pop;314;13
+Feedback;Ruído Branco;Rock;279;23
+Kernel Panic;Os Compiladores;Rock;249;7
+Fibra Ótica;Banda Larga;Rock;302;13
+Feedback;Ruído Branco;Rock;279;11
+Stream de Rimas;MC Lambda;Hip-hop;243;11
+Build Quebrado;Coletivo Compila;Hip-hop;244;10
+Rehash;Bianca Hash;Pop;314;15
+Segmentation Fault;Os Compiladores;Rock;84;19
+Override;Quarteto Polimórfico;Jazz;177;23
+Deadlock;Os Compiladores;Rock;216;12
+Maré Alta;Lua Nova;MPB;174;6
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Herança;Duo Abstrato;Jazz;198;21
+Varanda;Clara Vereda;MPB;163;1
+Bucket List;Bianca Hash;Pop;15;21
+Sem Sinal;Banda Larga;Rock;287;14
+Chimarrão;Lua Nova;MPB;8;18
+Segmentation Fault;Os Compiladores;Rock;240;8
+Estática;Ruído Branco;Rock;71;1
+Bucket List;Bianca Hash;Pop;29;23
+Caso Base;Trio Recursivo;Samba;282;20
+Chimarrão;Lua Nova;MPB;179;13
+Sem Sinal;Banda Larga;Rock;20;15
+Kernel Panic;Os Compiladores;Rock;20;7
+Ping Alto;Banda Larga;Rock;7;14
+Oscilador;Synth Lab;Eletrônica;12;16
+Chimarrão;Lua Nova;MPB;179;20
+Oscilador;Synth Lab;Eletrônica;189;7
+Deadlock;Os Compiladores;Rock;216;12
+Estática;Ruído Branco;Rock;265;13
+Ping Alto;Banda Larga;Rock;13;10
+Segmentation Fault;Os Compiladores;Rock;8;22
+Merge Conflict;Coletivo Compila;Hip-hop;199;17
+Kernel Panic;Os Compiladores;Rock;249;1
+Kernel Panic;Os Compiladores;Rock;249;7
+Estática;Ruído Branco;Rock;25;9
+Céu de Porto Alegre;Lua Nova;MPB;18;13
+Próximo;Os Iteradores;Pop;109;16
+Fator de Carga;Bianca Hash;Pop;312;13
+Merge Conflict;Coletivo Compila;Hip-hop;199;11
+Stack Overflow;Os Compiladores;Rock;260;17
+Guaíba ao Entardecer;Lua Nova;MPB;206;15
+8-bit Love;Bits & Bytes;Eletrônica;12;19
+Overclock;Bits & Bytes;Eletrônica;311;22
+Cuíca;Escola do Morro;Samba;221;14
+Segmentation Fault;Os Compiladores;Rock;240;11
+Guaíba ao Entardecer;Lua Nova;MPB;141;7
+Feedback;Ruído Branco;Rock;279;18
+Maré Alta;Lua Nova;MPB;67;0
+Stack Overflow;Os Compiladores;Rock;260;19
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Rehash;Bianca Hash;Pop;30;9
+Herança;Duo Abstrato;Jazz;21;6
+Chimarrão;Lua Nova;MPB;42;21
+Maré Alta;Lua Nova;MPB;16;22
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Modulação;Synth Lab;Eletrônica;103;7
+Modulação;Synth Lab;Eletrônica;19;12
+Ping Alto;Banda Larga;Rock;6;17
+Pixel;Bits & Bytes;Eletrônica;29;17
+Segmentation Fault;Os Compiladores;Rock;185;10
+Stack Overflow;Os Compiladores;Rock;260;20
+Maré Alta;Lua Nova;MPB;10;21
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Fibra Ótica;Banda Larga;Rock;302;18
+hasNext;Os Iteradores;Pop;150;1
+Override;Quarteto Polimórfico;Jazz;177;6
+Sem Sinal;Banda Larga;Rock;287;11
+Stack Overflow;Os Compiladores;Rock;260;8
+Stream de Rimas;MC Lambda;Hip-hop;243;11
+Stack Overflow;Os Compiladores;Rock;260;14
+Stack Overflow;Os Compiladores;Rock;115;19
+hasNext;Os Iteradores;Pop;150;11
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+hasNext;Os Iteradores;Pop;150;16
+Fibra Ótica;Banda Larga;Rock;302;14
+Stack Overflow;Os Compiladores;Rock;260;18
+Feedback;Ruído Branco;Rock;279;13
+Stream de Rimas;MC Lambda;Hip-hop;243;16
+Segmentation Fault;Os Compiladores;Rock;240;20
+Feedback;Ruído Branco;Rock;279;20
+Oscilador;Synth Lab;Eletrônica;189;8
+Deadlock;Os Compiladores;Rock;29;8
+Ping Alto;Banda Larga;Rock;68;11
+Ping Alto;Banda Larga;Rock;231;13
+Fibra Ótica;Banda Larga;Rock;5;8
+Loop Infinito;Os Compiladores;Rock;133;23
+Kernel Panic;Os Compiladores;Rock;249;15
+Estática;Ruído Branco;Rock;265;18
+Rehash;Bianca Hash;Pop;58;15
+hasNext;Os Iteradores;Pop;150;18
+Rehash;Bianca Hash;Pop;314;14
+Caso Base;Trio Recursivo;Samba;282;19
+Guaíba ao Entardecer;Lua Nova;MPB;53;20
+Pixel;Bits & Bytes;Eletrônica;281;9
+Feedback;Ruído Branco;Rock;279;20
+Céu de Porto Alegre;Lua Nova;MPB;194;0
+Classe Sem Corpo;Duo Abstrato;Jazz;256;22
+Cache Miss;DJ Ponteiro;Eletrônica;296;18
+Feedback;Ruído Branco;Rock;279;15
+Herança;Duo Abstrato;Jazz;20;21
+Segmentation Fault;Os Compiladores;Rock;240;22
+Segmentation Fault;Os Compiladores;Rock;218;20
+Segmentation Fault;Os Compiladores;Rock;240;17
+Próximo;Os Iteradores;Pop;303;0
+Fibra Ótica;Banda Larga;Rock;302;20
+Rehash;Bianca Hash;Pop;314;9
+Merge Conflict;Coletivo Compila;Hip-hop;147;7
+Kernel Panic;Os Compiladores;Rock;91;13
+Oscilador;Synth Lab;Eletrônica;189;12
+Ping Alto;Banda Larga;Rock;231;16
+Caminho de Volta;Clara Vereda;MPB;177;6
+Varanda;Clara Vereda;MPB;163;14
+Rehash;Bianca Hash;Pop;314;11
+Kernel Panic;Os Compiladores;Rock;249;13
+Próximo;Os Iteradores;Pop;303;11
+Caso Base;Trio Recursivo;Samba;282;6
+Céu de Porto Alegre;Lua Nova;MPB;194;6
+Guaíba ao Entardecer;Lua Nova;MPB;206;14
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Céu de Porto Alegre;Lua Nova;MPB;55;22
+Fibra Ótica;Banda Larga;Rock;302;19
+Maré Alta;Lua Nova;MPB;174;0
+Sem Sinal;Banda Larga;Rock;287;18
+Próximo;Os Iteradores;Pop;10;13
+Herança;Duo Abstrato;Jazz;198;21
+Volta ao Início;Os Iteradores;Pop;258;10
+Fibra Ótica;Banda Larga;Rock;302;9
+Rehash;Bianca Hash;Pop;314;8
+hasNext;Os Iteradores;Pop;150;19
+Próximo;Os Iteradores;Pop;303;13
+Segmentation Fault;Os Compiladores;Rock;4;7
+Oscilador;Synth Lab;Eletrônica;189;22
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Chimarrão;Lua Nova;MPB;179;18
+Segmentation Fault;Os Compiladores;Rock;240;18
+Caso Base;Trio Recursivo;Samba;120;21
+Guaíba ao Entardecer;Lua Nova;MPB;63;11
+Oscilador;Synth Lab;Eletrônica;189;16
+Kernel Panic;Os Compiladores;Rock;196;1
+Kernel Panic;Os Compiladores;Rock;249;17
+Segmentation Fault;Os Compiladores;Rock;240;20
+Caso Base;Trio Recursivo;Samba;24;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;23
+Deadlock;Os Compiladores;Rock;97;16
+Estática;Ruído Branco;Rock;265;11
+Maré Alta;Lua Nova;MPB;31;21
+Sem Sinal;Banda Larga;Rock;287;9
+Chimarrão;Lua Nova;MPB;179;14
+Fibra Ótica;Banda Larga;Rock;302;21
+Feedback;Ruído Branco;Rock;279;22
+Estática;Ruído Branco;Rock;11;16
+Expressão;MC Lambda;Hip-hop;15;19
+Segmentation Fault;Os Compiladores;Rock;240;22
+Próximo;Os Iteradores;Pop;4;22
+Override;Quarteto Polimórfico;Jazz;177;9
+Rehash;Bianca Hash;Pop;314;21
+Guaíba ao Entardecer;Lua Nova;MPB;7;8
+Segmentation Fault;Os Compiladores;Rock;198;11
+Maré Alta;Lua Nova;MPB;174;19
+Override;Quarteto Polimórfico;Jazz;162;21
+Caminho de Volta;Clara Vereda;MPB;28;19
+hasNext;Os Iteradores;Pop;113;1
+Próximo;Os Iteradores;Pop;187;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Fibra Ótica;Banda Larga;Rock;302;6
+Ipê Amarelo;Clara Vereda;MPB;162;12
+Feedback;Ruído Branco;Rock;279;12
+Chimarrão;Lua Nova;MPB;179;13
+Segmentation Fault;Os Compiladores;Rock;240;17
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Feedback;Ruído Branco;Rock;28;21
+Herança;Duo Abstrato;Jazz;146;18
+Maré Alta;Lua Nova;MPB;166;18
+Modulação;Synth Lab;Eletrônica;233;23
+Pixel;Bits & Bytes;Eletrônica;209;21
+Oscilador;Synth Lab;Eletrônica;189;15
+Segmentation Fault;Os Compiladores;Rock;240;12
+Oscilador;Synth Lab;Eletrônica;189;8
+Caso Base;Trio Recursivo;Samba;282;14
+Segmentation Fault;Os Compiladores;Rock;181;9
+Estática;Ruído Branco;Rock;265;11
+Volta ao Início;Os Iteradores;Pop;258;8
+Thread Pool;DJ Ponteiro;Eletrônica;174;9
+Segmentation Fault;Os Compiladores;Rock;240;20
+Herança;Duo Abstrato;Jazz;198;21
+Segmentation Fault;Os Compiladores;Rock;240;0
+Kernel Panic;Os Compiladores;Rock;249;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;3
+hasNext;Os Iteradores;Pop;150;12
+Feedback;Ruído Branco;Rock;11;18
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Caso Base;Trio Recursivo;Samba;282;23
+Sem Sinal;Banda Larga;Rock;287;12
+Estática;Ruído Branco;Rock;265;22
+Segmentation Fault;Os Compiladores;Rock;240;19
+Kernel Panic;Os Compiladores;Rock;249;20
+Cuíca;Escola do Morro;Samba;221;10
+Caminho de Volta;Clara Vereda;MPB;213;20
+Oscilador;Synth Lab;Eletrônica;189;11
+Fibra Ótica;Banda Larga;Rock;179;15
+Varanda;Clara Vereda;MPB;128;21
+Feedback;Ruído Branco;Rock;279;14
+Deadlock;Os Compiladores;Rock;216;20
+Fibra Ótica;Banda Larga;Rock;21;13
+Ping Alto;Banda Larga;Rock;231;10
+Herança;Duo Abstrato;Jazz;198;17
+Bucket List;Bianca Hash;Pop;197;9
+Volta ao Início;Os Iteradores;Pop;258;8
+Ping Alto;Banda Larga;Rock;16;19
+Oscilador;Synth Lab;Eletrônica;189;23
+Sem Sinal;Banda Larga;Rock;22;17
+Céu de Porto Alegre;Lua Nova;MPB;57;3
+Chimarrão;Lua Nova;MPB;179;13
+Rehash;Bianca Hash;Pop;314;22
+Stack Overflow;Os Compiladores;Rock;251;7
+Maré Alta;Lua Nova;MPB;174;20
+Stack Overflow;Os Compiladores;Rock;260;19
+Chimarrão;Lua Nova;MPB;179;10
+Stack Overflow;Os Compiladores;Rock;17;15
+Varanda;Clara Vereda;MPB;163;22
+Deadlock;Os Compiladores;Rock;216;17
+Interface Azul;Quarteto Polimórfico;Jazz;313;8
+Oscilador;Synth Lab;Eletrônica;143;17
+Merge Conflict;Coletivo Compila;Hip-hop;199;17
+Segmentation Fault;Os Compiladores;Rock;240;12
+Sem Sinal;Banda Larga;Rock;287;22
+Kernel Panic;Os Compiladores;Rock;249;11
+Fibra Ótica;Banda Larga;Rock;302;19
+Estática;Ruído Branco;Rock;265;19
+Fibra Ótica;Banda Larga;Rock;302;19
+Fibra Ótica;Banda Larga;Rock;302;0
+Segmentation Fault;Os Compiladores;Rock;240;21
+Estática;Ruído Branco;Rock;265;20
+Estática;Ruído Branco;Rock;28;17
+Segmentation Fault;Os Compiladores;Rock;240;8
+Caso Base;Trio Recursivo;Samba;25;21
+Feedback;Ruído Branco;Rock;279;10
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Maré Alta;Lua Nova;MPB;174;18
+Kernel Panic;Os Compiladores;Rock;249;22
+Maré Alta;Lua Nova;MPB;174;20
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Ping Alto;Banda Larga;Rock;231;20
+Estática;Ruído Branco;Rock;19;11
+Fibra Ótica;Banda Larga;Rock;302;19
+Chimarrão;Lua Nova;MPB;179;21
+Ping Alto;Banda Larga;Rock;27;21
+Estática;Ruído Branco;Rock;265;23
+Guaíba ao Entardecer;Lua Nova;MPB;3;18
+hasNext;Os Iteradores;Pop;150;17
+Ping Alto;Banda Larga;Rock;29;20
+Fibra Ótica;Banda Larga;Rock;302;18
+Chimarrão;Lua Nova;MPB;179;13
+Ping Alto;Banda Larga;Rock;25;23
+Pixel;Bits & Bytes;Eletrônica;281;12
+Oscilador;Synth Lab;Eletrônica;189;11
+Segmentation Fault;Os Compiladores;Rock;240;16
+Ipê Amarelo;Clara Vereda;MPB;162;19
+Fibra Ótica;Banda Larga;Rock;302;0
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+8-bit Love;Bits & Bytes;Eletrônica;295;17
+Oscilador;Synth Lab;Eletrônica;189;20
+Segmentation Fault;Os Compiladores;Rock;120;22
+Stream de Rimas;MC Lambda;Hip-hop;44;0
+Segmentation Fault;Os Compiladores;Rock;240;16
+NullPointer;DJ Ponteiro;Eletrônica;225;22
+Loop Infinito;Os Compiladores;Rock;201;23
+Kernel Panic;Os Compiladores;Rock;156;12
+Segmentation Fault;Os Compiladores;Rock;240;11
+Caso Base;Trio Recursivo;Samba;282;1
+Fibra Ótica;Banda Larga;Rock;302;22
+Caso Base;Trio Recursivo;Samba;34;18
+Stack Overflow;Os Compiladores;Rock;30;19
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Kernel Panic;Os Compiladores;Rock;249;23
+Fibra Ótica;Banda Larga;Rock;302;23
+Chimarrão;Lua Nova;MPB;179;21
+Deadlock;Os Compiladores;Rock;216;12
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Chimarrão;Lua Nova;MPB;81;23
+Overclock;Bits & Bytes;Eletrônica;311;8
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Ping Alto;Banda Larga;Rock;29;7
+Fibra Ótica;Banda Larga;Rock;302;1
+Merge Conflict;Coletivo Compila;Hip-hop;24;14
+Guaíba ao Entardecer;Lua Nova;MPB;206;16
+Estática;Ruído Branco;Rock;265;19
+Ping Alto;Banda Larga;Rock;5;17
+Chimarrão;Lua Nova;MPB;179;12
+Sem Sinal;Banda Larga;Rock;287;10
+Deadlock;Os Compiladores;Rock;216;19
+Rehash;Bianca Hash;Pop;314;10
+Chimarrão;Lua Nova;MPB;20;6
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Maré Alta;Lua Nova;MPB;174;20
+Maré Alta;Lua Nova;MPB;174;12
+Chimarrão;Lua Nova;MPB;66;12
+Interface Azul;Quarteto Polimórfico;Jazz;36;13
+Segmentation Fault;Os Compiladores;Rock;240;22
+Caso Base;Trio Recursivo;Samba;282;0
+Fibra Ótica;Banda Larga;Rock;302;10
+Estática;Ruído Branco;Rock;28;23
+Cuíca;Escola do Morro;Samba;108;10
+Céu de Porto Alegre;Lua Nova;MPB;194;14
+Guaíba ao Entardecer;Lua Nova;MPB;206;15
+Kernel Panic;Os Compiladores;Rock;249;10
+hasNext;Os Iteradores;Pop;150;18
+Fibra Ótica;Banda Larga;Rock;302;7
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Fibra Ótica;Banda Larga;Rock;302;19
+Fibra Ótica;Banda Larga;Rock;302;9
+Kernel Panic;Os Compiladores;Rock;249;17
+Feedback;Ruído Branco;Rock;279;18
+Segmentation Fault;Os Compiladores;Rock;240;17
+Segmentation Fault;Os Compiladores;Rock;240;21
+Estática;Ruído Branco;Rock;21;11
+Chimarrão;Lua Nova;MPB;8;16
+Caso Base;Trio Recursivo;Samba;204;8
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Pixel;Bits & Bytes;Eletrônica;281;8
+Oscilador;Synth Lab;Eletrônica;189;15
+Feedback;Ruído Branco;Rock;279;7
+Guaíba ao Entardecer;Lua Nova;MPB;96;8
+Varanda;Clara Vereda;MPB;17;7
+Kernel Panic;Os Compiladores;Rock;249;15
+Chimarrão;Lua Nova;MPB;179;21
+Segmentation Fault;Os Compiladores;Rock;240;17
+Ping Alto;Banda Larga;Rock;26;22
+Estática;Ruído Branco;Rock;11;19
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Sem Sinal;Banda Larga;Rock;287;22
+Feedback;Ruído Branco;Rock;263;19
+Caminho de Volta;Clara Vereda;MPB;25;0
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Cache Miss;DJ Ponteiro;Eletrônica;296;11
+Cache Miss;DJ Ponteiro;Eletrônica;296;15
+Fibra Ótica;Banda Larga;Rock;302;0
+Kernel Panic;Os Compiladores;Rock;249;22
+Segmentation Fault;Os Compiladores;Rock;57;18
+Oscilador;Synth Lab;Eletrônica;189;20
+Sem Sinal;Banda Larga;Rock;287;22
+Rehash;Bianca Hash;Pop;314;0
+Maré Alta;Lua Nova;MPB;126;17
+Rehash;Bianca Hash;Pop;314;0
+Feedback;Ruído Branco;Rock;279;20
+hasNext;Os Iteradores;Pop;18;1
+Segmentation Fault;Os Compiladores;Rock;240;18
+Maré Alta;Lua Nova;MPB;174;12
+Override;Quarteto Polimórfico;Jazz;177;15
+Feedback;Ruído Branco;Rock;279;23
+Feedback;Ruído Branco;Rock;279;22
+Maré Alta;Lua Nova;MPB;174;21
+Caso Base;Trio Recursivo;Samba;282;20
+Maré Alta;Lua Nova;MPB;174;19
+Próximo;Os Iteradores;Pop;303;23
+Modulação;Synth Lab;Eletrônica;233;14
+Estática;Ruído Branco;Rock;8;23
+Ipê Amarelo;Clara Vereda;MPB;162;21
+hasNext;Os Iteradores;Pop;150;22
+Feedback;Ruído Branco;Rock;279;19
+Fibra Ótica;Banda Larga;Rock;302;9
+Cuíca;Escola do Morro;Samba;221;0
+Bucket List;Bianca Hash;Pop;21;3
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Cuíca;Escola do Morro;Samba;221;22
+Stack Overflow;Os Compiladores;Rock;260;20
+Oscilador;Synth Lab;Eletrônica;189;16
+Segmentation Fault;Os Compiladores;Rock;240;23
+Modulação;Synth Lab;Eletrônica;13;23
+Estática;Ruído Branco;Rock;9;10
+Fibra Ótica;Banda Larga;Rock;302;21
+Sem Sinal;Banda Larga;Rock;287;19
+Segmentation Fault;Os Compiladores;Rock;240;11
+Pixel;Bits & Bytes;Eletrônica;281;21
+Chimarrão;Lua Nova;MPB;179;22
+Oscilador;Synth Lab;Eletrônica;7;9
+Chimarrão;Lua Nova;MPB;11;18
+Fibra Ótica;Banda Larga;Rock;302;19
+Ipê Amarelo;Clara Vereda;MPB;5;20
+Override;Quarteto Polimórfico;Jazz;136;22
+Modulação;Synth Lab;Eletrônica;4;12
+Varanda;Clara Vereda;MPB;163;8
+Herança;Duo Abstrato;Jazz;36;16
+Feedback;Ruído Branco;Rock;25;23
+Céu de Porto Alegre;Lua Nova;MPB;194;16
+Fibra Ótica;Banda Larga;Rock;302;8
+Sem Sinal;Banda Larga;Rock;20;9
+Estática;Ruído Branco;Rock;28;19
+Rehash;Bianca Hash;Pop;314;23
+Kernel Panic;Os Compiladores;Rock;249;15
+Deadlock;Os Compiladores;Rock;25;10
+Feedback;Ruído Branco;Rock;279;13
+Fibra Ótica;Banda Larga;Rock;302;23
+Cache Miss;DJ Ponteiro;Eletrônica;296;12
+Kernel Panic;Os Compiladores;Rock;175;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;19
+Stack Overflow;Os Compiladores;Rock;260;11
+Stream de Rimas;MC Lambda;Hip-hop;243;9
+Pilha de Chamadas;Trio Recursivo;Samba;281;12
+Chimarrão;Lua Nova;MPB;165;8
+Segmentation Fault;Os Compiladores;Rock;240;22
+Deadlock;Os Compiladores;Rock;25;13
+Estática;Ruído Branco;Rock;265;8
+Rehash;Bianca Hash;Pop;314;22
+Stream de Rimas;MC Lambda;Hip-hop;89;17
+Ping Alto;Banda Larga;Rock;29;14
+Feedback;Ruído Branco;Rock;279;9
+Ping Alto;Banda Larga;Rock;15;19
+Caminho de Volta;Clara Vereda;MPB;213;12
+Rehash;Bianca Hash;Pop;314;14
+Segmentation Fault;Os Compiladores;Rock;240;6
+Oscilador;Synth Lab;Eletrônica;157;18
+Cache Miss;DJ Ponteiro;Eletrônica;296;20
+Override;Quarteto Polimórfico;Jazz;97;15
+Ping Alto;Banda Larga;Rock;231;18
+Caminho de Volta;Clara Vereda;MPB;213;7
+Caminho de Volta;Clara Vereda;MPB;213;14
+Modulação;Synth Lab;Eletrônica;233;7
+Estática;Ruído Branco;Rock;165;7
+Maré Alta;Lua Nova;MPB;174;20
+Segmentation Fault;Os Compiladores;Rock;240;17
+Override;Quarteto Polimórfico;Jazz;177;19
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Fibra Ótica;Banda Larga;Rock;225;10
+Cache Miss;DJ Ponteiro;Eletrônica;296;22
+Fibra Ótica;Banda Larga;Rock;302;10
+Fibra Ótica;Banda Larga;Rock;302;22
+Kernel Panic;Os Compiladores;Rock;71;9
+Estática;Ruído Branco;Rock;11;12
+Ping Alto;Banda Larga;Rock;21;22
+Bucket List;Bianca Hash;Pop;239;20
+Modulação;Synth Lab;Eletrônica;233;18
+Ping Alto;Banda Larga;Rock;7;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Segmentation Fault;Os Compiladores;Rock;23;22
+Fibra Ótica;Banda Larga;Rock;236;23
+Deadlock;Os Compiladores;Rock;216;23
+Override;Quarteto Polimórfico;Jazz;177;14
+Fibra Ótica;Banda Larga;Rock;4;19
+Kernel Panic;Os Compiladores;Rock;249;19
+Rehash;Bianca Hash;Pop;314;23
+Stack Overflow;Os Compiladores;Rock;260;22
+Modulação;Synth Lab;Eletrônica;233;14
+Céu de Porto Alegre;Lua Nova;MPB;6;0
+Guaíba ao Entardecer;Lua Nova;MPB;206;16
+Estática;Ruído Branco;Rock;19;12
+Rehash;Bianca Hash;Pop;314;20
+Estática;Ruído Branco;Rock;265;10
+Rehash;Bianca Hash;Pop;113;14
+Interface Azul;Quarteto Polimórfico;Jazz;29;13
+Oscilador;Synth Lab;Eletrônica;189;20
+Próximo;Os Iteradores;Pop;303;16
+Chimarrão;Lua Nova;MPB;179;3
+Fibra Ótica;Banda Larga;Rock;302;23
+Thread Pool;DJ Ponteiro;Eletrônica;25;18
+Bucket List;Bianca Hash;Pop;20;22
+Segmentation Fault;Os Compiladores;Rock;78;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;16
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Caso Base;Trio Recursivo;Samba;282;8
+Ping Alto;Banda Larga;Rock;184;7
+Caso Base;Trio Recursivo;Samba;282;18
+Chimarrão;Lua Nova;MPB;179;13
+Fator de Carga;Bianca Hash;Pop;312;12
+Feedback;Ruído Branco;Rock;279;21
+Stack Overflow;Os Compiladores;Rock;260;21
+Chimarrão;Lua Nova;MPB;179;19
+Rehash;Bianca Hash;Pop;314;23
+Feedback;Ruído Branco;Rock;279;9
+Estática;Ruído Branco;Rock;265;14
+Ipê Amarelo;Clara Vereda;MPB;162;13
+Cuíca;Escola do Morro;Samba;221;12
+Override;Quarteto Polimórfico;Jazz;177;0
+Caso Base;Trio Recursivo;Samba;282;1
+Maré Alta;Lua Nova;MPB;18;18
+Kernel Panic;Os Compiladores;Rock;3;8
+Chimarrão;Lua Nova;MPB;179;8
+Caso Base;Trio Recursivo;Samba;282;22
+Bucket List;Bianca Hash;Pop;3;18
+Override;Quarteto Polimórfico;Jazz;177;22
+Merge Conflict;Coletivo Compila;Hip-hop;199;15
+Sem Sinal;Banda Larga;Rock;287;19
+Volta ao Início;Os Iteradores;Pop;258;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Caso Base;Trio Recursivo;Samba;282;23
+Chimarrão;Lua Nova;MPB;94;8
+Rehash;Bianca Hash;Pop;314;9
+Chimarrão;Lua Nova;MPB;179;20
+Rehash;Bianca Hash;Pop;314;7
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Fator de Carga;Bianca Hash;Pop;312;11
+Caso Base;Trio Recursivo;Samba;282;13
+Sem Sinal;Banda Larga;Rock;178;22
+Próximo;Os Iteradores;Pop;303;22
+Caso Base;Trio Recursivo;Samba;282;18
+Stack Overflow;Os Compiladores;Rock;260;19
+Stream de Rimas;MC Lambda;Hip-hop;59;21
+Deadlock;Os Compiladores;Rock;216;20
+Kernel Panic;Os Compiladores;Rock;249;14
+Fibra Ótica;Banda Larga;Rock;302;21
+Stack Overflow;Os Compiladores;Rock;260;7
+Segmentation Fault;Os Compiladores;Rock;240;12
+Stream de Rimas;MC Lambda;Hip-hop;243;11
+Fibra Ótica;Banda Larga;Rock;302;23
+Ping Alto;Banda Larga;Rock;231;20
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Próximo;Os Iteradores;Pop;303;12
+Rehash;Bianca Hash;Pop;314;22
+Feedback;Ruído Branco;Rock;279;11
+Ping Alto;Banda Larga;Rock;231;18
+Feedback;Ruído Branco;Rock;279;21
+Estática;Ruído Branco;Rock;20;11
+Modulação;Synth Lab;Eletrônica;233;18
+Rehash;Bianca Hash;Pop;304;10
+Varanda;Clara Vereda;MPB;163;21
+Colisão;Bianca Hash;Pop;165;23
+Guaíba ao Entardecer;Lua Nova;MPB;140;11
+Modulação;Synth Lab;Eletrônica;233;23
+Estática;Ruído Branco;Rock;265;23
+Sem Sinal;Banda Larga;Rock;287;21
+Céu de Porto Alegre;Lua Nova;MPB;71;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;7
+Rehash;Bianca Hash;Pop;24;13
+Segmentation Fault;Os Compiladores;Rock;240;19
+Kernel Panic;Os Compiladores;Rock;249;15
+Estática;Ruído Branco;Rock;27;11
+Chimarrão;Lua Nova;MPB;179;22
+Rehash;Bianca Hash;Pop;314;16
+Caminho de Volta;Clara Vereda;MPB;33;11
+Fibra Ótica;Banda Larga;Rock;70;8
+Guaíba ao Entardecer;Lua Nova;MPB;206;16
+Deadlock;Os Compiladores;Rock;5;8
+Ipê Amarelo;Clara Vereda;MPB;162;12
+Ping Alto;Banda Larga;Rock;21;21
+Fibra Ótica;Banda Larga;Rock;302;14
+Próximo;Os Iteradores;Pop;303;22
+Feedback;Ruído Branco;Rock;279;15
+Segmentation Fault;Os Compiladores;Rock;240;7
+Build Quebrado;Coletivo Compila;Hip-hop;205;9
+Fibra Ótica;Banda Larga;Rock;302;19
+Segmentation Fault;Os Compiladores;Rock;240;21
+Segmentation Fault;Os Compiladores;Rock;240;10
+hasNext;Os Iteradores;Pop;150;14
+hasNext;Os Iteradores;Pop;3;11
+Fibra Ótica;Banda Larga;Rock;262;20
+Ping Alto;Banda Larga;Rock;172;19
+Rehash;Bianca Hash;Pop;314;8
+Classe Sem Corpo;Duo Abstrato;Jazz;270;18
+Segmentation Fault;Os Compiladores;Rock;161;19
+Stack Overflow;Os Compiladores;Rock;260;8
+Caminho de Volta;Clara Vereda;MPB;164;17
+Cache Miss;DJ Ponteiro;Eletrônica;296;12
+Stack Overflow;Os Compiladores;Rock;260;13
+Feedback;Ruído Branco;Rock;279;21
+Oscilador;Synth Lab;Eletrônica;189;11
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Feedback;Ruído Branco;Rock;64;12
+Feedback;Ruído Branco;Rock;279;8
+Sem Sinal;Banda Larga;Rock;85;23
+Rehash;Bianca Hash;Pop;314;21
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Ipê Amarelo;Clara Vereda;MPB;162;22
+Deadlock;Os Compiladores;Rock;216;11
+Herança;Duo Abstrato;Jazz;114;21
+Fibra Ótica;Banda Larga;Rock;302;21
+Sem Sinal;Banda Larga;Rock;287;23
+Estática;Ruído Branco;Rock;265;16
+Chimarrão;Lua Nova;MPB;23;9
+Thread Pool;DJ Ponteiro;Eletrônica;26;5
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Build Quebrado;Coletivo Compila;Hip-hop;323;20
+Fibra Ótica;Banda Larga;Rock;302;9
+Feedback;Ruído Branco;Rock;279;19
+Kernel Panic;Os Compiladores;Rock;249;13
+Feedback;Ruído Branco;Rock;279;14
+Stack Overflow;Os Compiladores;Rock;17;23
+Fibra Ótica;Banda Larga;Rock;302;18
+Segmentation Fault;Os Compiladores;Rock;29;9
+Segmentation Fault;Os Compiladores;Rock;240;21
+Fibra Ótica;Banda Larga;Rock;302;12
+Rehash;Bianca Hash;Pop;314;16
+Stream de Rimas;MC Lambda;Hip-hop;243;11
+Céu de Porto Alegre;Lua Nova;MPB;194;10
+Deadlock;Os Compiladores;Rock;65;22
+Céu de Porto Alegre;Lua Nova;MPB;94;11
+Estática;Ruído Branco;Rock;265;11
+Fibra Ótica;Banda Larga;Rock;246;18
+Estática;Ruído Branco;Rock;7;15
+Ipê Amarelo;Clara Vereda;MPB;23;20
+Interface Azul;Quarteto Polimórfico;Jazz;313;15
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Chimarrão;Lua Nova;MPB;179;8
+Bucket List;Bianca Hash;Pop;182;18
+Kernel Panic;Os Compiladores;Rock;249;9
+Interface Azul;Quarteto Polimórfico;Jazz;25;9
+Segmentation Fault;Os Compiladores;Rock;239;10
+Feedback;Ruído Branco;Rock;279;0
+Céu de Porto Alegre;Lua Nova;MPB;194;7
+Override;Quarteto Polimórfico;Jazz;103;2
+Sem Sinal;Banda Larga;Rock;287;0
+Estática;Ruído Branco;Rock;19;23
+Caso Base;Trio Recursivo;Samba;282;16
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Volta ao Início;Os Iteradores;Pop;258;14
+Segmentation Fault;Os Compiladores;Rock;240;18
+NullPointer;DJ Ponteiro;Eletrônica;225;22
+Deadlock;Os Compiladores;Rock;216;14
+Kernel Panic;Os Compiladores;Rock;249;11
+Modulação;Synth Lab;Eletrônica;35;22
+Chimarrão;Lua Nova;MPB;179;21
+Caso Base;Trio Recursivo;Samba;282;23
+Estática;Ruído Branco;Rock;265;18
+Stream de Rimas;MC Lambda;Hip-hop;243;17
+Oscilador;Synth Lab;Eletrônica;189;18
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Segmentation Fault;Os Compiladores;Rock;51;10
+Ping Alto;Banda Larga;Rock;231;16
+Oscilador;Synth Lab;Eletrônica;189;13
+Oscilador;Synth Lab;Eletrônica;29;21
+Guaíba ao Entardecer;Lua Nova;MPB;135;18
+Varanda;Clara Vereda;MPB;163;21
+Deadlock;Os Compiladores;Rock;216;17
+Próximo;Os Iteradores;Pop;303;0
+Segmentation Fault;Os Compiladores;Rock;240;14
+Sem Sinal;Banda Larga;Rock;287;20
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Chimarrão;Lua Nova;MPB;179;16
+Maré Alta;Lua Nova;MPB;174;19
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Sem Sinal;Banda Larga;Rock;287;12
+Próximo;Os Iteradores;Pop;129;0
+Chimarrão;Lua Nova;MPB;122;23
+Segmentation Fault;Os Compiladores;Rock;240;1
+Chimarrão;Lua Nova;MPB;179;17
+Fibra Ótica;Banda Larga;Rock;79;7
+Maré Alta;Lua Nova;MPB;174;23
+hasNext;Os Iteradores;Pop;150;21
+Guaíba ao Entardecer;Lua Nova;MPB;206;17
+Fibra Ótica;Banda Larga;Rock;302;15
+hasNext;Os Iteradores;Pop;150;12
+Segmentation Fault;Os Compiladores;Rock;240;1
+Sem Sinal;Banda Larga;Rock;287;13
+Chimarrão;Lua Nova;MPB;179;21
+Segmentation Fault;Os Compiladores;Rock;240;12
+Caminho de Volta;Clara Vereda;MPB;213;12
+Deadlock;Os Compiladores;Rock;22;13
+Caso Base;Trio Recursivo;Samba;282;0
+Sem Sinal;Banda Larga;Rock;287;3
+Stack Overflow;Os Compiladores;Rock;260;1
+Guaíba ao Entardecer;Lua Nova;MPB;122;11
+Feedback;Ruído Branco;Rock;279;2
+Caso Base;Trio Recursivo;Samba;282;23
+Batucada no Laboratório;Escola do Morro;Samba;301;18
+Stack Overflow;Os Compiladores;Rock;260;22
+Segmentation Fault;Os Compiladores;Rock;240;15
+Fibra Ótica;Banda Larga;Rock;302;8
+Segmentation Fault;Os Compiladores;Rock;240;12
+Ping Alto;Banda Larga;Rock;6;9
+Rehash;Bianca Hash;Pop;96;23
+Override;Quarteto Polimórfico;Jazz;177;16
+Estática;Ruído Branco;Rock;4;12
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+8-bit Love;Bits & Bytes;Eletrônica;295;21
+Chimarrão;Lua Nova;MPB;179;10
+Céu de Porto Alegre;Lua Nova;MPB;194;1
+Próximo;Os Iteradores;Pop;303;14
+Kernel Panic;Os Compiladores;Rock;249;20
+Build Quebrado;Coletivo Compila;Hip-hop;323;2
+Ipê Amarelo;Clara Vereda;MPB;162;16
+Deadlock;Os Compiladores;Rock;119;7
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Oscilador;Synth Lab;Eletrônica;67;18
+Oscilador;Synth Lab;Eletrônica;189;15
+Deadlock;Os Compiladores;Rock;216;17
+Pixel;Bits & Bytes;Eletrônica;60;21
+Ipê Amarelo;Clara Vereda;MPB;162;13
+Bucket List;Bianca Hash;Pop;239;20
+Rehash;Bianca Hash;Pop;314;21
+Segmentation Fault;Os Compiladores;Rock;81;20
+hasNext;Os Iteradores;Pop;150;18
+Pixel;Bits & Bytes;Eletrônica;281;18
+Estática;Ruído Branco;Rock;11;18
+Céu de Porto Alegre;Lua Nova;MPB;62;21
+Fator de Carga;Bianca Hash;Pop;312;16
+Próximo;Os Iteradores;Pop;269;19
+Guaíba ao Entardecer;Lua Nova;MPB;206;17
+Merge Conflict;Coletivo Compila;Hip-hop;5;20
+Guaíba ao Entardecer;Lua Nova;MPB;106;19
+Próximo;Os Iteradores;Pop;303;23
+Chimarrão;Lua Nova;MPB;179;14
+Segmentation Fault;Os Compiladores;Rock;240;23
+Garbage Collector;DJ Ponteiro;Eletrônica;185;23
+Ping Alto;Banda Larga;Rock;231;18
+Segmentation Fault;Os Compiladores;Rock;240;1
+Segmentation Fault;Os Compiladores;Rock;240;18
+Expressão;MC Lambda;Hip-hop;247;21
+Caminho de Volta;Clara Vereda;MPB;21;6
+Chimarrão;Lua Nova;MPB;179;8
+Volta ao Início;Os Iteradores;Pop;258;21
+Maré Alta;Lua Nova;MPB;23;2
+Feedback;Ruído Branco;Rock;119;16
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Estática;Ruído Branco;Rock;265;20
+Estática;Ruído Branco;Rock;265;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Chimarrão;Lua Nova;MPB;179;8
+Feedback;Ruído Branco;Rock;39;17
+Modulação;Synth Lab;Eletrônica;61;0
+Build Quebrado;Coletivo Compila;Hip-hop;273;19
+Sem Sinal;Banda Larga;Rock;287;18
+Sem Sinal;Banda Larga;Rock;186;19
+Kernel Panic;Os Compiladores;Rock;24;10
+Filter Map Reduce;MC Lambda;Hip-hop;24;23
+Ping Alto;Banda Larga;Rock;231;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;10
+Feedback;Ruído Branco;Rock;279;10
+Caso Base;Trio Recursivo;Samba;184;11
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+8-bit Love;Bits & Bytes;Eletrônica;10;22
+Caso Base;Trio Recursivo;Samba;77;19
+Chimarrão;Lua Nova;MPB;179;21
+Override;Quarteto Polimórfico;Jazz;177;0
+Oscilador;Synth Lab;Eletrônica;189;16
+Pixel;Bits & Bytes;Eletrônica;281;8
+Sem Sinal;Banda Larga;Rock;287;21
+Próximo;Os Iteradores;Pop;303;10
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Ping Alto;Banda Larga;Rock;231;23
+Ping Alto;Banda Larga;Rock;231;11
+Volta ao Início;Os Iteradores;Pop;162;20
+Kernel Panic;Os Compiladores;Rock;249;17
+Ping Alto;Banda Larga;Rock;12;18
+Fibra Ótica;Banda Larga;Rock;302;20
+Deadlock;Os Compiladores;Rock;216;22
+Kernel Panic;Os Compiladores;Rock;90;0
+Céu de Porto Alegre;Lua Nova;MPB;194;10
+Feedback;Ruído Branco;Rock;279;23
+Segmentation Fault;Os Compiladores;Rock;240;21
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Próximo;Os Iteradores;Pop;303;9
+Volta ao Início;Os Iteradores;Pop;258;12
+Stream de Rimas;MC Lambda;Hip-hop;243;10
+Céu de Porto Alegre;Lua Nova;MPB;194;0
+Céu de Porto Alegre;Lua Nova;MPB;17;15
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Feedback;Ruído Branco;Rock;220;23
+Estática;Ruído Branco;Rock;15;14
+Céu de Porto Alegre;Lua Nova;MPB;9;21
+Merge Conflict;Coletivo Compila;Hip-hop;199;10
+Feedback;Ruído Branco;Rock;279;1
+Segmentation Fault;Os Compiladores;Rock;21;11
+Fibra Ótica;Banda Larga;Rock;302;6
+Cache Miss;DJ Ponteiro;Eletrônica;296;10
+Varanda;Clara Vereda;MPB;60;21
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Deadlock;Os Compiladores;Rock;216;23
+Chimarrão;Lua Nova;MPB;160;17
+Oscilador;Synth Lab;Eletrônica;189;12
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Caso Base;Trio Recursivo;Samba;276;2
+Ping Alto;Banda Larga;Rock;231;23
+Stack Overflow;Os Compiladores;Rock;35;13
+Fibra Ótica;Banda Larga;Rock;184;1
+Modulação;Synth Lab;Eletrônica;233;19
+Build Quebrado;Coletivo Compila;Hip-hop;323;18
+Stack Overflow;Os Compiladores;Rock;260;19
+Stack Overflow;Os Compiladores;Rock;5;22
+Fibra Ótica;Banda Larga;Rock;302;6
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Estática;Ruído Branco;Rock;265;15
+Fibra Ótica;Banda Larga;Rock;302;12
+Ping Alto;Banda Larga;Rock;231;0
+Fibra Ótica;Banda Larga;Rock;302;22
+Volta pra Mim;Trio Recursivo;Samba;196;15
+Sobrecarga;Quarteto Polimórfico;Jazz;244;22
+Oscilador;Synth Lab;Eletrônica;189;23
+Varanda;Clara Vereda;MPB;163;7
+Feedback;Ruído Branco;Rock;279;21
+Volta pra Mim;Trio Recursivo;Samba;196;11
+Guaíba ao Entardecer;Lua Nova;MPB;206;7
+Maré Alta;Lua Nova;MPB;174;10
+Rehash;Bianca Hash;Pop;314;21
+Céu de Porto Alegre;Lua Nova;MPB;188;22
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Segmentation Fault;Os Compiladores;Rock;240;23
+Ping Alto;Banda Larga;Rock;3;8
+Oscilador;Synth Lab;Eletrônica;189;12
+Feedback;Ruído Branco;Rock;258;19
+Modulação;Synth Lab;Eletrônica;233;8
+Rehash;Bianca Hash;Pop;27;19
+Segmentation Fault;Os Compiladores;Rock;240;21
+Merge Conflict;Coletivo Compila;Hip-hop;199;18
+Stack Overflow;Os Compiladores;Rock;9;18
+Oscilador;Synth Lab;Eletrônica;27;22
+Stack Overflow;Os Compiladores;Rock;260;17
+Ping Alto;Banda Larga;Rock;21;12
+Chimarrão;Lua Nova;MPB;36;18
+Rehash;Bianca Hash;Pop;314;11
+Feedback;Ruído Branco;Rock;279;23
+Rehash;Bianca Hash;Pop;314;20
+Feedback;Ruído Branco;Rock;42;21
+Bucket List;Bianca Hash;Pop;9;16
+Stack Overflow;Os Compiladores;Rock;260;10
+Guaíba ao Entardecer;Lua Nova;MPB;206;13
+Estática;Ruído Branco;Rock;13;9
+Céu de Porto Alegre;Lua Nova;MPB;117;19
+Céu de Porto Alegre;Lua Nova;MPB;194;1
+Fibra Ótica;Banda Larga;Rock;302;23
+Kernel Panic;Os Compiladores;Rock;249;17
+Merge Conflict;Coletivo Compila;Hip-hop;3;21
+Estática;Ruído Branco;Rock;265;16
+Ipê Amarelo;Clara Vereda;MPB;162;19
+Fibra Ótica;Banda Larga;Rock;302;18
+Kernel Panic;Os Compiladores;Rock;249;21
+Fibra Ótica;Banda Larga;Rock;302;21
+Chimarrão;Lua Nova;MPB;179;19
+Rehash;Bianca Hash;Pop;19;17
+Feedback;Ruído Branco;Rock;262;22
+Ping Alto;Banda Larga;Rock;6;21
+Feedback;Ruído Branco;Rock;279;20
+Stack Overflow;Os Compiladores;Rock;260;9
+Oscilador;Synth Lab;Eletrônica;174;9
+Feedback;Ruído Branco;Rock;279;0
+Segmentation Fault;Os Compiladores;Rock;240;11
+Chimarrão;Lua Nova;MPB;179;17
+Segmentation Fault;Os Compiladores;Rock;240;22
+Segmentation Fault;Os Compiladores;Rock;240;14
+Modulação;Synth Lab;Eletrônica;233;15
+Chimarrão;Lua Nova;MPB;174;1
+Kernel Panic;Os Compiladores;Rock;249;21
+Estática;Ruído Branco;Rock;265;16
+Próximo;Os Iteradores;Pop;167;13
+Maré Alta;Lua Nova;MPB;174;19
+Sobrecarga;Quarteto Polimórfico;Jazz;244;23
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Segmentation Fault;Os Compiladores;Rock;240;16
+Deadlock;Os Compiladores;Rock;216;22
+Volta ao Início;Os Iteradores;Pop;16;21
+Fibra Ótica;Banda Larga;Rock;302;0
+Cuíca;Escola do Morro;Samba;221;21
+Próximo;Os Iteradores;Pop;28;12
+Kernel Panic;Os Compiladores;Rock;249;18
+Segmentation Fault;Os Compiladores;Rock;240;13
+Chimarrão;Lua Nova;MPB;78;16
+Stack Overflow;Os Compiladores;Rock;260;22
+Kernel Panic;Os Compiladores;Rock;9;8
+Deadlock;Os Compiladores;Rock;13;13
+NullPointer;DJ Ponteiro;Eletrônica;5;11
+Varanda;Clara Vereda;MPB;163;23
+Expressão;MC Lambda;Hip-hop;247;15
+Guaíba ao Entardecer;Lua Nova;MPB;10;21
+Rehash;Bianca Hash;Pop;314;14
+Bucket List;Bianca Hash;Pop;239;11
+Feedback;Ruído Branco;Rock;279;16
+Volta ao Início;Os Iteradores;Pop;223;22
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Stack Overflow;Os Compiladores;Rock;260;0
+Próximo;Os Iteradores;Pop;303;0
+Override;Quarteto Polimórfico;Jazz;177;17
+Próximo;Os Iteradores;Pop;303;21
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Feedback;Ruído Branco;Rock;279;12
+Rehash;Bianca Hash;Pop;22;11
+Fibra Ótica;Banda Larga;Rock;302;9
+Estática;Ruído Branco;Rock;148;22
+Ping Alto;Banda Larga;Rock;231;18
+NullPointer;DJ Ponteiro;Eletrônica;9;22
+Feedback;Ruído Branco;Rock;279;20
+Sobrecarga;Quarteto Polimórfico;Jazz;244;9
+Caminho de Volta;Clara Vereda;MPB;213;22
+Ping Alto;Banda Larga;Rock;231;17
+Build Quebrado;Coletivo Compila;Hip-hop;223;23
+Herança;Duo Abstrato;Jazz;23;10
+Kernel Panic;Os Compiladores;Rock;249;10
+Pixel;Bits & Bytes;Eletrônica;281;22
+hasNext;Os Iteradores;Pop;150;18
+Varanda;Clara Vereda;MPB;163;23
+Thread Pool;DJ Ponteiro;Eletrônica;174;0
+Chimarrão;Lua Nova;MPB;179;15
+Sem Sinal;Banda Larga;Rock;73;11
+Ping Alto;Banda Larga;Rock;22;12
+Deadlock;Os Compiladores;Rock;216;21
+Ping Alto;Banda Larga;Rock;231;7
+Pixel;Bits & Bytes;Eletrônica;281;21
+Estática;Ruído Branco;Rock;265;22
+Kernel Panic;Os Compiladores;Rock;249;10
+Sem Sinal;Banda Larga;Rock;22;23
+Ping Alto;Banda Larga;Rock;231;23
+Estática;Ruído Branco;Rock;8;23
+Expressão;MC Lambda;Hip-hop;247;1
+Segmentation Fault;Os Compiladores;Rock;160;8
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Segmentation Fault;Os Compiladores;Rock;240;1
+Merge Conflict;Coletivo Compila;Hip-hop;199;16
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Stack Overflow;Os Compiladores;Rock;260;20
+Kernel Panic;Os Compiladores;Rock;249;22
+Stack Overflow;Os Compiladores;Rock;260;10
+Kernel Panic;Os Compiladores;Rock;249;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;10
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Próximo;Os Iteradores;Pop;303;14
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Céu de Porto Alegre;Lua Nova;MPB;193;22
+Pilha de Chamadas;Trio Recursivo;Samba;17;10
+Ping Alto;Banda Larga;Rock;231;9
+Merge Conflict;Coletivo Compila;Hip-hop;199;2
+Segmentation Fault;Os Compiladores;Rock;240;8
+Cache Miss;DJ Ponteiro;Eletrônica;296;8
+Build Quebrado;Coletivo Compila;Hip-hop;323;15
+Guaíba ao Entardecer;Lua Nova;MPB;60;20
+Chimarrão;Lua Nova;MPB;158;21
+Rehash;Bianca Hash;Pop;314;21
+Segmentation Fault;Os Compiladores;Rock;240;11
+Expressão;MC Lambda;Hip-hop;13;20
+Ping Alto;Banda Larga;Rock;231;9
+Rehash;Bianca Hash;Pop;314;18
+Rehash;Bianca Hash;Pop;314;19
+Kernel Panic;Os Compiladores;Rock;249;22
+Maré Alta;Lua Nova;MPB;174;22
+Sem Sinal;Banda Larga;Rock;20;7
+Kernel Panic;Os Compiladores;Rock;249;20
+Sem Sinal;Banda Larga;Rock;287;21
+Build Quebrado;Coletivo Compila;Hip-hop;323;21
+Segmentation Fault;Os Compiladores;Rock;240;16
+Fibra Ótica;Banda Larga;Rock;302;23
+Oscilador;Synth Lab;Eletrônica;189;18
+Oscilador;Synth Lab;Eletrônica;189;20
+Segmentation Fault;Os Compiladores;Rock;240;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;9
+Bucket List;Bianca Hash;Pop;239;6
+Caso Base;Trio Recursivo;Samba;114;18
+Kernel Panic;Os Compiladores;Rock;249;9
+Estática;Ruído Branco;Rock;18;8
+Pilha de Chamadas;Trio Recursivo;Samba;6;21
+Caso Base;Trio Recursivo;Samba;282;11
+Ping Alto;Banda Larga;Rock;231;17
+Oscilador;Synth Lab;Eletrônica;189;7
+Segmentation Fault;Os Compiladores;Rock;240;18
+Fibra Ótica;Banda Larga;Rock;302;21
+Feedback;Ruído Branco;Rock;146;8
+Rehash;Bianca Hash;Pop;314;19
+Caso Base;Trio Recursivo;Samba;282;21
+Maré Alta;Lua Nova;MPB;174;11
+Fibra Ótica;Banda Larga;Rock;302;14
+Kernel Panic;Os Compiladores;Rock;150;19
+Volta ao Início;Os Iteradores;Pop;258;14
+Modulação;Synth Lab;Eletrônica;233;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Oscilador;Synth Lab;Eletrônica;189;11
+Herança;Duo Abstrato;Jazz;198;9
+Kernel Panic;Os Compiladores;Rock;249;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;10
+Varanda;Clara Vereda;MPB;92;16
+Estática;Ruído Branco;Rock;26;16
+NullPointer;DJ Ponteiro;Eletrônica;5;13
+Chimarrão;Lua Nova;MPB;119;18
+Próximo;Os Iteradores;Pop;303;2
+Próximo;Os Iteradores;Pop;303;15
+NullPointer;DJ Ponteiro;Eletrônica;225;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Kernel Panic;Os Compiladores;Rock;249;10
+Cuíca;Escola do Morro;Samba;221;13
+Thread Pool;DJ Ponteiro;Eletrônica;174;22
+Sobrecarga;Quarteto Polimórfico;Jazz;244;10
+Ping Alto;Banda Larga;Rock;8;12
+Volta ao Início;Os Iteradores;Pop;258;10
+Fibra Ótica;Banda Larga;Rock;174;10
+Oscilador;Synth Lab;Eletrônica;146;6
+Estática;Ruído Branco;Rock;15;2
+Ping Alto;Banda Larga;Rock;16;19
+Stack Overflow;Os Compiladores;Rock;260;12
+Ipê Amarelo;Clara Vereda;MPB;162;4
+Ping Alto;Banda Larga;Rock;231;9
+Fibra Ótica;Banda Larga;Rock;302;19
+NullPointer;DJ Ponteiro;Eletrônica;225;19
+Ping Alto;Banda Larga;Rock;15;10
+Chimarrão;Lua Nova;MPB;179;16
+Caso Base;Trio Recursivo;Samba;282;7
+Fibra Ótica;Banda Larga;Rock;302;13
+Caso Base;Trio Recursivo;Samba;252;23
+Próximo;Os Iteradores;Pop;303;0
+Bucket List;Bianca Hash;Pop;5;12
+Cache Miss;DJ Ponteiro;Eletrônica;296;11
+Fibra Ótica;Banda Larga;Rock;302;19
+Fibra Ótica;Banda Larga;Rock;302;23
+Bucket List;Bianca Hash;Pop;239;22
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Segmentation Fault;Os Compiladores;Rock;240;21
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Chimarrão;Lua Nova;MPB;179;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Ping Alto;Banda Larga;Rock;4;11
+Fibra Ótica;Banda Larga;Rock;302;17
+Próximo;Os Iteradores;Pop;303;20
+Modulação;Synth Lab;Eletrônica;233;20
+Bucket List;Bianca Hash;Pop;239;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Maré Alta;Lua Nova;MPB;174;14
+Ping Alto;Banda Larga;Rock;10;21
+Rehash;Bianca Hash;Pop;314;18
+Ping Alto;Banda Larga;Rock;3;7
+Rehash;Bianca Hash;Pop;314;14
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Céu de Porto Alegre;Lua Nova;MPB;168;14
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Oscilador;Synth Lab;Eletrônica;189;20
+Caso Base;Trio Recursivo;Samba;282;20
+Fibra Ótica;Banda Larga;Rock;302;9
+Feedback;Ruído Branco;Rock;25;20
+Deadlock;Os Compiladores;Rock;216;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;13
+Pixel;Bits & Bytes;Eletrônica;9;23
+Maré Alta;Lua Nova;MPB;174;12
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Guaíba ao Entardecer;Lua Nova;MPB;8;13
+Chimarrão;Lua Nova;MPB;179;15
+Cache Miss;DJ Ponteiro;Eletrônica;296;20
+Bucket List;Bianca Hash;Pop;8;12
+Céu de Porto Alegre;Lua Nova;MPB;58;22
+Feedback;Ruído Branco;Rock;32;18
+Deadlock;Os Compiladores;Rock;17;15
+Fibra Ótica;Banda Larga;Rock;302;7
+Céu de Porto Alegre;Lua Nova;MPB;194;14
+Chimarrão;Lua Nova;MPB;131;19
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Chimarrão;Lua Nova;MPB;179;18
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Chimarrão;Lua Nova;MPB;179;19
+Guaíba ao Entardecer;Lua Nova;MPB;206;11
+Stream de Rimas;MC Lambda;Hip-hop;243;15
+Merge Conflict;Coletivo Compila;Hip-hop;166;1
+Override;Quarteto Polimórfico;Jazz;177;19
+Cache Miss;DJ Ponteiro;Eletrônica;296;20
+Fibra Ótica;Banda Larga;Rock;246;16
+Caso Base;Trio Recursivo;Samba;282;1
+Céu de Porto Alegre;Lua Nova;MPB;22;19
+Fibra Ótica;Banda Larga;Rock;302;18
+NullPointer;DJ Ponteiro;Eletrônica;225;9
+Modulação;Synth Lab;Eletrônica;233;11
+Ping Alto;Banda Larga;Rock;231;0
+Sem Sinal;Banda Larga;Rock;287;22
+Cache Miss;DJ Ponteiro;Eletrônica;13;20
+Caso Base;Trio Recursivo;Samba;282;20
+Stack Overflow;Os Compiladores;Rock;260;9
+Deadlock;Os Compiladores;Rock;216;18
+Segmentation Fault;Os Compiladores;Rock;240;1
+Fator de Carga;Bianca Hash;Pop;312;12
+Fibra Ótica;Banda Larga;Rock;302;23
+Segmentation Fault;Os Compiladores;Rock;240;19
+Varanda;Clara Vereda;MPB;22;15
+Pilha de Chamadas;Trio Recursivo;Samba;281;14
+Caminho de Volta;Clara Vereda;MPB;213;15
+Modulação;Synth Lab;Eletrônica;233;23
+Segmentation Fault;Os Compiladores;Rock;240;15
+Stream de Rimas;MC Lambda;Hip-hop;243;9
+Bucket List;Bianca Hash;Pop;239;15
+Estática;Ruído Branco;Rock;19;21
+Fibra Ótica;Banda Larga;Rock;302;12
+Rehash;Bianca Hash;Pop;13;17
+Fibra Ótica;Banda Larga;Rock;302;13
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Segmentation Fault;Os Compiladores;Rock;240;19
+Caminho de Volta;Clara Vereda;MPB;213;7
+Estática;Ruído Branco;Rock;3;17
+Próximo;Os Iteradores;Pop;303;21
+Céu de Porto Alegre;Lua Nova;MPB;194;7
+Céu de Porto Alegre;Lua Nova;MPB;194;11
+Caminho de Volta;Clara Vereda;MPB;10;21
+Deadlock;Os Compiladores;Rock;11;7
+Chimarrão;Lua Nova;MPB;179;16
+Varanda;Clara Vereda;MPB;8;19
+Fibra Ótica;Banda Larga;Rock;302;22
+Segmentation Fault;Os Compiladores;Rock;107;9
+Segmentation Fault;Os Compiladores;Rock;5;15
+Feedback;Ruído Branco;Rock;279;20
+Modulação;Synth Lab;Eletrônica;194;16
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Ping Alto;Banda Larga;Rock;17;21
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Pixel;Bits & Bytes;Eletrônica;281;13
+Ping Alto;Banda Larga;Rock;21;9
+Volta ao Início;Os Iteradores;Pop;128;17
+Ping Alto;Banda Larga;Rock;27;2
+Modulação;Synth Lab;Eletrônica;19;14
+Kernel Panic;Os Compiladores;Rock;249;19
+Fibra Ótica;Banda Larga;Rock;22;0
+Caso Base;Trio Recursivo;Samba;24;13
+Deadlock;Os Compiladores;Rock;216;18
+Merge Conflict;Coletivo Compila;Hip-hop;21;8
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Estática;Ruído Branco;Rock;27;15
+Merge Conflict;Coletivo Compila;Hip-hop;199;0
+Ping Alto;Banda Larga;Rock;23;15
+Herança;Duo Abstrato;Jazz;198;11
+Pixel;Bits & Bytes;Eletrônica;12;23
+Kernel Panic;Os Compiladores;Rock;249;0
+Caso Base;Trio Recursivo;Samba;282;5
+Céu de Porto Alegre;Lua Nova;MPB;135;16
+Caso Base;Trio Recursivo;Samba;282;12
+Fibra Ótica;Banda Larga;Rock;302;17
+Ping Alto;Banda Larga;Rock;22;8
+Kernel Panic;Os Compiladores;Rock;197;21
+Segmentation Fault;Os Compiladores;Rock;8;9
+Feedback;Ruído Branco;Rock;279;11
+Caminho de Volta;Clara Vereda;MPB;213;23
+Fibra Ótica;Banda Larga;Rock;302;22
+Chimarrão;Lua Nova;MPB;72;8
+Oscilador;Synth Lab;Eletrônica;163;12
+Próximo;Os Iteradores;Pop;303;11
+Guaíba ao Entardecer;Lua Nova;MPB;206;7
+Segmentation Fault;Os Compiladores;Rock;157;23
+Ping Alto;Banda Larga;Rock;231;12
+Estática;Ruído Branco;Rock;18;14
+Chimarrão;Lua Nova;MPB;143;11
+Próximo;Os Iteradores;Pop;303;18
+Sem Sinal;Banda Larga;Rock;287;7
+Fibra Ótica;Banda Larga;Rock;302;12
+Segmentation Fault;Os Compiladores;Rock;240;15
+Rehash;Bianca Hash;Pop;236;18
+Chimarrão;Lua Nova;MPB;179;18
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+hasNext;Os Iteradores;Pop;150;12
+Rehash;Bianca Hash;Pop;314;14
+Céu de Porto Alegre;Lua Nova;MPB;194;11
+Fibra Ótica;Banda Larga;Rock;302;20
+Chimarrão;Lua Nova;MPB;179;21
+Rehash;Bianca Hash;Pop;314;14
+Rehash;Bianca Hash;Pop;314;12
+hasNext;Os Iteradores;Pop;150;8
+Oscilador;Synth Lab;Eletrônica;24;17
+Oscilador;Synth Lab;Eletrônica;189;20
+Fibra Ótica;Banda Larga;Rock;4;15
+Estática;Ruído Branco;Rock;3;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Stream de Rimas;MC Lambda;Hip-hop;243;14
+Céu de Porto Alegre;Lua Nova;MPB;194;6
+Feedback;Ruído Branco;Rock;20;3
+Chimarrão;Lua Nova;MPB;45;19
+Segmentation Fault;Os Compiladores;Rock;8;19
+Deadlock;Os Compiladores;Rock;216;13
+Ipê Amarelo;Clara Vereda;MPB;162;9
+Ping Alto;Banda Larga;Rock;25;17
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Merge Conflict;Coletivo Compila;Hip-hop;27;20
+Herança;Duo Abstrato;Jazz;198;23
+Varanda;Clara Vereda;MPB;163;18
+Deadlock;Os Compiladores;Rock;24;21
+Fibra Ótica;Banda Larga;Rock;302;17
+Chimarrão;Lua Nova;MPB;179;8
+Rehash;Bianca Hash;Pop;314;8
+Guaíba ao Entardecer;Lua Nova;MPB;206;6
+Feedback;Ruído Branco;Rock;279;18
+Fibra Ótica;Banda Larga;Rock;302;16
+Estática;Ruído Branco;Rock;265;9
+Kernel Panic;Os Compiladores;Rock;249;22
+Bucket List;Bianca Hash;Pop;6;23
+Rehash;Bianca Hash;Pop;314;16
+Bucket List;Bianca Hash;Pop;239;23
+Interface Azul;Quarteto Polimórfico;Jazz;145;15
+Fibra Ótica;Banda Larga;Rock;91;12
+Stack Overflow;Os Compiladores;Rock;260;9
+Fibra Ótica;Banda Larga;Rock;302;11
+Oscilador;Synth Lab;Eletrônica;37;9
+Varanda;Clara Vereda;MPB;98;11
+Oscilador;Synth Lab;Eletrônica;23;23
+Estática;Ruído Branco;Rock;265;10
+Rehash;Bianca Hash;Pop;171;7
+Kernel Panic;Os Compiladores;Rock;120;19
+Segmentation Fault;Os Compiladores;Rock;240;20
+Stream de Rimas;MC Lambda;Hip-hop;243;1
+Stack Overflow;Os Compiladores;Rock;260;6
+Deadlock;Os Compiladores;Rock;19;7
+Próximo;Os Iteradores;Pop;303;22
+Ping Alto;Banda Larga;Rock;13;19
+Stream de Rimas;MC Lambda;Hip-hop;8;20
+Rehash;Bianca Hash;Pop;314;9
+Próximo;Os Iteradores;Pop;303;14
+Caminho de Volta;Clara Vereda;MPB;213;19
+Deadlock;Os Compiladores;Rock;216;11
+Maré Alta;Lua Nova;MPB;174;20
+Ping Alto;Banda Larga;Rock;231;22
+Caminho de Volta;Clara Vereda;MPB;213;20
+Fibra Ótica;Banda Larga;Rock;302;22
+Guaíba ao Entardecer;Lua Nova;MPB;186;21
+Estática;Ruído Branco;Rock;265;18
+Kernel Panic;Os Compiladores;Rock;249;22
+Feedback;Ruído Branco;Rock;279;23
+Caminho de Volta;Clara Vereda;MPB;213;19
+Estática;Ruído Branco;Rock;13;11
+Fibra Ótica;Banda Larga;Rock;96;22
+Fibra Ótica;Banda Larga;Rock;13;12
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Rehash;Bianca Hash;Pop;314;22
+Segmentation Fault;Os Compiladores;Rock;240;7
+Feedback;Ruído Branco;Rock;279;12
+Ping Alto;Banda Larga;Rock;18;19
+Estática;Ruído Branco;Rock;14;19
+Modulação;Synth Lab;Eletrônica;233;22
+Kernel Panic;Os Compiladores;Rock;249;18
+Segmentation Fault;Os Compiladores;Rock;240;21
+Guaíba ao Entardecer;Lua Nova;MPB;206;9
+Stack Overflow;Os Compiladores;Rock;182;1
+Ping Alto;Banda Larga;Rock;231;15
+Chimarrão;Lua Nova;MPB;179;7
+Rehash;Bianca Hash;Pop;314;23
+Ipê Amarelo;Clara Vereda;MPB;162;23
+Volta ao Início;Os Iteradores;Pop;258;23
+Deadlock;Os Compiladores;Rock;216;20
+Deadlock;Os Compiladores;Rock;216;19
+Oscilador;Synth Lab;Eletrônica;163;18
+Céu de Porto Alegre;Lua Nova;MPB;21;21
+Segmentation Fault;Os Compiladores;Rock;240;12
+Fibra Ótica;Banda Larga;Rock;302;8
+Estática;Ruído Branco;Rock;13;21
+Segmentation Fault;Os Compiladores;Rock;69;13
+Kernel Panic;Os Compiladores;Rock;249;1
+NullPointer;DJ Ponteiro;Eletrônica;8;16
+Fibra Ótica;Banda Larga;Rock;302;10
+Chimarrão;Lua Nova;MPB;179;22
+Céu de Porto Alegre;Lua Nova;MPB;88;19
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Modulação;Synth Lab;Eletrônica;233;21
+Segmentation Fault;Os Compiladores;Rock;240;20
+Feedback;Ruído Branco;Rock;279;9
+Ping Alto;Banda Larga;Rock;231;14
+Merge Conflict;Coletivo Compila;Hip-hop;13;19
+Fibra Ótica;Banda Larga;Rock;302;20
+Interface Azul;Quarteto Polimórfico;Jazz;313;17
+Ping Alto;Banda Larga;Rock;19;22
+Interface Azul;Quarteto Polimórfico;Jazz;313;12
+Segmentation Fault;Os Compiladores;Rock;240;13
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Caso Base;Trio Recursivo;Samba;124;12
+Estática;Ruído Branco;Rock;265;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;14
+Rehash;Bianca Hash;Pop;314;8
+Guaíba ao Entardecer;Lua Nova;MPB;181;19
+Guaíba ao Entardecer;Lua Nova;MPB;101;23
+Caso Base;Trio Recursivo;Samba;282;18
+Ping Alto;Banda Larga;Rock;231;6
+Modulação;Synth Lab;Eletrônica;233;17
+Segmentation Fault;Os Compiladores;Rock;218;13
+Feedback;Ruído Branco;Rock;279;15
+8-bit Love;Bits & Bytes;Eletrônica;295;19
+Fibra Ótica;Banda Larga;Rock;302;7
+Fibra Ótica;Banda Larga;Rock;302;7
+Merge Conflict;Coletivo Compila;Hip-hop;199;22
+Estática;Ruído Branco;Rock;265;13
+Oscilador;Synth Lab;Eletrônica;172;18
+Feedback;Ruído Branco;Rock;279;23
+Estática;Ruído Branco;Rock;14;19
+Feedback;Ruído Branco;Rock;279;13
+Chimarrão;Lua Nova;MPB;179;8
+Varanda;Clara Vereda;MPB;163;21
+Céu de Porto Alegre;Lua Nova;MPB;194;7
+Feedback;Ruído Branco;Rock;279;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Próximo;Os Iteradores;Pop;303;18
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Rehash;Bianca Hash;Pop;314;1
+Rehash;Bianca Hash;Pop;314;9
+Sem Sinal;Banda Larga;Rock;287;21
+Fibra Ótica;Banda Larga;Rock;302;8
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Overclock;Bits & Bytes;Eletrônica;23;8
+Sem Sinal;Banda Larga;Rock;83;20
+Segmentation Fault;Os Compiladores;Rock;240;21
+Segmentation Fault;Os Compiladores;Rock;240;1
+Varanda;Clara Vereda;MPB;28;2
+Deadlock;Os Compiladores;Rock;216;2
+Fibra Ótica;Banda Larga;Rock;302;20
+Stream de Rimas;MC Lambda;Hip-hop;243;2
+Stack Overflow;Os Compiladores;Rock;260;14
+Deadlock;Os Compiladores;Rock;205;19
+Segmentation Fault;Os Compiladores;Rock;240;10
+Segmentation Fault;Os Compiladores;Rock;20;20
+Maré Alta;Lua Nova;MPB;28;17
+Deadlock;Os Compiladores;Rock;216;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Chimarrão;Lua Nova;MPB;84;14
+Fibra Ótica;Banda Larga;Rock;302;8
+Rehash;Bianca Hash;Pop;314;21
+Caminho de Volta;Clara Vereda;MPB;213;19
+Chimarrão;Lua Nova;MPB;179;20
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Ping Alto;Banda Larga;Rock;231;8
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Guaíba ao Entardecer;Lua Nova;MPB;94;13
+Kernel Panic;Os Compiladores;Rock;249;18
+Céu de Porto Alegre;Lua Nova;MPB;194;12
+Bucket List;Bianca Hash;Pop;218;0
+Sem Sinal;Banda Larga;Rock;287;9
+Fator de Carga;Bianca Hash;Pop;312;18
+Kernel Panic;Os Compiladores;Rock;4;22
+Estática;Ruído Branco;Rock;21;12
+Chimarrão;Lua Nova;MPB;179;7
+Estática;Ruído Branco;Rock;265;11
+Pixel;Bits & Bytes;Eletrônica;12;20
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Próximo;Os Iteradores;Pop;303;20
+Fibra Ótica;Banda Larga;Rock;152;22
+Fibra Ótica;Banda Larga;Rock;302;9
+Oscilador;Synth Lab;Eletrônica;189;10
+Segmentation Fault;Os Compiladores;Rock;150;20
+Caso Base;Trio Recursivo;Samba;282;12
+Ipê Amarelo;Clara Vereda;MPB;162;16
+Estática;Ruído Branco;Rock;23;22
+Feedback;Ruído Branco;Rock;200;22
+Fibra Ótica;Banda Larga;Rock;302;10
+Céu de Porto Alegre;Lua Nova;MPB;194;1
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Stack Overflow;Os Compiladores;Rock;260;20
+Stream de Rimas;MC Lambda;Hip-hop;243;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;14
+Céu de Porto Alegre;Lua Nova;MPB;194;7
+Maré Alta;Lua Nova;MPB;174;21
+Pixel;Bits & Bytes;Eletrônica;281;10
+Override;Quarteto Polimórfico;Jazz;55;13
+Modulação;Synth Lab;Eletrônica;233;11
+Maré Alta;Lua Nova;MPB;174;13
+Estática;Ruído Branco;Rock;265;13
+Oscilador;Synth Lab;Eletrônica;189;22
+Chimarrão;Lua Nova;MPB;118;19
+Ping Alto;Banda Larga;Rock;231;22
+Maré Alta;Lua Nova;MPB;174;18
+Ipê Amarelo;Clara Vereda;MPB;162;15
+Cuíca;Escola do Morro;Samba;221;10
+Próximo;Os Iteradores;Pop;146;14
+Ipê Amarelo;Clara Vereda;MPB;162;23
+Estática;Ruído Branco;Rock;25;17
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;19
+Classe Sem Corpo;Duo Abstrato;Jazz;270;21
+Chimarrão;Lua Nova;MPB;179;23
+Modulação;Synth Lab;Eletrônica;100;12
+Chimarrão;Lua Nova;MPB;179;11
+Ping Alto;Banda Larga;Rock;4;17
+Estática;Ruído Branco;Rock;265;20
+Sem Sinal;Banda Larga;Rock;270;10
+Estática;Ruído Branco;Rock;265;10
+Próximo;Os Iteradores;Pop;3;23
+Stack Overflow;Os Compiladores;Rock;110;23
+Caminho de Volta;Clara Vereda;MPB;105;22
+Segmentation Fault;Os Compiladores;Rock;240;18
+Estática;Ruído Branco;Rock;265;23
+Segmentation Fault;Os Compiladores;Rock;20;21
+Stack Overflow;Os Compiladores;Rock;153;16
+Ping Alto;Banda Larga;Rock;145;20
+Feedback;Ruído Branco;Rock;279;0
+Rehash;Bianca Hash;Pop;314;15
+Cache Miss;DJ Ponteiro;Eletrônica;296;18
+Merge Conflict;Coletivo Compila;Hip-hop;179;11
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Chimarrão;Lua Nova;MPB;179;10
+Deadlock;Os Compiladores;Rock;216;9
+Estática;Ruído Branco;Rock;265;15
+Rehash;Bianca Hash;Pop;314;20
+Maré Alta;Lua Nova;MPB;174;23
+Oscilador;Synth Lab;Eletrônica;189;21
+Segmentation Fault;Os Compiladores;Rock;240;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Rehash;Bianca Hash;Pop;23;20
+Stack Overflow;Os Compiladores;Rock;260;9
+Sem Sinal;Banda Larga;Rock;287;13
+Fibra Ótica;Banda Larga;Rock;302;23
+Feedback;Ruído Branco;Rock;279;7
+Stream de Rimas;MC Lambda;Hip-hop;243;15
+Volta ao Início;Os Iteradores;Pop;176;1
+Guaíba ao Entardecer;Lua Nova;MPB;206;14
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Override;Quarteto Polimórfico;Jazz;177;9
+Segmentation Fault;Os Compiladores;Rock;240;13
+Deadlock;Os Compiladores;Rock;216;12
+Ping Alto;Banda Larga;Rock;19;1
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Fibra Ótica;Banda Larga;Rock;302;12
+Maré Alta;Lua Nova;MPB;174;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Modulação;Synth Lab;Eletrônica;233;8
+Céu de Porto Alegre;Lua Nova;MPB;145;0
+Varanda;Clara Vereda;MPB;163;10
+Segmentation Fault;Os Compiladores;Rock;240;22
+8-bit Love;Bits & Bytes;Eletrônica;295;19
+Oscilador;Synth Lab;Eletrônica;189;8
+Expressão;MC Lambda;Hip-hop;247;21
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Stream de Rimas;MC Lambda;Hip-hop;243;13
+Estática;Ruído Branco;Rock;265;8
+Céu de Porto Alegre;Lua Nova;MPB;23;22
+Merge Conflict;Coletivo Compila;Hip-hop;199;20
+Stack Overflow;Os Compiladores;Rock;260;2
+Oscilador;Synth Lab;Eletrônica;189;2
+Caminho de Volta;Clara Vereda;MPB;213;20
+Caso Base;Trio Recursivo;Samba;282;17
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Céu de Porto Alegre;Lua Nova;MPB;167;9
+Céu de Porto Alegre;Lua Nova;MPB;3;23
+Ping Alto;Banda Larga;Rock;231;21
+Caso Base;Trio Recursivo;Samba;282;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;9
+Cuíca;Escola do Morro;Samba;221;18
+Ping Alto;Banda Larga;Rock;23;17
+Kernel Panic;Os Compiladores;Rock;249;0
+Estática;Ruído Branco;Rock;26;22
+Oscilador;Synth Lab;Eletrônica;189;12
+Stack Overflow;Os Compiladores;Rock;174;20
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Próximo;Os Iteradores;Pop;303;14
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Próximo;Os Iteradores;Pop;303;12
+Bucket List;Bianca Hash;Pop;21;18
+Próximo;Os Iteradores;Pop;303;18
+Chimarrão;Lua Nova;MPB;179;7
+Deadlock;Os Compiladores;Rock;216;22
+Próximo;Os Iteradores;Pop;303;20
+Thread Pool;DJ Ponteiro;Eletrônica;174;12
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Volta ao Início;Os Iteradores;Pop;20;15
+Sem Sinal;Banda Larga;Rock;81;22
+Chimarrão;Lua Nova;MPB;179;12
+Colisão;Bianca Hash;Pop;165;9
+Stack Overflow;Os Compiladores;Rock;260;20
+Ping Alto;Banda Larga;Rock;231;8
+Fibra Ótica;Banda Larga;Rock;302;10
+Fibra Ótica;Banda Larga;Rock;302;21
+Caso Base;Trio Recursivo;Samba;282;21
+Deadlock;Os Compiladores;Rock;216;14
+Caminho de Volta;Clara Vereda;MPB;213;15
+Override;Quarteto Polimórfico;Jazz;177;17
+Chimarrão;Lua Nova;MPB;179;8
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Próximo;Os Iteradores;Pop;303;13
+Feedback;Ruído Branco;Rock;72;16
+Modulação;Synth Lab;Eletrônica;233;19
+Caminho de Volta;Clara Vereda;MPB;213;6
+Rehash;Bianca Hash;Pop;314;14
+Oscilador;Synth Lab;Eletrônica;189;19
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Segmentation Fault;Os Compiladores;Rock;240;18
+Próximo;Os Iteradores;Pop;303;21
+Maré Alta;Lua Nova;MPB;86;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;16
+Fibra Ótica;Banda Larga;Rock;302;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Fibra Ótica;Banda Larga;Rock;302;22
+Oscilador;Synth Lab;Eletrônica;189;12
+Ping Alto;Banda Larga;Rock;11;18
+Bucket List;Bianca Hash;Pop;20;19
+Stack Overflow;Os Compiladores;Rock;260;13
+Interface Azul;Quarteto Polimórfico;Jazz;313;9
+Fibra Ótica;Banda Larga;Rock;302;21
+Oscilador;Synth Lab;Eletrônica;189;13
+Merge Conflict;Coletivo Compila;Hip-hop;152;7
+Batucada no Laboratório;Escola do Morro;Samba;9;1
+Merge Conflict;Coletivo Compila;Hip-hop;117;20
+Merge Conflict;Coletivo Compila;Hip-hop;199;22
+Fibra Ótica;Banda Larga;Rock;302;23
+Build Quebrado;Coletivo Compila;Hip-hop;323;21
+Feedback;Ruído Branco;Rock;279;14
+Estática;Ruído Branco;Rock;26;21
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Oscilador;Synth Lab;Eletrônica;189;19
+Maré Alta;Lua Nova;MPB;174;21
+Sem Sinal;Banda Larga;Rock;287;17
+Segmentation Fault;Os Compiladores;Rock;240;18
+Oscilador;Synth Lab;Eletrônica;189;22
+Segmentation Fault;Os Compiladores;Rock;240;22
+Próximo;Os Iteradores;Pop;303;11
+Kernel Panic;Os Compiladores;Rock;7;21
+Fibra Ótica;Banda Larga;Rock;302;12
+Override;Quarteto Polimórfico;Jazz;177;22
+Feedback;Ruído Branco;Rock;279;16
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Fibra Ótica;Banda Larga;Rock;302;19
+Modulação;Synth Lab;Eletrônica;233;18
+Feedback;Ruído Branco;Rock;279;0
+Guaíba ao Entardecer;Lua Nova;MPB;206;15
+Maré Alta;Lua Nova;MPB;174;15
+Caso Base;Trio Recursivo;Samba;282;12
+Modulação;Synth Lab;Eletrônica;233;22
+Fator de Carga;Bianca Hash;Pop;312;22
+Merge Conflict;Coletivo Compila;Hip-hop;199;13
+Sem Sinal;Banda Larga;Rock;287;7
+Oscilador;Synth Lab;Eletrônica;156;11
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Modulação;Synth Lab;Eletrônica;172;23
+Ipê Amarelo;Clara Vereda;MPB;24;16
+Kernel Panic;Os Compiladores;Rock;249;19
+Feedback;Ruído Branco;Rock;279;15
+Fibra Ótica;Banda Larga;Rock;302;17
+Thread Pool;DJ Ponteiro;Eletrônica;174;14
+Rehash;Bianca Hash;Pop;314;12
+Loop Infinito;Os Compiladores;Rock;201;20
+Deadlock;Os Compiladores;Rock;216;11
+Caminho de Volta;Clara Vereda;MPB;128;17
+Maré Alta;Lua Nova;MPB;174;11
+Chimarrão;Lua Nova;MPB;179;18
+hasNext;Os Iteradores;Pop;150;22
+Estática;Ruído Branco;Rock;265;1
+Estática;Ruído Branco;Rock;15;22
+Chimarrão;Lua Nova;MPB;179;12
+Caso Base;Trio Recursivo;Samba;126;17
+Bucket List;Bianca Hash;Pop;28;23
+Feedback;Ruído Branco;Rock;279;19
+Stack Overflow;Os Compiladores;Rock;11;19
+Bucket List;Bianca Hash;Pop;19;8
+Bucket List;Bianca Hash;Pop;14;21
+Fibra Ótica;Banda Larga;Rock;302;16
+Kernel Panic;Os Compiladores;Rock;249;21
+Kernel Panic;Os Compiladores;Rock;249;8
+NullPointer;DJ Ponteiro;Eletrônica;225;10
+Oscilador;Synth Lab;Eletrônica;18;20
+Stream de Rimas;MC Lambda;Hip-hop;243;9
+Chimarrão;Lua Nova;MPB;179;14
+Garbage Collector;DJ Ponteiro;Eletrônica;242;13
+Deadlock;Os Compiladores;Rock;216;17
+Interface Azul;Quarteto Polimórfico;Jazz;313;16
+Ping Alto;Banda Larga;Rock;231;21
+Rehash;Bianca Hash;Pop;314;22
+Estática;Ruído Branco;Rock;265;20
+Deadlock;Os Compiladores;Rock;216;22
+Céu de Porto Alegre;Lua Nova;MPB;194;16
+Segmentation Fault;Os Compiladores;Rock;240;22
+Segmentation Fault;Os Compiladores;Rock;240;7
+Rehash;Bianca Hash;Pop;314;20
+Fibra Ótica;Banda Larga;Rock;302;8
+Estática;Ruído Branco;Rock;265;20
+Cuíca;Escola do Morro;Samba;221;20
+Override;Quarteto Polimórfico;Jazz;177;19
+Merge Conflict;Coletivo Compila;Hip-hop;199;1
+Stack Overflow;Os Compiladores;Rock;260;19
+Feedback;Ruído Branco;Rock;279;12
+hasNext;Os Iteradores;Pop;150;21
+Próximo;Os Iteradores;Pop;303;15
+Stack Overflow;Os Compiladores;Rock;260;17
+Rehash;Bianca Hash;Pop;4;8
+Interface Azul;Quarteto Polimórfico;Jazz;313;13
+Stack Overflow;Os Compiladores;Rock;260;19
+Caso Base;Trio Recursivo;Samba;282;21
+Estática;Ruído Branco;Rock;13;17
+Modulação;Synth Lab;Eletrônica;233;14
+Sobrecarga;Quarteto Polimórfico;Jazz;244;9
+Ping Alto;Banda Larga;Rock;231;8
+Modulação;Synth Lab;Eletrônica;233;11
+Fator de Carga;Bianca Hash;Pop;76;21
+Feedback;Ruído Branco;Rock;279;7
+Segmentation Fault;Os Compiladores;Rock;240;20
+Caminho de Volta;Clara Vereda;MPB;213;7
+Kernel Panic;Os Compiladores;Rock;249;16
+Ping Alto;Banda Larga;Rock;231;9
+Chimarrão;Lua Nova;MPB;179;8
+Kernel Panic;Os Compiladores;Rock;249;11
+Feedback;Ruído Branco;Rock;279;20
+Feedback;Ruído Branco;Rock;279;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Kernel Panic;Os Compiladores;Rock;249;8
+Oscilador;Synth Lab;Eletrônica;189;23
+Próximo;Os Iteradores;Pop;284;20
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Próximo;Os Iteradores;Pop;303;15
+Kernel Panic;Os Compiladores;Rock;249;7
+Feedback;Ruído Branco;Rock;91;0
+Chimarrão;Lua Nova;MPB;179;1
+Chimarrão;Lua Nova;MPB;179;11
+Ping Alto;Banda Larga;Rock;26;12
+Céu de Porto Alegre;Lua Nova;MPB;194;1
+Sem Sinal;Banda Larga;Rock;56;12
+Fator de Carga;Bianca Hash;Pop;312;19
+Oscilador;Synth Lab;Eletrônica;189;18
+Próximo;Os Iteradores;Pop;303;11
+Volta ao Início;Os Iteradores;Pop;6;10
+Modulação;Synth Lab;Eletrônica;233;20
+Céu de Porto Alegre;Lua Nova;MPB;194;1
+Kernel Panic;Os Compiladores;Rock;141;18
+Chimarrão;Lua Nova;MPB;179;20
+Rehash;Bianca Hash;Pop;314;7
+Céu de Porto Alegre;Lua Nova;MPB;86;17
+Segmentation Fault;Os Compiladores;Rock;29;19
+NullPointer;DJ Ponteiro;Eletrônica;121;12
+Chimarrão;Lua Nova;MPB;179;23
+Estática;Ruído Branco;Rock;59;12
+Fibra Ótica;Banda Larga;Rock;302;2
+Estática;Ruído Branco;Rock;265;20
+Chimarrão;Lua Nova;MPB;179;9
+Sem Sinal;Banda Larga;Rock;287;21
+Interface Azul;Quarteto Polimórfico;Jazz;313;12
+Estática;Ruído Branco;Rock;8;21
+Feedback;Ruído Branco;Rock;279;23
+Oscilador;Synth Lab;Eletrônica;189;8
+Maré Alta;Lua Nova;MPB;174;2
+Rehash;Bianca Hash;Pop;314;19
+Maré Alta;Lua Nova;MPB;107;23
+Loop Infinito;Os Compiladores;Rock;201;19
+Próximo;Os Iteradores;Pop;303;20
+Guaíba ao Entardecer;Lua Nova;MPB;11;21
+Fibra Ótica;Banda Larga;Rock;302;19
+hasNext;Os Iteradores;Pop;138;22
+Chimarrão;Lua Nova;MPB;179;19
+Cuíca;Escola do Morro;Samba;221;12
+Próximo;Os Iteradores;Pop;303;11
+Deadlock;Os Compiladores;Rock;216;21
+Segmentation Fault;Os Compiladores;Rock;240;17
+Feedback;Ruído Branco;Rock;279;20
+Segmentation Fault;Os Compiladores;Rock;240;7
+Maré Alta;Lua Nova;MPB;174;1
+Ping Alto;Banda Larga;Rock;231;15
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Kernel Panic;Os Compiladores;Rock;249;23
+Guaíba ao Entardecer;Lua Nova;MPB;10;18
+Oscilador;Synth Lab;Eletrônica;189;1
+Caso Base;Trio Recursivo;Samba;282;17
+Merge Conflict;Coletivo Compila;Hip-hop;13;21
+Céu de Porto Alegre;Lua Nova;MPB;194;16
+Caso Base;Trio Recursivo;Samba;282;11
+Stack Overflow;Os Compiladores;Rock;260;20
+Pixel;Bits & Bytes;Eletrônica;281;8
+Feedback;Ruído Branco;Rock;30;14
+Ping Alto;Banda Larga;Rock;16;8
+Herança;Duo Abstrato;Jazz;198;23
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Caso Base;Trio Recursivo;Samba;282;15
+Segmentation Fault;Os Compiladores;Rock;240;8
+Próximo;Os Iteradores;Pop;303;7
+Bucket List;Bianca Hash;Pop;239;11
+Segmentation Fault;Os Compiladores;Rock;240;21
+Stack Overflow;Os Compiladores;Rock;260;12
+Kernel Panic;Os Compiladores;Rock;249;15
+Próximo;Os Iteradores;Pop;8;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;12
+Feedback;Ruído Branco;Rock;279;21
+Caminho de Volta;Clara Vereda;MPB;213;9
+Segmentation Fault;Os Compiladores;Rock;240;22
+Feedback;Ruído Branco;Rock;279;11
+Céu de Porto Alegre;Lua Nova;MPB;194;0
+Volta ao Início;Os Iteradores;Pop;258;17
+Kernel Panic;Os Compiladores;Rock;249;17
+Feedback;Ruído Branco;Rock;279;0
+Rehash;Bianca Hash;Pop;314;21
+Cache Miss;DJ Ponteiro;Eletrônica;296;22
+Ipê Amarelo;Clara Vereda;MPB;162;10
+Chimarrão;Lua Nova;MPB;179;6
+Estática;Ruído Branco;Rock;265;9
+Ping Alto;Banda Larga;Rock;231;7
+Guaíba ao Entardecer;Lua Nova;MPB;206;6
+Modulação;Synth Lab;Eletrônica;8;3
+Fibra Ótica;Banda Larga;Rock;11;9
+Feedback;Ruído Branco;Rock;279;21
+Céu de Porto Alegre;Lua Nova;MPB;59;16
+Ipê Amarelo;Clara Vereda;MPB;162;9
+Ipê Amarelo;Clara Vereda;MPB;162;18
+Segmentation Fault;Os Compiladores;Rock;240;17
+Oscilador;Synth Lab;Eletrônica;189;18
+Céu de Porto Alegre;Lua Nova;MPB;26;18
+Herança;Duo Abstrato;Jazz;198;16
+Céu de Porto Alegre;Lua Nova;MPB;3;6
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Segmentation Fault;Os Compiladores;Rock;240;0
+Volta ao Início;Os Iteradores;Pop;258;15
+Ping Alto;Banda Larga;Rock;194;9
+Oscilador;Synth Lab;Eletrônica;189;23
+Feedback;Ruído Branco;Rock;279;9
+Classe Sem Corpo;Duo Abstrato;Jazz;209;19
+Sem Sinal;Banda Larga;Rock;287;14
+Sem Sinal;Banda Larga;Rock;287;8
+Fibra Ótica;Banda Larga;Rock;302;12
+Pilha de Chamadas;Trio Recursivo;Samba;281;21
+Oscilador;Synth Lab;Eletrônica;189;22
+Fibra Ótica;Banda Larga;Rock;302;21
+Stack Overflow;Os Compiladores;Rock;23;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Ping Alto;Banda Larga;Rock;27;20
+Chimarrão;Lua Nova;MPB;179;11
+Céu de Porto Alegre;Lua Nova;MPB;194;16
+Segmentation Fault;Os Compiladores;Rock;240;7
+Caso Base;Trio Recursivo;Samba;282;19
+Stream de Rimas;MC Lambda;Hip-hop;27;1
+Sem Sinal;Banda Larga;Rock;287;7
+Bucket List;Bianca Hash;Pop;239;14
+Fibra Ótica;Banda Larga;Rock;302;13
+Modulação;Synth Lab;Eletrônica;10;19
+Ipê Amarelo;Clara Vereda;MPB;8;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;23
+Deadlock;Os Compiladores;Rock;216;16
+Sem Sinal;Banda Larga;Rock;287;19
+Estática;Ruído Branco;Rock;14;0
+Guaíba ao Entardecer;Lua Nova;MPB;206;16
+Segmentation Fault;Os Compiladores;Rock;240;22
+Feedback;Ruído Branco;Rock;279;23
+Fibra Ótica;Banda Larga;Rock;302;21
+Caminho de Volta;Clara Vereda;MPB;213;23
+Chimarrão;Lua Nova;MPB;179;12
+Fibra Ótica;Banda Larga;Rock;302;10
+Caminho de Volta;Clara Vereda;MPB;210;21
+Segmentation Fault;Os Compiladores;Rock;168;12
+Build Quebrado;Coletivo Compila;Hip-hop;323;16
+Fibra Ótica;Banda Larga;Rock;302;21
+Deadlock;Os Compiladores;Rock;24;15
+Fibra Ótica;Banda Larga;Rock;302;19
+Filter Map Reduce;MC Lambda;Hip-hop;21;23
+Overclock;Bits & Bytes;Eletrônica;311;8
+Override;Quarteto Polimórfico;Jazz;100;14
+Stack Overflow;Os Compiladores;Rock;7;20
+Oscilador;Synth Lab;Eletrônica;189;20
+Fibra Ótica;Banda Larga;Rock;302;2
+Oscilador;Synth Lab;Eletrônica;189;19
+Override;Quarteto Polimórfico;Jazz;177;23
+NullPointer;DJ Ponteiro;Eletrônica;225;15
+Deadlock;Os Compiladores;Rock;3;22
+Maré Alta;Lua Nova;MPB;174;19
+Fibra Ótica;Banda Larga;Rock;302;12
+Próximo;Os Iteradores;Pop;9;8
+Feedback;Ruído Branco;Rock;16;22
+Merge Conflict;Coletivo Compila;Hip-hop;199;18
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Expressão;MC Lambda;Hip-hop;247;20
+Segmentation Fault;Os Compiladores;Rock;172;20
+Céu de Porto Alegre;Lua Nova;MPB;194;10
+Estática;Ruído Branco;Rock;265;1
+Loop Infinito;Os Compiladores;Rock;201;19
+Varanda;Clara Vereda;MPB;163;6
+Caso Base;Trio Recursivo;Samba;217;23
+Céu de Porto Alegre;Lua Nova;MPB;194;12
+Stack Overflow;Os Compiladores;Rock;260;21
+Kernel Panic;Os Compiladores;Rock;249;16
+Fibra Ótica;Banda Larga;Rock;302;23
+Segmentation Fault;Os Compiladores;Rock;240;3
+Chimarrão;Lua Nova;MPB;179;22
+Varanda;Clara Vereda;MPB;163;0
+Stream de Rimas;MC Lambda;Hip-hop;243;0
+Fibra Ótica;Banda Larga;Rock;302;16
+Pilha de Chamadas;Trio Recursivo;Samba;281;20
+Sem Sinal;Banda Larga;Rock;287;14
+Caso Base;Trio Recursivo;Samba;282;8
+Feedback;Ruído Branco;Rock;279;20
+Stack Overflow;Os Compiladores;Rock;24;18
+Sem Sinal;Banda Larga;Rock;168;23
+Herança;Duo Abstrato;Jazz;198;14
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Maré Alta;Lua Nova;MPB;174;13
+NullPointer;DJ Ponteiro;Eletrônica;225;21
+Segmentation Fault;Os Compiladores;Rock;240;20
+Sem Sinal;Banda Larga;Rock;287;8
+Kernel Panic;Os Compiladores;Rock;22;13
+Caminho de Volta;Clara Vereda;MPB;7;22
+Rehash;Bianca Hash;Pop;314;23
+Override;Quarteto Polimórfico;Jazz;177;15
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Fibra Ótica;Banda Larga;Rock;302;18
+Segmentation Fault;Os Compiladores;Rock;39;9
+Caminho de Volta;Clara Vereda;MPB;213;23
+Modulação;Synth Lab;Eletrônica;25;19
+Stack Overflow;Os Compiladores;Rock;260;21
+Stack Overflow;Os Compiladores;Rock;260;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Maré Alta;Lua Nova;MPB;12;20
+Kernel Panic;Os Compiladores;Rock;249;20
+Feedback;Ruído Branco;Rock;18;23
+Guaíba ao Entardecer;Lua Nova;MPB;10;20
+Fibra Ótica;Banda Larga;Rock;302;21
+Maré Alta;Lua Nova;MPB;174;20
+Fator de Carga;Bianca Hash;Pop;312;6
+Stream de Rimas;MC Lambda;Hip-hop;243;14
+Override;Quarteto Polimórfico;Jazz;177;20
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Feedback;Ruído Branco;Rock;279;19
+Feedback;Ruído Branco;Rock;279;13
+Fibra Ótica;Banda Larga;Rock;94;8
+Sem Sinal;Banda Larga;Rock;287;23
+Maré Alta;Lua Nova;MPB;174;17
+Estática;Ruído Branco;Rock;4;22
+Céu de Porto Alegre;Lua Nova;MPB;5;23
+Ping Alto;Banda Larga;Rock;20;13
+Oscilador;Synth Lab;Eletrônica;189;8
+Volta ao Início;Os Iteradores;Pop;258;2
+Estática;Ruído Branco;Rock;11;18
+Segmentation Fault;Os Compiladores;Rock;240;12
+Guaíba ao Entardecer;Lua Nova;MPB;17;18
+Rehash;Bianca Hash;Pop;53;12
+Sem Sinal;Banda Larga;Rock;41;21
+Varanda;Clara Vereda;MPB;154;22
+Estática;Ruído Branco;Rock;11;22
+Loop Infinito;Os Compiladores;Rock;201;22
+Modulação;Synth Lab;Eletrônica;233;12
+Expressão;MC Lambda;Hip-hop;11;17
+Sem Sinal;Banda Larga;Rock;287;15
+Próximo;Os Iteradores;Pop;303;19
+Fibra Ótica;Banda Larga;Rock;302;12
+Segmentation Fault;Os Compiladores;Rock;86;6
+Chimarrão;Lua Nova;MPB;179;0
+Ping Alto;Banda Larga;Rock;231;12
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Ipê Amarelo;Clara Vereda;MPB;162;11
+Feedback;Ruído Branco;Rock;279;16
+Varanda;Clara Vereda;MPB;163;13
+Caminho de Volta;Clara Vereda;MPB;213;7
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Stream de Rimas;MC Lambda;Hip-hop;243;15
+Caso Base;Trio Recursivo;Samba;282;22
+Fibra Ótica;Banda Larga;Rock;206;23
+Oscilador;Synth Lab;Eletrônica;189;18
+Caso Base;Trio Recursivo;Samba;282;6
+Fibra Ótica;Banda Larga;Rock;73;21
+Filter Map Reduce;MC Lambda;Hip-hop;227;18
+Fibra Ótica;Banda Larga;Rock;78;7
+Fibra Ótica;Banda Larga;Rock;302;21
+Ping Alto;Banda Larga;Rock;17;1
+Feedback;Ruído Branco;Rock;17;21
+Fibra Ótica;Banda Larga;Rock;302;22
+Volta ao Início;Os Iteradores;Pop;116;20
+Estática;Ruído Branco;Rock;11;2
+Loop Infinito;Os Compiladores;Rock;201;10
+Feedback;Ruído Branco;Rock;279;20
+Chimarrão;Lua Nova;MPB;179;17
+Ping Alto;Banda Larga;Rock;231;16
+Chimarrão;Lua Nova;MPB;14;8
+Estática;Ruído Branco;Rock;28;14
+Fibra Ótica;Banda Larga;Rock;14;20
+Stream de Rimas;MC Lambda;Hip-hop;243;10
+Fibra Ótica;Banda Larga;Rock;302;15
+Volta ao Início;Os Iteradores;Pop;258;9
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Fibra Ótica;Banda Larga;Rock;302;23
+Segmentation Fault;Os Compiladores;Rock;51;18
+Volta ao Início;Os Iteradores;Pop;258;22
+Cache Miss;DJ Ponteiro;Eletrônica;296;15
+Chimarrão;Lua Nova;MPB;179;0
+Rehash;Bianca Hash;Pop;6;12
+Segmentation Fault;Os Compiladores;Rock;240;22
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Kernel Panic;Os Compiladores;Rock;249;14
+Fator de Carga;Bianca Hash;Pop;144;18
+Chimarrão;Lua Nova;MPB;179;21
+Kernel Panic;Os Compiladores;Rock;249;8
+Maré Alta;Lua Nova;MPB;174;8
+Fibra Ótica;Banda Larga;Rock;110;18
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Interface Azul;Quarteto Polimórfico;Jazz;313;12
+Chimarrão;Lua Nova;MPB;179;13
+Kernel Panic;Os Compiladores;Rock;249;17
+Segmentation Fault;Os Compiladores;Rock;240;22
+Interface Azul;Quarteto Polimórfico;Jazz;58;12
+Segmentation Fault;Os Compiladores;Rock;240;8
+Herança;Duo Abstrato;Jazz;198;19
+Ping Alto;Banda Larga;Rock;231;12
+Chimarrão;Lua Nova;MPB;114;11
+Céu de Porto Alegre;Lua Nova;MPB;9;19
+Kernel Panic;Os Compiladores;Rock;249;21
+Fibra Ótica;Banda Larga;Rock;302;22
+Volta ao Início;Os Iteradores;Pop;258;22
+Kernel Panic;Os Compiladores;Rock;249;22
+Ping Alto;Banda Larga;Rock;231;8
+Ping Alto;Banda Larga;Rock;231;7
+Stream de Rimas;MC Lambda;Hip-hop;12;9
+Feedback;Ruído Branco;Rock;279;20
+Stack Overflow;Os Compiladores;Rock;260;22
+Próximo;Os Iteradores;Pop;303;9
+Caminho de Volta;Clara Vereda;MPB;7;22
+Bucket List;Bianca Hash;Pop;21;23
+Kernel Panic;Os Compiladores;Rock;249;11
+Chimarrão;Lua Nova;MPB;179;22
+Próximo;Os Iteradores;Pop;19;16
+Oscilador;Synth Lab;Eletrônica;189;20
+Segmentation Fault;Os Compiladores;Rock;240;6
+Guaíba ao Entardecer;Lua Nova;MPB;206;18
+Pixel;Bits & Bytes;Eletrônica;31;8
+Estática;Ruído Branco;Rock;265;6
+NullPointer;DJ Ponteiro;Eletrônica;5;13
+Maré Alta;Lua Nova;MPB;174;15
+Classe Sem Corpo;Duo Abstrato;Jazz;270;20
+Feedback;Ruído Branco;Rock;189;21
+Caso Base;Trio Recursivo;Samba;282;0
+Oscilador;Synth Lab;Eletrônica;189;12
+Ping Alto;Banda Larga;Rock;10;19
+hasNext;Os Iteradores;Pop;150;11
+Fibra Ótica;Banda Larga;Rock;302;20
+Overclock;Bits & Bytes;Eletrônica;311;17
+Chimarrão;Lua Nova;MPB;179;15
+Fibra Ótica;Banda Larga;Rock;9;21
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Caso Base;Trio Recursivo;Samba;282;8
+Kernel Panic;Os Compiladores;Rock;249;12
+Segmentation Fault;Os Compiladores;Rock;240;8
+Varanda;Clara Vereda;MPB;163;18
+Overclock;Bits & Bytes;Eletrônica;311;11
+Fibra Ótica;Banda Larga;Rock;302;14
+Kernel Panic;Os Compiladores;Rock;249;13
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Céu de Porto Alegre;Lua Nova;MPB;49;19
+Varanda;Clara Vereda;MPB;163;21
+Caso Base;Trio Recursivo;Samba;18;21
+Sem Sinal;Banda Larga;Rock;189;8
+Fibra Ótica;Banda Larga;Rock;302;18
+Estática;Ruído Branco;Rock;166;9
+Sem Sinal;Banda Larga;Rock;26;20
+Rehash;Bianca Hash;Pop;29;6
+Fibra Ótica;Banda Larga;Rock;70;22
+Cuíca;Escola do Morro;Samba;221;17
+Expressão;MC Lambda;Hip-hop;247;14
+Cache Miss;DJ Ponteiro;Eletrônica;296;23
+Sem Sinal;Banda Larga;Rock;287;21
+Chimarrão;Lua Nova;MPB;123;19
+Cuíca;Escola do Morro;Samba;221;14
+Deadlock;Os Compiladores;Rock;216;22
+Kernel Panic;Os Compiladores;Rock;217;8
+Maré Alta;Lua Nova;MPB;174;12
+Guaíba ao Entardecer;Lua Nova;MPB;206;6
+Cache Miss;DJ Ponteiro;Eletrônica;296;22
+Segmentation Fault;Os Compiladores;Rock;240;12
+Rehash;Bianca Hash;Pop;314;7
+Céu de Porto Alegre;Lua Nova;MPB;194;18
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Feedback;Ruído Branco;Rock;279;17
+Fibra Ótica;Banda Larga;Rock;302;10
+Segmentation Fault;Os Compiladores;Rock;240;12
+Oscilador;Synth Lab;Eletrônica;189;23
+Feedback;Ruído Branco;Rock;279;20
+Próximo;Os Iteradores;Pop;303;22
+Maré Alta;Lua Nova;MPB;12;12
+Volta ao Início;Os Iteradores;Pop;258;17
+Batucada no Laboratório;Escola do Morro;Samba;301;20
+Stream de Rimas;MC Lambda;Hip-hop;119;17
+Ping Alto;Banda Larga;Rock;231;22
+Chimarrão;Lua Nova;MPB;179;18
+Fibra Ótica;Banda Larga;Rock;302;17
+Override;Quarteto Polimórfico;Jazz;177;10
+Ping Alto;Banda Larga;Rock;231;1
+Kernel Panic;Os Compiladores;Rock;249;6
+Rehash;Bianca Hash;Pop;314;20
+Guaíba ao Entardecer;Lua Nova;MPB;199;23
+Segmentation Fault;Os Compiladores;Rock;240;17
+Chimarrão;Lua Nova;MPB;179;18
+Estática;Ruído Branco;Rock;265;9
+Ping Alto;Banda Larga;Rock;23;21
+Feedback;Ruído Branco;Rock;279;14
+Ping Alto;Banda Larga;Rock;28;1
+Segmentation Fault;Os Compiladores;Rock;240;6
+Segmentation Fault;Os Compiladores;Rock;223;21
+Próximo;Os Iteradores;Pop;303;22
+Modulação;Synth Lab;Eletrônica;233;22
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Próximo;Os Iteradores;Pop;303;0
+Loop Infinito;Os Compiladores;Rock;201;6
+Segmentation Fault;Os Compiladores;Rock;240;22
+Segmentation Fault;Os Compiladores;Rock;240;14
+Caminho de Volta;Clara Vereda;MPB;26;23
+Rehash;Bianca Hash;Pop;314;18
+Rehash;Bianca Hash;Pop;314;12
+Guaíba ao Entardecer;Lua Nova;MPB;206;17
+Segmentation Fault;Os Compiladores;Rock;240;7
+Ping Alto;Banda Larga;Rock;5;9
+Caminho de Volta;Clara Vereda;MPB;213;19
+Maré Alta;Lua Nova;MPB;174;19
+Kernel Panic;Os Compiladores;Rock;249;21
+Herança;Duo Abstrato;Jazz;198;22
+Ping Alto;Banda Larga;Rock;9;10
+Volta ao Início;Os Iteradores;Pop;112;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;10
+Sem Sinal;Banda Larga;Rock;287;18
+Ping Alto;Banda Larga;Rock;231;22
+Oscilador;Synth Lab;Eletrônica;189;2
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Volta ao Início;Os Iteradores;Pop;258;0
+Oscilador;Synth Lab;Eletrônica;14;22
+Herança;Duo Abstrato;Jazz;198;9
+Ipê Amarelo;Clara Vereda;MPB;162;8
+Segmentation Fault;Os Compiladores;Rock;240;18
+Ipê Amarelo;Clara Vereda;MPB;162;13
+Segmentation Fault;Os Compiladores;Rock;204;20
+Fibra Ótica;Banda Larga;Rock;302;16
+Chimarrão;Lua Nova;MPB;179;22
+Caso Base;Trio Recursivo;Samba;282;8
+Feedback;Ruído Branco;Rock;279;18
+Segmentation Fault;Os Compiladores;Rock;240;19
+Fibra Ótica;Banda Larga;Rock;302;21
+Fator de Carga;Bianca Hash;Pop;312;19
+Sem Sinal;Banda Larga;Rock;287;15
+Fibra Ótica;Banda Larga;Rock;302;18
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Fibra Ótica;Banda Larga;Rock;302;10
+Ipê Amarelo;Clara Vereda;MPB;162;15
+Interface Azul;Quarteto Polimórfico;Jazz;313;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Próximo;Os Iteradores;Pop;217;8
+Kernel Panic;Os Compiladores;Rock;33;14
+Feedback;Ruído Branco;Rock;279;21
+Oscilador;Synth Lab;Eletrônica;5;6
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Stack Overflow;Os Compiladores;Rock;260;20
+Cache Miss;DJ Ponteiro;Eletrônica;232;9
+Oscilador;Synth Lab;Eletrônica;29;8
+Oscilador;Synth Lab;Eletrônica;189;5
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Fibra Ótica;Banda Larga;Rock;302;9
+Segmentation Fault;Os Compiladores;Rock;240;6
+Sem Sinal;Banda Larga;Rock;287;23
+Rehash;Bianca Hash;Pop;122;20
+Caso Base;Trio Recursivo;Samba;282;8
+Feedback;Ruído Branco;Rock;279;16
+Kernel Panic;Os Compiladores;Rock;249;22
+Kernel Panic;Os Compiladores;Rock;21;12
+Bucket List;Bianca Hash;Pop;11;20
+Segmentation Fault;Os Compiladores;Rock;74;9
+Volta ao Início;Os Iteradores;Pop;258;17
+Stack Overflow;Os Compiladores;Rock;260;13
+Cuíca;Escola do Morro;Samba;221;8
+Kernel Panic;Os Compiladores;Rock;249;9
+Caso Base;Trio Recursivo;Samba;242;0
+Kernel Panic;Os Compiladores;Rock;15;15
+Feedback;Ruído Branco;Rock;122;20
+Oscilador;Synth Lab;Eletrônica;189;19
+Segmentation Fault;Os Compiladores;Rock;240;22
+Expressão;MC Lambda;Hip-hop;247;9
+Ipê Amarelo;Clara Vereda;MPB;162;17
+Caso Base;Trio Recursivo;Samba;282;22
+Fator de Carga;Bianca Hash;Pop;312;21
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Feedback;Ruído Branco;Rock;279;23
+Oscilador;Synth Lab;Eletrônica;189;14
+Rehash;Bianca Hash;Pop;314;9
+Feedback;Ruído Branco;Rock;279;7
+Stack Overflow;Os Compiladores;Rock;260;10
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Estática;Ruído Branco;Rock;24;19
+Fibra Ótica;Banda Larga;Rock;302;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Próximo;Os Iteradores;Pop;303;22
+Fibra Ótica;Banda Larga;Rock;302;23
+Ping Alto;Banda Larga;Rock;231;21
+Varanda;Clara Vereda;MPB;163;22
+Próximo;Os Iteradores;Pop;303;15
+Céu de Porto Alegre;Lua Nova;MPB;7;23
+Deadlock;Os Compiladores;Rock;155;23
+Cuíca;Escola do Morro;Samba;221;22
+Feedback;Ruído Branco;Rock;279;11
+Caminho de Volta;Clara Vereda;MPB;213;15
+NullPointer;DJ Ponteiro;Eletrônica;225;18
+Fibra Ótica;Banda Larga;Rock;20;21
+Stack Overflow;Os Compiladores;Rock;260;22
+Oscilador;Synth Lab;Eletrônica;9;19
+Ping Alto;Banda Larga;Rock;20;19
+Chimarrão;Lua Nova;MPB;179;22
+Stack Overflow;Os Compiladores;Rock;260;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;18
+Volta ao Início;Os Iteradores;Pop;258;10
+Estática;Ruído Branco;Rock;265;21
+Ping Alto;Banda Larga;Rock;23;12
+Caso Base;Trio Recursivo;Samba;282;22
+Sem Sinal;Banda Larga;Rock;287;21
+Fibra Ótica;Banda Larga;Rock;302;9
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Sobrecarga;Quarteto Polimórfico;Jazz;9;15
+Oscilador;Synth Lab;Eletrônica;189;0
+Varanda;Clara Vereda;MPB;163;19
+Ping Alto;Banda Larga;Rock;231;10
+Feedback;Ruído Branco;Rock;279;22
+Modulação;Synth Lab;Eletrônica;233;21
+Segmentation Fault;Os Compiladores;Rock;240;8
+Stream de Rimas;MC Lambda;Hip-hop;243;13
+Próximo;Os Iteradores;Pop;280;14
+Caso Base;Trio Recursivo;Samba;282;11
+Kernel Panic;Os Compiladores;Rock;249;20
+Fator de Carga;Bianca Hash;Pop;24;8
+Chimarrão;Lua Nova;MPB;179;7
+Próximo;Os Iteradores;Pop;303;17
+Kernel Panic;Os Compiladores;Rock;249;9
+Guaíba ao Entardecer;Lua Nova;MPB;146;8
+Fibra Ótica;Banda Larga;Rock;302;21
+Stack Overflow;Os Compiladores;Rock;260;17
+Feedback;Ruído Branco;Rock;279;8
+Ping Alto;Banda Larga;Rock;14;10
+Segmentation Fault;Os Compiladores;Rock;240;20
+hasNext;Os Iteradores;Pop;150;2
+Chimarrão;Lua Nova;MPB;179;9
+Sem Sinal;Banda Larga;Rock;287;9
+Feedback;Ruído Branco;Rock;279;9
+hasNext;Os Iteradores;Pop;150;23
+Sem Sinal;Banda Larga;Rock;287;22
+Ping Alto;Banda Larga;Rock;231;18
+Ping Alto;Banda Larga;Rock;231;23
+Cache Miss;DJ Ponteiro;Eletrônica;296;18
+Feedback;Ruído Branco;Rock;279;13
+Feedback;Ruído Branco;Rock;171;18
+Stream de Rimas;MC Lambda;Hip-hop;243;8
+Feedback;Ruído Branco;Rock;279;8
+Chimarrão;Lua Nova;MPB;179;23
+Ping Alto;Banda Larga;Rock;231;11
+Kernel Panic;Os Compiladores;Rock;249;21
+Modulação;Synth Lab;Eletrônica;233;23
+Segmentation Fault;Os Compiladores;Rock;88;21
+Bucket List;Bianca Hash;Pop;3;19
+Stack Overflow;Os Compiladores;Rock;260;21
+Maré Alta;Lua Nova;MPB;174;20
+Chimarrão;Lua Nova;MPB;179;9
+Segmentation Fault;Os Compiladores;Rock;240;7
+Ipê Amarelo;Clara Vereda;MPB;12;12
+Segmentation Fault;Os Compiladores;Rock;112;22
+Thread Pool;DJ Ponteiro;Eletrônica;174;20
+Rehash;Bianca Hash;Pop;314;7
+Ping Alto;Banda Larga;Rock;231;18
+Oscilador;Synth Lab;Eletrônica;189;10
+Volta ao Início;Os Iteradores;Pop;258;23
+Segmentation Fault;Os Compiladores;Rock;240;20
+Ping Alto;Banda Larga;Rock;26;14
+Kernel Panic;Os Compiladores;Rock;249;18
+Merge Conflict;Coletivo Compila;Hip-hop;199;4
+Chimarrão;Lua Nova;MPB;179;15
+Guaíba ao Entardecer;Lua Nova;MPB;206;17
+Feedback;Ruído Branco;Rock;279;16
+Feedback;Ruído Branco;Rock;279;9
+Feedback;Ruído Branco;Rock;279;18
+Oscilador;Synth Lab;Eletrônica;189;20
+NullPointer;DJ Ponteiro;Eletrônica;16;23
+hasNext;Os Iteradores;Pop;150;9
+Fibra Ótica;Banda Larga;Rock;20;20
+Chimarrão;Lua Nova;MPB;179;12
+Fibra Ótica;Banda Larga;Rock;302;8
+Ipê Amarelo;Clara Vereda;MPB;162;8
+Segmentation Fault;Os Compiladores;Rock;240;22
+Chimarrão;Lua Nova;MPB;179;19
+Override;Quarteto Polimórfico;Jazz;177;9
+Stack Overflow;Os Compiladores;Rock;24;0
+Próximo;Os Iteradores;Pop;244;23
+Feedback;Ruído Branco;Rock;279;16
+Merge Conflict;Coletivo Compila;Hip-hop;199;20
+Caso Base;Trio Recursivo;Samba;282;18
+Próximo;Os Iteradores;Pop;303;20
+NullPointer;DJ Ponteiro;Eletrônica;225;22
+Próximo;Os Iteradores;Pop;303;20
+Stack Overflow;Os Compiladores;Rock;260;10
+Chimarrão;Lua Nova;MPB;179;12
+Chimarrão;Lua Nova;MPB;179;22
+Stack Overflow;Os Compiladores;Rock;260;19
+Caminho de Volta;Clara Vereda;MPB;9;9
+Kernel Panic;Os Compiladores;Rock;249;0
+Stack Overflow;Os Compiladores;Rock;260;12
+Feedback;Ruído Branco;Rock;135;20
+Oscilador;Synth Lab;Eletrônica;189;15
+Rehash;Bianca Hash;Pop;314;13
+Caso Base;Trio Recursivo;Samba;282;7
+Varanda;Clara Vereda;MPB;23;13
+Maré Alta;Lua Nova;MPB;174;8
+Modulação;Synth Lab;Eletrônica;233;9
+Segmentation Fault;Os Compiladores;Rock;240;9
+Stream de Rimas;MC Lambda;Hip-hop;11;10
+Chimarrão;Lua Nova;MPB;11;17
+Deadlock;Os Compiladores;Rock;20;9
+Chimarrão;Lua Nova;MPB;179;12
+Bucket List;Bianca Hash;Pop;239;21
+Próximo;Os Iteradores;Pop;27;23
+Ping Alto;Banda Larga;Rock;21;1
+Sem Sinal;Banda Larga;Rock;24;18
+Chimarrão;Lua Nova;MPB;112;23
+Ping Alto;Banda Larga;Rock;127;9
+Stack Overflow;Os Compiladores;Rock;14;17
+Ping Alto;Banda Larga;Rock;231;8
+Próximo;Os Iteradores;Pop;303;16
+Chimarrão;Lua Nova;MPB;179;12
+Loop Infinito;Os Compiladores;Rock;17;22
+Estática;Ruído Branco;Rock;23;12
+Kernel Panic;Os Compiladores;Rock;249;15
+Override;Quarteto Polimórfico;Jazz;177;8
+Feedback;Ruído Branco;Rock;279;19
+Ping Alto;Banda Larga;Rock;24;6
+Bucket List;Bianca Hash;Pop;239;22
+Céu de Porto Alegre;Lua Nova;MPB;165;12
+Próximo;Os Iteradores;Pop;303;17
+Interface Azul;Quarteto Polimórfico;Jazz;313;14
+Kernel Panic;Os Compiladores;Rock;249;11
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Stack Overflow;Os Compiladores;Rock;260;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Caminho de Volta;Clara Vereda;MPB;24;18
+Stream de Rimas;MC Lambda;Hip-hop;243;17
+Ping Alto;Banda Larga;Rock;231;22
+Override;Quarteto Polimórfico;Jazz;177;15
+Maré Alta;Lua Nova;MPB;174;18
+Chimarrão;Lua Nova;MPB;179;22
+Segmentation Fault;Os Compiladores;Rock;240;22
+Kernel Panic;Os Compiladores;Rock;249;9
+Stack Overflow;Os Compiladores;Rock;260;18
+Oscilador;Synth Lab;Eletrônica;189;7
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Ping Alto;Banda Larga;Rock;5;18
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Cache Miss;DJ Ponteiro;Eletrônica;296;20
+Fibra Ótica;Banda Larga;Rock;302;17
+Modulação;Synth Lab;Eletrônica;233;15
+Deadlock;Os Compiladores;Rock;216;22
+Rehash;Bianca Hash;Pop;314;22
+Próximo;Os Iteradores;Pop;303;10
+Guaíba ao Entardecer;Lua Nova;MPB;206;14
+Segmentation Fault;Os Compiladores;Rock;240;6
+Oscilador;Synth Lab;Eletrônica;14;19
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Fibra Ótica;Banda Larga;Rock;302;19
+Rehash;Bianca Hash;Pop;314;20
+Ping Alto;Banda Larga;Rock;231;15
+Fibra Ótica;Banda Larga;Rock;302;6
+Fibra Ótica;Banda Larga;Rock;302;21
+Feedback;Ruído Branco;Rock;279;15
+Merge Conflict;Coletivo Compila;Hip-hop;199;12
+Modulação;Synth Lab;Eletrônica;233;16
+Kernel Panic;Os Compiladores;Rock;249;7
+Kernel Panic;Os Compiladores;Rock;11;17
+Stream de Rimas;MC Lambda;Hip-hop;205;18
+Cuíca;Escola do Morro;Samba;27;15
+Caso Base;Trio Recursivo;Samba;282;17
+hasNext;Os Iteradores;Pop;150;13
+Volta ao Início;Os Iteradores;Pop;258;14
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Céu de Porto Alegre;Lua Nova;MPB;109;17
+Kernel Panic;Os Compiladores;Rock;240;9
+Estática;Ruído Branco;Rock;14;7
+Oscilador;Synth Lab;Eletrônica;189;13
+Merge Conflict;Coletivo Compila;Hip-hop;199;0
+Build Quebrado;Coletivo Compila;Hip-hop;323;19
+Stream de Rimas;MC Lambda;Hip-hop;243;17
+Ping Alto;Banda Larga;Rock;25;8
+Merge Conflict;Coletivo Compila;Hip-hop;14;12
+Feedback;Ruído Branco;Rock;279;23
+Kernel Panic;Os Compiladores;Rock;249;8
+Fibra Ótica;Banda Larga;Rock;28;8
+Kernel Panic;Os Compiladores;Rock;249;1
+Céu de Porto Alegre;Lua Nova;MPB;194;8
+Ipê Amarelo;Clara Vereda;MPB;15;19
+Modulação;Synth Lab;Eletrônica;233;8
+Próximo;Os Iteradores;Pop;303;20
+Oscilador;Synth Lab;Eletrônica;112;14
+Interface Azul;Quarteto Polimórfico;Jazz;313;23
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Fibra Ótica;Banda Larga;Rock;302;17
+Oscilador;Synth Lab;Eletrônica;22;21
+Segmentation Fault;Os Compiladores;Rock;240;8
+Stream de Rimas;MC Lambda;Hip-hop;243;11
+Fibra Ótica;Banda Larga;Rock;302;20
+Maré Alta;Lua Nova;MPB;174;9
+Céu de Porto Alegre;Lua Nova;MPB;194;15
+Bucket List;Bianca Hash;Pop;17;0
+Céu de Porto Alegre;Lua Nova;MPB;194;15
+hasNext;Os Iteradores;Pop;150;18
+Próximo;Os Iteradores;Pop;68;23
+Chimarrão;Lua Nova;MPB;179;9
+Feedback;Ruído Branco;Rock;113;22
+Fibra Ótica;Banda Larga;Rock;302;12
+Build Quebrado;Coletivo Compila;Hip-hop;323;8
+Pilha de Chamadas;Trio Recursivo;Samba;281;13
+Feedback;Ruído Branco;Rock;279;16
+Expressão;MC Lambda;Hip-hop;247;21
+Segmentation Fault;Os Compiladores;Rock;161;21
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Thread Pool;DJ Ponteiro;Eletrônica;174;18
+Rehash;Bianca Hash;Pop;314;8
+Fibra Ótica;Banda Larga;Rock;302;16
+Estática;Ruído Branco;Rock;265;14
+Ping Alto;Banda Larga;Rock;231;12
+Fibra Ótica;Banda Larga;Rock;302;21
+Rehash;Bianca Hash;Pop;314;18
+Feedback;Ruído Branco;Rock;279;16
+Classe Sem Corpo;Duo Abstrato;Jazz;270;19
+Ping Alto;Banda Larga;Rock;231;22
+Volta ao Início;Os Iteradores;Pop;258;8
+Próximo;Os Iteradores;Pop;3;11
+Segmentation Fault;Os Compiladores;Rock;22;18
+Modulação;Synth Lab;Eletrônica;233;12
+Modulação;Synth Lab;Eletrônica;233;10
+Sem Sinal;Banda Larga;Rock;3;7
+Kernel Panic;Os Compiladores;Rock;249;13
+Ping Alto;Banda Larga;Rock;231;22
+Override;Quarteto Polimórfico;Jazz;177;19
+Oscilador;Synth Lab;Eletrônica;189;18
+hasNext;Os Iteradores;Pop;150;1
+Segmentation Fault;Os Compiladores;Rock;240;18
+Fibra Ótica;Banda Larga;Rock;4;10
+Céu de Porto Alegre;Lua Nova;MPB;191;19
+Sem Sinal;Banda Larga;Rock;287;14
+Segmentation Fault;Os Compiladores;Rock;240;23
+Chimarrão;Lua Nova;MPB;179;9
+Stack Overflow;Os Compiladores;Rock;260;23
+Guaíba ao Entardecer;Lua Nova;MPB;44;8
+Feedback;Ruído Branco;Rock;279;22
+Maré Alta;Lua Nova;MPB;174;14
+Ping Alto;Banda Larga;Rock;231;7
+Ping Alto;Banda Larga;Rock;23;2
+Deadlock;Os Compiladores;Rock;216;22
+Rehash;Bianca Hash;Pop;314;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Rehash;Bianca Hash;Pop;314;22
+Caso Base;Trio Recursivo;Samba;282;21
+hasNext;Os Iteradores;Pop;150;0
+Maré Alta;Lua Nova;MPB;105;15
+Cuíca;Escola do Morro;Samba;114;16
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Segmentation Fault;Os Compiladores;Rock;240;10
+Herança;Duo Abstrato;Jazz;198;14
+Feedback;Ruído Branco;Rock;279;21
+Merge Conflict;Coletivo Compila;Hip-hop;199;9
+Ping Alto;Banda Larga;Rock;231;23
+Chimarrão;Lua Nova;MPB;179;19
+hasNext;Os Iteradores;Pop;150;19
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+hasNext;Os Iteradores;Pop;150;7
+Feedback;Ruído Branco;Rock;279;21
+Override;Quarteto Polimórfico;Jazz;130;12
+Ipê Amarelo;Clara Vereda;MPB;162;0
+Segmentation Fault;Os Compiladores;Rock;240;23
+Chimarrão;Lua Nova;MPB;179;17
+Maré Alta;Lua Nova;MPB;174;22
+Rehash;Bianca Hash;Pop;314;8
+Ping Alto;Banda Larga;Rock;11;1
+Oscilador;Synth Lab;Eletrônica;189;19
+Deadlock;Os Compiladores;Rock;116;22
+Segmentation Fault;Os Compiladores;Rock;78;16
+Fibra Ótica;Banda Larga;Rock;302;7
+Fibra Ótica;Banda Larga;Rock;302;10
+Próximo;Os Iteradores;Pop;303;10
+Segmentation Fault;Os Compiladores;Rock;240;1
+Rehash;Bianca Hash;Pop;314;23
+Kernel Panic;Os Compiladores;Rock;10;20
+Override;Quarteto Polimórfico;Jazz;177;22
+Sem Sinal;Banda Larga;Rock;14;19
+Segmentation Fault;Os Compiladores;Rock;240;17
+Fibra Ótica;Banda Larga;Rock;302;19
+Feedback;Ruído Branco;Rock;279;16
+Build Quebrado;Coletivo Compila;Hip-hop;323;6
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Kernel Panic;Os Compiladores;Rock;249;21
+Fibra Ótica;Banda Larga;Rock;178;22
+Volta ao Início;Os Iteradores;Pop;258;17
+Cache Miss;DJ Ponteiro;Eletrônica;4;10
+Kernel Panic;Os Compiladores;Rock;48;0
+Segmentation Fault;Os Compiladores;Rock;240;9
+Chimarrão;Lua Nova;MPB;179;0
+Caso Base;Trio Recursivo;Samba;282;9
+Feedback;Ruído Branco;Rock;279;11
+Próximo;Os Iteradores;Pop;303;14
+Oscilador;Synth Lab;Eletrônica;189;14
+Feedback;Ruído Branco;Rock;279;15
+Overclock;Bits & Bytes;Eletrônica;62;20
+Kernel Panic;Os Compiladores;Rock;249;17
+Fibra Ótica;Banda Larga;Rock;302;18
+hasNext;Os Iteradores;Pop;150;23
+Volta ao Início;Os Iteradores;Pop;258;13
+Chimarrão;Lua Nova;MPB;5;23
+Classe Sem Corpo;Duo Abstrato;Jazz;4;23
+Kernel Panic;Os Compiladores;Rock;249;18
+Feedback;Ruído Branco;Rock;210;17
+Segmentation Fault;Os Compiladores;Rock;240;12
+Céu de Porto Alegre;Lua Nova;MPB;194;15
+Ping Alto;Banda Larga;Rock;24;7
+Maré Alta;Lua Nova;MPB;174;16
+Chimarrão;Lua Nova;MPB;179;1
+Loop Infinito;Os Compiladores;Rock;198;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;8
+Ping Alto;Banda Larga;Rock;27;7
+Sem Sinal;Banda Larga;Rock;287;8
+Céu de Porto Alegre;Lua Nova;MPB;194;12
+Caminho de Volta;Clara Vereda;MPB;213;8
+Próximo;Os Iteradores;Pop;27;22
+Fibra Ótica;Banda Larga;Rock;302;10
+Rehash;Bianca Hash;Pop;314;23
+Chimarrão;Lua Nova;MPB;179;18
+Segmentation Fault;Os Compiladores;Rock;240;6
+Deadlock;Os Compiladores;Rock;216;15
+Estática;Ruído Branco;Rock;265;21
+Ipê Amarelo;Clara Vereda;MPB;24;22
+Bucket List;Bianca Hash;Pop;239;0
+Merge Conflict;Coletivo Compila;Hip-hop;33;9
+Merge Conflict;Coletivo Compila;Hip-hop;199;15
+Modulação;Synth Lab;Eletrônica;233;21
+Volta ao Início;Os Iteradores;Pop;258;8
+Kernel Panic;Os Compiladores;Rock;249;9
+Sem Sinal;Banda Larga;Rock;287;13
+Guaíba ao Entardecer;Lua Nova;MPB;206;23
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Cache Miss;DJ Ponteiro;Eletrônica;296;22
+Fibra Ótica;Banda Larga;Rock;302;18
+Oscilador;Synth Lab;Eletrônica;124;8
+Estática;Ruído Branco;Rock;265;12
+Ping Alto;Banda Larga;Rock;231;20
+Ping Alto;Banda Larga;Rock;157;15
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Segmentation Fault;Os Compiladores;Rock;7;13
+Pixel;Bits & Bytes;Eletrônica;281;21
+Maré Alta;Lua Nova;MPB;174;21
+Estática;Ruído Branco;Rock;265;20
+Kernel Panic;Os Compiladores;Rock;16;0
+Maré Alta;Lua Nova;MPB;174;17
+Modulação;Synth Lab;Eletrônica;233;20
+Fibra Ótica;Banda Larga;Rock;302;19
+Estática;Ruído Branco;Rock;265;20
+Garbage Collector;DJ Ponteiro;Eletrônica;242;1
+Feedback;Ruído Branco;Rock;14;15
+Segmentation Fault;Os Compiladores;Rock;240;13
+Fator de Carga;Bianca Hash;Pop;111;10
+hasNext;Os Iteradores;Pop;150;21
+hasNext;Os Iteradores;Pop;150;12
+Override;Quarteto Polimórfico;Jazz;177;7
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Merge Conflict;Coletivo Compila;Hip-hop;199;12
+Chimarrão;Lua Nova;MPB;179;14
+Pixel;Bits & Bytes;Eletrônica;281;20
+Fibra Ótica;Banda Larga;Rock;18;11
+Guaíba ao Entardecer;Lua Nova;MPB;206;9
+Guaíba ao Entardecer;Lua Nova;MPB;206;7
+Segmentation Fault;Os Compiladores;Rock;240;16
+Guaíba ao Entardecer;Lua Nova;MPB;206;10
+Fibra Ótica;Banda Larga;Rock;211;20
+Oscilador;Synth Lab;Eletrônica;47;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;23
+Caso Base;Trio Recursivo;Samba;218;3
+Ping Alto;Banda Larga;Rock;13;8
+Deadlock;Os Compiladores;Rock;216;12
+Próximo;Os Iteradores;Pop;303;19
+Deadlock;Os Compiladores;Rock;216;14
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Rehash;Bianca Hash;Pop;314;12
+Estática;Ruído Branco;Rock;8;20
+Stream de Rimas;MC Lambda;Hip-hop;243;9
+Merge Conflict;Coletivo Compila;Hip-hop;199;7
+Guaíba ao Entardecer;Lua Nova;MPB;206;16
+Céu de Porto Alegre;Lua Nova;MPB;153;8
+Oscilador;Synth Lab;Eletrônica;189;12
+Próximo;Os Iteradores;Pop;21;9
+Caso Base;Trio Recursivo;Samba;282;15
+Stream de Rimas;MC Lambda;Hip-hop;243;17
+Ping Alto;Banda Larga;Rock;231;23
+Sem Sinal;Banda Larga;Rock;25;17
+Chimarrão;Lua Nova;MPB;179;20
+Volta ao Início;Os Iteradores;Pop;258;8
+Sem Sinal;Banda Larga;Rock;287;22
+NullPointer;DJ Ponteiro;Eletrônica;225;13
+Ping Alto;Banda Larga;Rock;19;15
+Chimarrão;Lua Nova;MPB;179;12
+hasNext;Os Iteradores;Pop;150;11
+Fibra Ótica;Banda Larga;Rock;302;8
+Varanda;Clara Vereda;MPB;163;21
+Fibra Ótica;Banda Larga;Rock;302;4
+Stack Overflow;Os Compiladores;Rock;87;20
+Pixel;Bits & Bytes;Eletrônica;281;18
+Caso Base;Trio Recursivo;Samba;282;22
+Maré Alta;Lua Nova;MPB;23;13
+Fibra Ótica;Banda Larga;Rock;302;14
+Stack Overflow;Os Compiladores;Rock;260;0
+Modulação;Synth Lab;Eletrônica;233;18
+Segmentation Fault;Os Compiladores;Rock;240;19
+Céu de Porto Alegre;Lua Nova;MPB;194;19
+Oscilador;Synth Lab;Eletrônica;189;5
+Herança;Duo Abstrato;Jazz;198;22
+Bucket List;Bianca Hash;Pop;202;18
+Oscilador;Synth Lab;Eletrônica;189;17
+Estática;Ruído Branco;Rock;18;8
+Kernel Panic;Os Compiladores;Rock;249;21
+Ping Alto;Banda Larga;Rock;18;16
+Ping Alto;Banda Larga;Rock;7;17
+Sem Sinal;Banda Larga;Rock;287;13
+Herança;Duo Abstrato;Jazz;198;21
+Feedback;Ruído Branco;Rock;279;8
+Merge Conflict;Coletivo Compila;Hip-hop;199;17
+Chimarrão;Lua Nova;MPB;123;10
+Varanda;Clara Vereda;MPB;121;13
+Sem Sinal;Banda Larga;Rock;287;9
+Volta ao Início;Os Iteradores;Pop;141;22
+Fibra Ótica;Banda Larga;Rock;302;23
+Deadlock;Os Compiladores;Rock;216;8
+Fibra Ótica;Banda Larga;Rock;302;16
+Kernel Panic;Os Compiladores;Rock;17;7
+Rehash;Bianca Hash;Pop;36;18
+Estática;Ruído Branco;Rock;265;18
+Céu de Porto Alegre;Lua Nova;MPB;87;19
+Feedback;Ruído Branco;Rock;279;0
+Varanda;Clara Vereda;MPB;163;18
+Chimarrão;Lua Nova;MPB;179;22
+Céu de Porto Alegre;Lua Nova;MPB;10;17
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Feedback;Ruído Branco;Rock;279;9
+Fibra Ótica;Banda Larga;Rock;26;20
+Garbage Collector;DJ Ponteiro;Eletrônica;242;20
+Fibra Ótica;Banda Larga;Rock;302;9
+Stack Overflow;Os Compiladores;Rock;17;21
+Sem Sinal;Banda Larga;Rock;287;20
+Maré Alta;Lua Nova;MPB;174;18
+Pixel;Bits & Bytes;Eletrônica;23;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Oscilador;Synth Lab;Eletrônica;189;16
+Fibra Ótica;Banda Larga;Rock;302;10
+Oscilador;Synth Lab;Eletrônica;189;22
+Ping Alto;Banda Larga;Rock;231;20
+Ping Alto;Banda Larga;Rock;231;21
+Deadlock;Os Compiladores;Rock;192;7
+Volta ao Início;Os Iteradores;Pop;121;15
+Expressão;MC Lambda;Hip-hop;247;16
+Fibra Ótica;Banda Larga;Rock;4;22
+Sem Sinal;Banda Larga;Rock;97;15
+Pixel;Bits & Bytes;Eletrônica;219;21
+Caminho de Volta;Clara Vereda;MPB;213;20
+Varanda;Clara Vereda;MPB;163;22
+Estática;Ruído Branco;Rock;15;19
+Varanda;Clara Vereda;MPB;163;22
+Chimarrão;Lua Nova;MPB;179;20
+Deadlock;Os Compiladores;Rock;216;19
+Caminho de Volta;Clara Vereda;MPB;213;15
+Stream de Rimas;MC Lambda;Hip-hop;24;13
+Stream de Rimas;MC Lambda;Hip-hop;243;15
+Override;Quarteto Polimórfico;Jazz;5;15
+Segmentation Fault;Os Compiladores;Rock;240;16
+Rehash;Bianca Hash;Pop;314;6
+Guaíba ao Entardecer;Lua Nova;MPB;206;9
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Feedback;Ruído Branco;Rock;279;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;6
+Oscilador;Synth Lab;Eletrônica;25;22
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Pixel;Bits & Bytes;Eletrônica;281;14
+Kernel Panic;Os Compiladores;Rock;249;18
+Caso Base;Trio Recursivo;Samba;282;15
+Chimarrão;Lua Nova;MPB;179;3
+Oscilador;Synth Lab;Eletrônica;189;23
+Stream de Rimas;MC Lambda;Hip-hop;243;13
+Modulação;Synth Lab;Eletrônica;85;22
+Segmentation Fault;Os Compiladores;Rock;240;8
+Segmentation Fault;Os Compiladores;Rock;240;20
+Thread Pool;DJ Ponteiro;Eletrônica;174;15
+Filter Map Reduce;MC Lambda;Hip-hop;227;19
+Rehash;Bianca Hash;Pop;314;23
+Caminho de Volta;Clara Vereda;MPB;213;21
+Stream de Rimas;MC Lambda;Hip-hop;243;14
+Kernel Panic;Os Compiladores;Rock;249;13
+Feedback;Ruído Branco;Rock;279;16
+Deadlock;Os Compiladores;Rock;216;8
+Interface Azul;Quarteto Polimórfico;Jazz;313;1
+Caso Base;Trio Recursivo;Samba;282;9
+Fator de Carga;Bianca Hash;Pop;7;17
+Caminho de Volta;Clara Vereda;MPB;153;7
+Interface Azul;Quarteto Polimórfico;Jazz;313;12
+Varanda;Clara Vereda;MPB;163;6
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Segmentation Fault;Os Compiladores;Rock;240;16
+Próximo;Os Iteradores;Pop;303;18
+Stack Overflow;Os Compiladores;Rock;260;2
+Merge Conflict;Coletivo Compila;Hip-hop;199;15
+Stream de Rimas;MC Lambda;Hip-hop;243;18
+Feedback;Ruído Branco;Rock;279;20
+Próximo;Os Iteradores;Pop;303;21
+Ping Alto;Banda Larga;Rock;231;23
+Deadlock;Os Compiladores;Rock;216;20
+Feedback;Ruído Branco;Rock;279;22
+Segmentation Fault;Os Compiladores;Rock;240;9
+Kernel Panic;Os Compiladores;Rock;25;21
+Oscilador;Synth Lab;Eletrônica;18;0
+Próximo;Os Iteradores;Pop;303;18
+Segmentation Fault;Os Compiladores;Rock;240;22
+Chimarrão;Lua Nova;MPB;179;22
+Ping Alto;Banda Larga;Rock;25;19
+Segmentation Fault;Os Compiladores;Rock;240;22
+Build Quebrado;Coletivo Compila;Hip-hop;323;6
+Estática;Ruído Branco;Rock;17;17
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Caminho de Volta;Clara Vereda;MPB;213;10
+Segmentation Fault;Os Compiladores;Rock;240;6
+Rehash;Bianca Hash;Pop;314;19
+Sem Sinal;Banda Larga;Rock;28;17
+Ping Alto;Banda Larga;Rock;182;20
+Fibra Ótica;Banda Larga;Rock;302;20
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Estática;Ruído Branco;Rock;148;18
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Volta ao Início;Os Iteradores;Pop;258;20
+Céu de Porto Alegre;Lua Nova;MPB;194;12
+Kernel Panic;Os Compiladores;Rock;19;22
+Merge Conflict;Coletivo Compila;Hip-hop;199;9
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Fibra Ótica;Banda Larga;Rock;302;2
+Fibra Ótica;Banda Larga;Rock;302;18
+Segmentation Fault;Os Compiladores;Rock;97;11
+Expressão;MC Lambda;Hip-hop;241;2
+Chimarrão;Lua Nova;MPB;179;8
+Chimarrão;Lua Nova;MPB;133;21
+Estática;Ruído Branco;Rock;14;8
+Ping Alto;Banda Larga;Rock;231;13
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Segmentation Fault;Os Compiladores;Rock;240;9
+Expressão;MC Lambda;Hip-hop;247;12
+Estática;Ruído Branco;Rock;265;22
+Próximo;Os Iteradores;Pop;303;23
+Feedback;Ruído Branco;Rock;21;19
+Fibra Ótica;Banda Larga;Rock;10;19
+Fibra Ótica;Banda Larga;Rock;302;10
+Segmentation Fault;Os Compiladores;Rock;63;7
+Segmentation Fault;Os Compiladores;Rock;240;23
+hasNext;Os Iteradores;Pop;141;0
+Céu de Porto Alegre;Lua Nova;MPB;192;14
+Ping Alto;Banda Larga;Rock;12;8
+Fibra Ótica;Banda Larga;Rock;302;22
+Modulação;Synth Lab;Eletrônica;233;9
+Segmentation Fault;Os Compiladores;Rock;197;17
+Merge Conflict;Coletivo Compila;Hip-hop;11;7
+Ping Alto;Banda Larga;Rock;23;8
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Estática;Ruído Branco;Rock;10;22
+Cache Miss;DJ Ponteiro;Eletrônica;296;17
+Merge Conflict;Coletivo Compila;Hip-hop;134;9
+Próximo;Os Iteradores;Pop;303;22
+hasNext;Os Iteradores;Pop;150;22
+hasNext;Os Iteradores;Pop;150;21
+Maré Alta;Lua Nova;MPB;12;20
+Próximo;Os Iteradores;Pop;256;17
+Guaíba ao Entardecer;Lua Nova;MPB;6;22
+Caso Base;Trio Recursivo;Samba;282;8
+Segmentation Fault;Os Compiladores;Rock;18;23
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Estática;Ruído Branco;Rock;265;18
+Feedback;Ruído Branco;Rock;279;21
+Estática;Ruído Branco;Rock;19;19
+Interface Azul;Quarteto Polimórfico;Jazz;313;9
+Kernel Panic;Os Compiladores;Rock;249;12
+Stream de Rimas;MC Lambda;Hip-hop;243;20
+Pilha de Chamadas;Trio Recursivo;Samba;281;22
+Feedback;Ruído Branco;Rock;279;19
+Modulação;Synth Lab;Eletrônica;233;23
+Kernel Panic;Os Compiladores;Rock;249;13
+Ping Alto;Banda Larga;Rock;231;23
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Fibra Ótica;Banda Larga;Rock;302;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;0
+Volta pra Mim;Trio Recursivo;Samba;196;23
+Céu de Porto Alegre;Lua Nova;MPB;194;11
+Kernel Panic;Os Compiladores;Rock;207;7
+Kernel Panic;Os Compiladores;Rock;249;23
+Sobrecarga;Quarteto Polimórfico;Jazz;244;12
+Próximo;Os Iteradores;Pop;303;8
+Estática;Ruído Branco;Rock;265;22
+Ping Alto;Banda Larga;Rock;19;0
+Sobrecarga;Quarteto Polimórfico;Jazz;151;17
+Sem Sinal;Banda Larga;Rock;4;19
+Próximo;Os Iteradores;Pop;303;22
+Ping Alto;Banda Larga;Rock;231;7
+Modulação;Synth Lab;Eletrônica;149;23
+Bucket List;Bianca Hash;Pop;26;19
+Deadlock;Os Compiladores;Rock;216;2
+Estática;Ruído Branco;Rock;90;12
+Feedback;Ruído Branco;Rock;16;22
+Stream de Rimas;MC Lambda;Hip-hop;187;21
+Stack Overflow;Os Compiladores;Rock;90;12
+Fibra Ótica;Banda Larga;Rock;76;23
+Stack Overflow;Os Compiladores;Rock;260;12
+Caminho de Volta;Clara Vereda;MPB;47;21
+Segmentation Fault;Os Compiladores;Rock;7;20
+NullPointer;DJ Ponteiro;Eletrônica;225;13
+Segmentation Fault;Os Compiladores;Rock;240;17
+Próximo;Os Iteradores;Pop;303;6
+Chimarrão;Lua Nova;MPB;151;14
+Estática;Ruído Branco;Rock;265;17
+Stream de Rimas;MC Lambda;Hip-hop;243;22
+Fibra Ótica;Banda Larga;Rock;302;6
+Chimarrão;Lua Nova;MPB;179;23
+Kernel Panic;Os Compiladores;Rock;249;15
+Guaíba ao Entardecer;Lua Nova;MPB;21;22
+Cuíca;Escola do Morro;Samba;214;11
+Fibra Ótica;Banda Larga;Rock;302;13
+Guaíba ao Entardecer;Lua Nova;MPB;206;11
+Feedback;Ruído Branco;Rock;279;23
+Oscilador;Synth Lab;Eletrônica;189;20
+Expressão;MC Lambda;Hip-hop;247;15
+Sem Sinal;Banda Larga;Rock;287;12
+Feedback;Ruído Branco;Rock;279;10
+Feedback;Ruído Branco;Rock;279;12
+Oscilador;Synth Lab;Eletrônica;189;7
+Segmentation Fault;Os Compiladores;Rock;240;13
+Céu de Porto Alegre;Lua Nova;MPB;194;11
+Deadlock;Os Compiladores;Rock;216;22
+Rehash;Bianca Hash;Pop;314;12
+Volta ao Início;Os Iteradores;Pop;258;23
+Fibra Ótica;Banda Larga;Rock;250;20
+Maré Alta;Lua Nova;MPB;174;21
+Oscilador;Synth Lab;Eletrônica;189;9
+Segmentation Fault;Os Compiladores;Rock;240;2
+Céu de Porto Alegre;Lua Nova;MPB;194;5
+Fibra Ótica;Banda Larga;Rock;50;16
+Stack Overflow;Os Compiladores;Rock;260;8
+Segmentation Fault;Os Compiladores;Rock;240;9
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Feedback;Ruído Branco;Rock;257;10
+Sem Sinal;Banda Larga;Rock;287;17
+Fibra Ótica;Banda Larga;Rock;302;21
+Caso Base;Trio Recursivo;Samba;282;15
+Feedback;Ruído Branco;Rock;279;21
+Estática;Ruído Branco;Rock;265;12
+Ping Alto;Banda Larga;Rock;79;23
+Chimarrão;Lua Nova;MPB;179;14
+Stack Overflow;Os Compiladores;Rock;208;12
+Kernel Panic;Os Compiladores;Rock;249;12
+Deadlock;Os Compiladores;Rock;216;23
+Fibra Ótica;Banda Larga;Rock;302;22
+Rehash;Bianca Hash;Pop;314;21
+Herança;Duo Abstrato;Jazz;198;13
+Pixel;Bits & Bytes;Eletrônica;281;21
+Oscilador;Synth Lab;Eletrônica;189;19
+Rehash;Bianca Hash;Pop;255;21
+Caso Base;Trio Recursivo;Samba;282;3
+Segmentation Fault;Os Compiladores;Rock;240;19
+Chimarrão;Lua Nova;MPB;179;12
+Bucket List;Bianca Hash;Pop;239;20
+Caso Base;Trio Recursivo;Samba;282;9
+Próximo;Os Iteradores;Pop;303;12
+Varanda;Clara Vereda;MPB;163;20
+Fibra Ótica;Banda Larga;Rock;302;10
+Rehash;Bianca Hash;Pop;43;21
+Ping Alto;Banda Larga;Rock;19;23
+Fibra Ótica;Banda Larga;Rock;302;9
+Merge Conflict;Coletivo Compila;Hip-hop;199;20
+Maré Alta;Lua Nova;MPB;174;19
+Guaíba ao Entardecer;Lua Nova;MPB;206;1
+Chimarrão;Lua Nova;MPB;179;22
+Sem Sinal;Banda Larga;Rock;287;22
+Ping Alto;Banda Larga;Rock;29;8
+Estática;Ruído Branco;Rock;265;19
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Deadlock;Os Compiladores;Rock;85;11
+Ping Alto;Banda Larga;Rock;231;15
+Caso Base;Trio Recursivo;Samba;282;7
+Modulação;Synth Lab;Eletrônica;233;10
+Sem Sinal;Banda Larga;Rock;3;12
+Céu de Porto Alegre;Lua Nova;MPB;132;11
+Caso Base;Trio Recursivo;Samba;282;0
+Caminho de Volta;Clara Vereda;MPB;189;21
+Herança;Duo Abstrato;Jazz;198;14
+Fibra Ótica;Banda Larga;Rock;84;17
+Segmentation Fault;Os Compiladores;Rock;188;21
+Kernel Panic;Os Compiladores;Rock;249;19
+Caso Base;Trio Recursivo;Samba;282;9
+Segmentation Fault;Os Compiladores;Rock;240;1
+Ping Alto;Banda Larga;Rock;231;17
+Feedback;Ruído Branco;Rock;279;20
+Estática;Ruído Branco;Rock;39;9
+Fibra Ótica;Banda Larga;Rock;134;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;0
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Maré Alta;Lua Nova;MPB;174;10
+Caminho de Volta;Clara Vereda;MPB;213;21
+Chimarrão;Lua Nova;MPB;179;6
+Próximo;Os Iteradores;Pop;303;21
+Pilha de Chamadas;Trio Recursivo;Samba;281;10
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Feedback;Ruído Branco;Rock;279;11
+Kernel Panic;Os Compiladores;Rock;99;20
+Próximo;Os Iteradores;Pop;267;13
+Próximo;Os Iteradores;Pop;303;23
+Maré Alta;Lua Nova;MPB;174;23
+Build Quebrado;Coletivo Compila;Hip-hop;323;13
+Bucket List;Bianca Hash;Pop;239;23
+Caso Base;Trio Recursivo;Samba;282;15
+Pilha de Chamadas;Trio Recursivo;Samba;281;22
+Overclock;Bits & Bytes;Eletrônica;311;17
+Guaíba ao Entardecer;Lua Nova;MPB;196;2
+Fibra Ótica;Banda Larga;Rock;302;12
+Feedback;Ruído Branco;Rock;4;5
+Deadlock;Os Compiladores;Rock;30;9
+Override;Quarteto Polimórfico;Jazz;177;1
+Ipê Amarelo;Clara Vereda;MPB;162;16
+Fibra Ótica;Banda Larga;Rock;302;9
+Ping Alto;Banda Larga;Rock;185;15
+Guaíba ao Entardecer;Lua Nova;MPB;206;22
+Kernel Panic;Os Compiladores;Rock;102;20
+Segmentation Fault;Os Compiladores;Rock;240;20
+Céu de Porto Alegre;Lua Nova;MPB;154;23
+Stack Overflow;Os Compiladores;Rock;26;9
+Deadlock;Os Compiladores;Rock;216;23
+Merge Conflict;Coletivo Compila;Hip-hop;199;12
+Varanda;Clara Vereda;MPB;163;15
+Oscilador;Synth Lab;Eletrônica;189;22
+Segmentation Fault;Os Compiladores;Rock;240;7
+Segmentation Fault;Os Compiladores;Rock;240;3
+Stack Overflow;Os Compiladores;Rock;260;22
+Stream de Rimas;MC Lambda;Hip-hop;243;11
+Guaíba ao Entardecer;Lua Nova;MPB;206;19
+Volta ao Início;Os Iteradores;Pop;258;14
+Kernel Panic;Os Compiladores;Rock;17;19
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Ping Alto;Banda Larga;Rock;39;23
+Feedback;Ruído Branco;Rock;279;11
+Ping Alto;Banda Larga;Rock;231;15
+Rehash;Bianca Hash;Pop;314;0
+Rehash;Bianca Hash;Pop;314;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;11
+Caso Base;Trio Recursivo;Samba;207;9
+Kernel Panic;Os Compiladores;Rock;249;19
+Loop Infinito;Os Compiladores;Rock;23;20
+Stack Overflow;Os Compiladores;Rock;260;21
+Expressão;MC Lambda;Hip-hop;247;20
+Fibra Ótica;Banda Larga;Rock;150;9
+Chimarrão;Lua Nova;MPB;179;14
+Ping Alto;Banda Larga;Rock;231;17
+Sem Sinal;Banda Larga;Rock;287;8
+Segmentation Fault;Os Compiladores;Rock;240;21
+Deadlock;Os Compiladores;Rock;216;12
+Próximo;Os Iteradores;Pop;303;21
+Volta ao Início;Os Iteradores;Pop;18;12
+Kernel Panic;Os Compiladores;Rock;249;23
+Segmentation Fault;Os Compiladores;Rock;240;9
+Céu de Porto Alegre;Lua Nova;MPB;194;20
+Fibra Ótica;Banda Larga;Rock;302;19
+Caso Base;Trio Recursivo;Samba;282;21
+Pixel;Bits & Bytes;Eletrônica;281;9
+Cuíca;Escola do Morro;Samba;221;15
+Fibra Ótica;Banda Larga;Rock;302;21
+Próximo;Os Iteradores;Pop;303;21
+Pixel;Bits & Bytes;Eletrônica;281;7
+Céu de Porto Alegre;Lua Nova;MPB;194;7
+Oscilador;Synth Lab;Eletrônica;189;18
+Stack Overflow;Os Compiladores;Rock;260;3
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Feedback;Ruído Branco;Rock;279;16
+Ping Alto;Banda Larga;Rock;13;20
+Rehash;Bianca Hash;Pop;199;14
+Chimarrão;Lua Nova;MPB;179;22
+Cuíca;Escola do Morro;Samba;221;9
+Maré Alta;Lua Nova;MPB;174;10
+Chimarrão;Lua Nova;MPB;179;14
+Fibra Ótica;Banda Larga;Rock;302;20
+Segmentation Fault;Os Compiladores;Rock;240;16
+Estática;Ruído Branco;Rock;22;22
+Chimarrão;Lua Nova;MPB;179;19
+Segmentation Fault;Os Compiladores;Rock;240;9
+Estática;Ruído Branco;Rock;265;21
+Chimarrão;Lua Nova;MPB;179;13
+Fibra Ótica;Banda Larga;Rock;302;19
+Fibra Ótica;Banda Larga;Rock;302;8
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Caminho de Volta;Clara Vereda;MPB;17;4
+Build Quebrado;Coletivo Compila;Hip-hop;323;22
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Fibra Ótica;Banda Larga;Rock;302;9
+Estática;Ruído Branco;Rock;265;22
+Kernel Panic;Os Compiladores;Rock;249;7
+Segmentation Fault;Os Compiladores;Rock;240;19
+Guaíba ao Entardecer;Lua Nova;MPB;109;23
+Fibra Ótica;Banda Larga;Rock;302;7
+Kernel Panic;Os Compiladores;Rock;249;19
+Oscilador;Synth Lab;Eletrônica;189;17
+Feedback;Ruído Branco;Rock;279;17
+Herança;Duo Abstrato;Jazz;198;12
+Maré Alta;Lua Nova;MPB;174;1
+hasNext;Os Iteradores;Pop;59;0
+Segmentation Fault;Os Compiladores;Rock;36;22
+Loop Infinito;Os Compiladores;Rock;5;22
+Feedback;Ruído Branco;Rock;279;7
+Caso Base;Trio Recursivo;Samba;282;8
+Próximo;Os Iteradores;Pop;303;18
+Stream de Rimas;MC Lambda;Hip-hop;90;10
+Céu de Porto Alegre;Lua Nova;MPB;194;22
+Sobrecarga;Quarteto Polimórfico;Jazz;136;9
+Stack Overflow;Os Compiladores;Rock;21;23
+Feedback;Ruído Branco;Rock;279;22
+Override;Quarteto Polimórfico;Jazz;177;23
+Kernel Panic;Os Compiladores;Rock;249;22
+Próximo;Os Iteradores;Pop;303;23
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Guaíba ao Entardecer;Lua Nova;MPB;206;10
+Volta ao Início;Os Iteradores;Pop;258;17
+Overclock;Bits & Bytes;Eletrônica;28;23
+Varanda;Clara Vereda;MPB;163;7
+Cuíca;Escola do Morro;Samba;19;23
+Estática;Ruído Branco;Rock;21;18
+Fibra Ótica;Banda Larga;Rock;302;21
+Maré Alta;Lua Nova;MPB;174;13
+Feedback;Ruído Branco;Rock;25;9
+Ping Alto;Banda Larga;Rock;18;18
+Caminho de Volta;Clara Vereda;MPB;213;13
+Merge Conflict;Coletivo Compila;Hip-hop;199;1
+Ping Alto;Banda Larga;Rock;6;14
+Fibra Ótica;Banda Larga;Rock;302;6
+Stack Overflow;Os Compiladores;Rock;18;19
+Fibra Ótica;Banda Larga;Rock;302;21
+Herança;Duo Abstrato;Jazz;198;7
+Thread Pool;DJ Ponteiro;Eletrônica;10;20
+Ping Alto;Banda Larga;Rock;231;10
+Varanda;Clara Vereda;MPB;163;22
+Modulação;Synth Lab;Eletrônica;233;23
+Rehash;Bianca Hash;Pop;314;16
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Pilha de Chamadas;Trio Recursivo;Samba;281;15
+Rehash;Bianca Hash;Pop;314;9
+Rehash;Bianca Hash;Pop;314;23
+Rehash;Bianca Hash;Pop;314;9
+NullPointer;DJ Ponteiro;Eletrônica;225;11
+Oscilador;Synth Lab;Eletrônica;189;8
+Rehash;Bianca Hash;Pop;314;21
+Ping Alto;Banda Larga;Rock;9;12
+Oscilador;Synth Lab;Eletrônica;180;23
+Merge Conflict;Coletivo Compila;Hip-hop;7;9
+Volta ao Início;Os Iteradores;Pop;258;21
+Stream de Rimas;MC Lambda;Hip-hop;243;19
+Estática;Ruído Branco;Rock;8;18
+NullPointer;DJ Ponteiro;Eletrônica;166;12
+Deadlock;Os Compiladores;Rock;216;23
+Fibra Ótica;Banda Larga;Rock;77;21
+Kernel Panic;Os Compiladores;Rock;111;18
+Kernel Panic;Os Compiladores;Rock;207;18
+Pilha de Chamadas;Trio Recursivo;Samba;281;23
+Próximo;Os Iteradores;Pop;303;19
+Caso Base;Trio Recursivo;Samba;282;8
+Ping Alto;Banda Larga;Rock;15;21
+Céu de Porto Alegre;Lua Nova;MPB;194;23
+Fibra Ótica;Banda Larga;Rock;302;20
+Feedback;Ruído Branco;Rock;9;22
+Fibra Ótica;Banda Larga;Rock;302;0
+Ping Alto;Banda Larga;Rock;17;1
+Segmentation Fault;Os Compiladores;Rock;20;18
+Próximo;Os Iteradores;Pop;303;16
+Oscilador;Synth Lab;Eletrônica;189;16
+Segmentation Fault;Os Compiladores;Rock;154;15
+Feedback;Ruído Branco;Rock;279;0
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Ping Alto;Banda Larga;Rock;27;22
+Merge Conflict;Coletivo Compila;Hip-hop;6;21
+Ping Alto;Banda Larga;Rock;231;14
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Fibra Ótica;Banda Larga;Rock;24;22
+Stack Overflow;Os Compiladores;Rock;260;19
+Segmentation Fault;Os Compiladores;Rock;240;22
+Fibra Ótica;Banda Larga;Rock;302;17
+Estática;Ruído Branco;Rock;265;23
+Caso Base;Trio Recursivo;Samba;282;15
+hasNext;Os Iteradores;Pop;150;18
+Rehash;Bianca Hash;Pop;177;23
+Chimarrão;Lua Nova;MPB;179;19
+Pixel;Bits & Bytes;Eletrônica;6;13
+Rehash;Bianca Hash;Pop;314;11
+Stack Overflow;Os Compiladores;Rock;260;15
+Segmentation Fault;Os Compiladores;Rock;156;14
+Feedback;Ruído Branco;Rock;279;18
+hasNext;Os Iteradores;Pop;150;22
+Pilha de Chamadas;Trio Recursivo;Samba;281;17
+NullPointer;DJ Ponteiro;Eletrônica;225;12
+Stream de Rimas;MC Lambda;Hip-hop;243;9
+Stream de Rimas;MC Lambda;Hip-hop;243;12
+Caso Base;Trio Recursivo;Samba;282;21
+Fibra Ótica;Banda Larga;Rock;302;17
+Segmentation Fault;Os Compiladores;Rock;240;8
+Deadlock;Os Compiladores;Rock;216;20
+Segmentation Fault;Os Compiladores;Rock;240;13
+Chimarrão;Lua Nova;MPB;179;22
+Herança;Duo Abstrato;Jazz;198;9
+Estática;Ruído Branco;Rock;14;10
+Modulação;Synth Lab;Eletrônica;233;19
+Caso Base;Trio Recursivo;Samba;282;8
+Kernel Panic;Os Compiladores;Rock;249;23
+Stack Overflow;Os Compiladores;Rock;23;18
+Feedback;Ruído Branco;Rock;279;22
+Fibra Ótica;Banda Larga;Rock;302;7
+Segmentation Fault;Os Compiladores;Rock;240;21
+Próximo;Os Iteradores;Pop;303;0
+Merge Conflict;Coletivo Compila;Hip-hop;199;17
+Fibra Ótica;Banda Larga;Rock;302;20
+Maré Alta;Lua Nova;MPB;174;19
+Ping Alto;Banda Larga;Rock;22;18
+Segmentation Fault;Os Compiladores;Rock;240;14
+Estática;Ruído Branco;Rock;23;19
+Herança;Duo Abstrato;Jazz;198;13
+Céu de Porto Alegre;Lua Nova;MPB;194;9
+Caso Base;Trio Recursivo;Samba;282;8
+Estática;Ruído Branco;Rock;265;12
+Merge Conflict;Coletivo Compila;Hip-hop;70;22
+Fibra Ótica;Banda Larga;Rock;302;11
+Estática;Ruído Branco;Rock;265;16
+Volta ao Início;Os Iteradores;Pop;258;18
+Deadlock;Os Compiladores;Rock;216;9
+Oscilador;Synth Lab;Eletrônica;189;14
+Fibra Ótica;Banda Larga;Rock;302;22
+Kernel Panic;Os Compiladores;Rock;249;22
+Herança;Duo Abstrato;Jazz;198;12
+Varanda;Clara Vereda;MPB;163;23
+Chimarrão;Lua Nova;MPB;15;21
+Caso Base;Trio Recursivo;Samba;282;1
+Céu de Porto Alegre;Lua Nova;MPB;194;17
+Feedback;Ruído Branco;Rock;279;18
+Stack Overflow;Os Compiladores;Rock;60;8
+Segmentation Fault;Os Compiladores;Rock;240;12
+Fibra Ótica;Banda Larga;Rock;302;20
+Stream de Rimas;MC Lambda;Hip-hop;243;21
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Segmentation Fault;Os Compiladores;Rock;200;1
+Estática;Ruído Branco;Rock;265;20
+Merge Conflict;Coletivo Compila;Hip-hop;199;1
+Próximo;Os Iteradores;Pop;303;10
+Ping Alto;Banda Larga;Rock;231;18
+Caso Base;Trio Recursivo;Samba;282;18
+Guaíba ao Entardecer;Lua Nova;MPB;6;23
+Stack Overflow;Os Compiladores;Rock;17;6
+Céu de Porto Alegre;Lua Nova;MPB;194;2
+Sem Sinal;Banda Larga;Rock;287;0
+Cache Miss;DJ Ponteiro;Eletrônica;296;19
+Segmentation Fault;Os Compiladores;Rock;240;20
+Fator de Carga;Bianca Hash;Pop;312;19
+Segmentation Fault;Os Compiladores;Rock;240;10
+Ping Alto;Banda Larga;Rock;231;13
+Fibra Ótica;Banda Larga;Rock;132;14
+Caminho de Volta;Clara Vereda;MPB;81;23
+Interface Azul;Quarteto Polimórfico;Jazz;313;7
+Fibra Ótica;Banda Larga;Rock;302;20
+Kernel Panic;Os Compiladores;Rock;247;8
+Interface Azul;Quarteto Polimórfico;Jazz;313;19
+Próximo;Os Iteradores;Pop;292;19
+Céu de Porto Alegre;Lua Nova;MPB;194;21
+Modulação;Synth Lab;Eletrônica;178;17
+Estática;Ruído Branco;Rock;7;17
+Ping Alto;Banda Larga;Rock;11;20
+Stream de Rimas;MC Lambda;Hip-hop;243;8
+Fibra Ótica;Banda Larga;Rock;302;12
+Kernel Panic;Os Compiladores;Rock;249;20
+Oscilador;Synth Lab;Eletrônica;131;6
+Ping Alto;Banda Larga;Rock;12;9
+Cuíca;Escola do Morro;Samba;74;13
+Rehash;Bianca Hash;Pop;314;7
+Oscilador;Synth Lab;Eletrônica;23;19
+Céu de Porto Alegre;Lua Nova;MPB;194;13
+Merge Conflict;Coletivo Compila;Hip-hop;199;21
+Ping Alto;Banda Larga;Rock;9;16
+Estática;Ruído Branco;Rock;265;0
+Oscilador;Synth Lab;Eletrônica;42;12
+Stack Overflow;Os Compiladores;Rock;5;22
+Segmentation Fault;Os Compiladores;Rock;240;23
+Segmentation Fault;Os Compiladores;Rock;240;21
+Herança;Duo Abstrato;Jazz;198;22
+Rehash;Bianca Hash;Pop;314;17
+Filter Map Reduce;MC Lambda;Hip-hop;227;8
+Fator de Carga;Bianca Hash;Pop;3;11
+Estática;Ruído Branco;Rock;26;23
+Ping Alto;Banda Larga;Rock;6;17
+Céu de Porto Alegre;Lua Nova;MPB;194;16
+Maré Alta;Lua Nova;MPB;24;8
+Merge Conflict;Coletivo Compila;Hip-hop;199;9
+Stream de Rimas;MC Lambda;Hip-hop;243;23
+Feedback;Ruído Branco;Rock;279;2
+Oscilador;Synth Lab;Eletrônica;178;22
+Ping Alto;Banda Larga;Rock;20;17
+Próximo;Os Iteradores;Pop;303;19
+Céu de Porto Alegre;Lua Nova;MPB;194;14
+Stack Overflow;Os Compiladores;Rock;260;18
+Rehash;Bianca Hash;Pop;314;9
+Caso Base;Trio Recursivo;Samba;282;0
+Guaíba ao Entardecer;Lua Nova;MPB;206;2
+Maré Alta;Lua Nova;MPB;152;19
+Segmentation Fault;Os Compiladores;Rock;240;7
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Segmentation Fault;Os Compiladores;Rock;240;23
+Kernel Panic;Os Compiladores;Rock;249;2
+Pixel;Bits & Bytes;Eletrônica;281;18
+Ping Alto;Banda Larga;Rock;8;11
+Kernel Panic;Os Compiladores;Rock;249;21
+Próximo;Os Iteradores;Pop;303;7
+Fibra Ótica;Banda Larga;Rock;302;10
+Kernel Panic;Os Compiladores;Rock;249;13
+Feedback;Ruído Branco;Rock;279;9
+Segmentation Fault;Os Compiladores;Rock;240;18
+Stream de Rimas;MC Lambda;Hip-hop;243;1
+Chimarrão;Lua Nova;MPB;179;19
+Deadlock;Os Compiladores;Rock;167;19
+Segmentation Fault;Os Compiladores;Rock;240;16
+Pixel;Bits & Bytes;Eletrônica;133;0
+Ping Alto;Banda Larga;Rock;231;22
+Segmentation Fault;Os Compiladores;Rock;240;8
+Oscilador;Synth Lab;Eletrônica;189;23
+Maré Alta;Lua Nova;MPB;174;12
+NullPointer;DJ Ponteiro;Eletrônica;56;21
+Oscilador;Synth Lab;Eletrônica;189;10
+Deadlock;Os Compiladores;Rock;216;22
+Feedback;Ruído Branco;Rock;279;19
+Oscilador;Synth Lab;Eletrônica;189;20
+Sobrecarga;Quarteto Polimórfico;Jazz;244;18
+Ping Alto;Banda Larga;Rock;231;18
+Guaíba ao Entardecer;Lua Nova;MPB;206;12
+Guaíba ao Entardecer;Lua Nova;MPB;206;21
+Expressão;MC Lambda;Hip-hop;247;13
+Rehash;Bianca Hash;Pop;81;8
+Feedback;Ruído Branco;Rock;279;19
+Caso Base;Trio Recursivo;Samba;282;17
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Maré Alta;Lua Nova;MPB;27;7
+Deadlock;Os Compiladores;Rock;216;21
+Feedback;Ruído Branco;Rock;279;14
+Modulação;Synth Lab;Eletrônica;233;9
+Maré Alta;Lua Nova;MPB;21;16
+Fibra Ótica;Banda Larga;Rock;302;18
+Loop Infinito;Os Compiladores;Rock;29;6
+Rehash;Bianca Hash;Pop;169;13
+Ping Alto;Banda Larga;Rock;231;8
+Modulação;Synth Lab;Eletrônica;233;18
+Pixel;Bits & Bytes;Eletrônica;281;16
+Ping Alto;Banda Larga;Rock;231;19
+Stack Overflow;Os Compiladores;Rock;260;18
+Kernel Panic;Os Compiladores;Rock;249;7
+Sem Sinal;Banda Larga;Rock;287;21
+Segmentation Fault;Os Compiladores;Rock;240;16
+Ping Alto;Banda Larga;Rock;18;8
+Feedback;Ruído Branco;Rock;279;7
+Sem Sinal;Banda Larga;Rock;287;23
+Deadlock;Os Compiladores;Rock;216;2
+Feedback;Ruído Branco;Rock;279;20
+Sem Sinal;Banda Larga;Rock;287;23
+Modulação;Synth Lab;Eletrônica;233;7
+Modulação;Synth Lab;Eletrônica;233;20
+Feedback;Ruído Branco;Rock;279;18
+Sem Sinal;Banda Larga;Rock;287;21
+Herança;Duo Abstrato;Jazz;198;2
+Pixel;Bits & Bytes;Eletrônica;281;23
+Build Quebrado;Coletivo Compila;Hip-hop;323;1
+Caso Base;Trio Recursivo;Samba;282;21
+Stream de Rimas;MC Lambda;Hip-hop;243;8
+hasNext;Os Iteradores;Pop;150;21
+Segmentation Fault;Os Compiladores;Rock;240;11
+Kernel Panic;Os Compiladores;Rock;249;20
+Stream de Rimas;MC Lambda;Hip-hop;58;5
+Pixel;Bits & Bytes;Eletrônica;281;15
+NullPointer;DJ Ponteiro;Eletrônica;225;22
+Céu de Porto Alegre;Lua Nova;MPB;194;10
+Herança;Duo Abstrato;Jazz;198;22
+Bucket List;Bianca Hash;Pop;24;15
+Próximo;Os Iteradores;Pop;303;10
+Guaíba ao Entardecer;Lua Nova;MPB;206;20
+Stream de Rimas;MC Lambda;Hip-hop;243;7
+Deadlock;Os Compiladores;Rock;25;8
+Cuíca;Escola do Morro;Samba;149;13
+Guaíba ao Entardecer;Lua Nova;MPB;119;14
+Ping Alto;Banda Larga;Rock;25;19
+Estática;Ruído Branco;Rock;22;21
+Stack Overflow;Os Compiladores;Rock;260;22
+Ping Alto;Banda Larga;Rock;16;21
+NullPointer;DJ Ponteiro;Eletrônica;225;23
+Guaíba ao Entardecer;Lua Nova;MPB;206;13
+Segmentation Fault;Os Compiladores;Rock;240;14
+Ping Alto;Banda Larga;Rock;23;16
+Fibra Ótica;Banda Larga;Rock;302;9
+Stream de Rimas;MC Lambda;Hip-hop;243;9
+Próximo;Os Iteradores;Pop;303;18
+Estática;Ruído Branco;Rock;265;20
+Deadlock;Os Compiladores;Rock;216;17
+Feedback;Ruído Branco;Rock;279;20
+Ping Alto;Banda Larga;Rock;24;8
+Maré Alta;Lua Nova;MPB;174;0
+Deadlock;Os Compiladores;Rock;4;16
+Rehash;Bianca Hash;Pop;314;16
+Deadlock;Os Compiladores;Rock;44;18
+Interface Azul;Quarteto Polimórfico;Jazz;29;20
+Kernel Panic;Os Compiladores;Rock;239;23
+Stack Overflow;Os Compiladores;Rock;260;11
+Stack Overflow;Os Compiladores;Rock;260;23
+Volta ao Início;Os Iteradores;Pop;258;19
+Varanda;Clara Vereda;MPB;163;12
+Oscilador;Synth Lab;Eletrônica;189;8
+Cache Miss;DJ Ponteiro;Eletrônica;296;22
+Segmentation Fault;Os Compiladores;Rock;240;6
+Segmentation Fault;Os Compiladores;Rock;240;20
+Fibra Ótica;Banda Larga;Rock;17;22
+Stack Overflow;Os Compiladores;Rock;260;21
+Cache Miss;DJ Ponteiro;Eletrônica;296;19
+Chimarrão;Lua Nova;MPB;179;14
+Feedback;Ruído Branco;Rock;279;12
+Segmentation Fault;Os Compiladores;Rock;240;14
+Guaíba ao Entardecer;Lua Nova;MPB;206;8
+Merge Conflict;Coletivo Compila;Hip-hop;199;23
+Céu de Porto Alegre;Lua Nova;MPB;194;14
+Segmentation Fault;Os Compiladores;Rock;240;0
+Kernel Panic;Os Compiladores;Rock;249;1
+Rehash;Bianca Hash;Pop;314;21
+Chimarrão;Lua Nova;MPB;64;9
+Segmentation Fault;Os Compiladores;Rock;240;15
+Segmentation Fault;Os Compiladores;Rock;18;15
+Modulação;Synth Lab;Eletrônica;233;15
+Interface Azul;Quarteto Polimórfico;Jazz;313;20
+Kernel Panic;Os Compiladores;Rock;249;22
+Céu de Porto Alegre;Lua Nova;MPB;68;16
+Merge Conflict;Coletivo Compila;Hip-hop;28;19
+Fibra Ótica;Banda Larga;Rock;302;8
+Feedback;Ruído Branco;Rock;205;2

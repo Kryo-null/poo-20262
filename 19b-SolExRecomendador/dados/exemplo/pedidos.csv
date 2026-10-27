@@ -1,0 +1,11 @@
+# numero;cliente;codigos (separados por vírgula)
+1001;Ana;P01,P02,P07
+1002;Bruno;P01,P03
+1003;Carla;P04,P08,P10
+1004;Ana;P03
+1005;Diego;P01,P02,P03,P07
+1006;Elisa;P04,P10
+1007;Felipe;P02,P07,P09
+1008;Bruno;P02,P02
+1009;Carla;P05
+1010;Diego;P09

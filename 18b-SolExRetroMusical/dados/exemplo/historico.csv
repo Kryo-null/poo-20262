@@ -1,0 +1,25 @@
+# musica;artista;genero;segundos;hora
+Segmentation Fault;Os Compiladores;Rock;215;8
+Maré Alta;Lua Nova;MPB;240;8
+Bucket List;Bianca Hash;Pop;12;9
+NullPointer;DJ Ponteiro;Eletrônica;310;10
+Segmentation Fault;Os Compiladores;Rock;215;10
+Colisão;Bianca Hash;Pop;198;13
+Loop Infinito;Os Compiladores;Rock;260;13
+Céu de Porto Alegre;Lua Nova;MPB;232;14
+Bucket List;Bianca Hash;Pop;8;14
+Garbage Collector;DJ Ponteiro;Eletrônica;295;18
+NullPointer;DJ Ponteiro;Eletrônica;310;18
+Segmentation Fault;Os Compiladores;Rock;215;18
+Caso Base;Trio Recursivo;Samba;187;19
+Loop Infinito;Os Compiladores;Rock;260;19
+Maré Alta;Lua Nova;MPB;240;19
+Colisão;Bianca Hash;Pop;198;22
+Segmentation Fault;Os Compiladores;Rock;215;22
+NullPointer;DJ Ponteiro;Eletrônica;25;22
+Caso Base;Trio Recursivo;Samba;187;22
+Garbage Collector;DJ Ponteiro;Eletrônica;295;23
+Loop Infinito;Os Compiladores;Rock;260;23
+Céu de Porto Alegre;Lua Nova;MPB;232;23
+Segmentation Fault;Os Compiladores;Rock;215;1
+Bucket List;Bianca Hash;Pop;15;1
