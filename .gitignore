@@ -47,6 +47,7 @@ release.properties
 
 # Vaadin
 node_modules/
+frontend/
 frontend/generated/
 src/main/frontend/generated/
 src/main/bundles/
